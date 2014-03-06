@@ -1,0 +1,33 @@
+SELECT
+squirrel_hosttax.HostCorrectedName,
+squirrel_parasitetax.ParasiteCorrectedName,
+squirrel_locations.LocationName, 
+squirrel_locations.LongitudeDecimal, 
+squirrel_locations.LatitudeDecimal,
+squirrel_locations.Accuracy, 
+squirrel_locations.Extent_km2, 
+squirrel_parasitedata.ParasiteType,
+squirrel_parasitedata.CloseT,
+squirrel_parasitedata.Sexual,
+squirrel_parasitedata.Vertical,
+squirrel_parasitedata.Nonclose,
+squirrel_parasitedata.Vector,
+squirrel_parasitedata.Intermediate
+FROM
+squirrel_main,
+squirrel_hosttax,
+squirrel_parasitetax,
+squirrel_parasitedata,
+squirrel_locations
+WHERE
+squirrel_hosttax.HostReportedName = squirrel_main.HostReportedName
+AND
+squirrel_parasitetax.ParasiteReportedName = squirrel_main.ParasiteReportedName
+AND
+squirrel_locations.LocationName = squirrel_main.LocationName
+AND
+squirrel_parasitetax.ParasiteCorrectedName = squirrel_parasitedata.ParasiteCorrectedName
+AND
+squirrel_main.Status = "rechecked"
+AND
+(squirrel_main.TotalPrevalence != 0 OR squirrel_main.TotalPrevalence IS NULL);
