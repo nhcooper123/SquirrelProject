@@ -1,0 +1,1 @@
+ds<-read.delim("Squirrel")
