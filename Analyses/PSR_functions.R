@@ -40,19 +40,40 @@ count.parasites <- function(x) {
   sum(ans)
 }
 
-#PSR for all host species in a dataset
-PSR.all <- function(data, parasite.col, host.col) {
-  aggregate(data[[parasite.col]] ~ data[[host.col]], data, count.parasites)
-}
-
 #Ouput for PSR calculations
-PSR.output <- function(output, subset.name=NULL) {
+psr.output <- function(output, subset.name=NULL) {
   names(output) <- c("host", paste("PSR", subset.name, sep = ""))
   return(output)
 }
 
+#PSR for all host species in a dataset
+psr.all <- function(data, parasite.col, host.col) {
+  ans <- aggregate(data[[parasite.col]] ~ data[[host.col]], data, count.parasites)
+  psr.output(ans)
+}
+
+#PSR for subsets. Produces a big dataframe with results for each subset
+#NA where there are no parasites of the subtype available
+
+psr.subset <- function(data, parasite.col, host.col, subset.col) {
+  result <- data.frame(host=NA) 
+  
+  for(i in seq_along(unique(data[[subset.col]]))) {
+    data.subset <- get.subset(data, subset.col, i)
+    ans <- psr.all(data.subset, parasite.col, host.col)
+    ans <- psr.output(ans, subset.name=unique(data[[subset.col]])[i])
+
+    result <- merge(ans, result, by = "host", all.x = TRUE, all.y = TRUE)
+  }
+  result <- result[!is.na(result$host),]
+  return(result)
+}
+
 #Overall PSR function
-PSR <- function(data, parasite.col, host.col, subset.name=NULL) {
-  psr <- PSR.all(data, parasite.col, host.col)
-  PSR.output(psr, subset.name)
+psr <- function(data, parasite.col, host.col, subset.col=NULL) {
+  if(is.null(subset.col)) {
+    psr.all(data, parasite.col, host.col)
+  } else {
+    psr.subset(data, parasite.col, host.col, subset.col)
+  }
 }
