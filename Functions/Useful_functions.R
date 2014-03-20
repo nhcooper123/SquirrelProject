@@ -24,6 +24,12 @@ remove.incomplete.data <- function(data, variable.col.list) {
   return(data)
 }
 
+#Replace spaces in speciesnames with _
+replace.spaces <- function(data, speciesnames.col) {
+  data[[speciesnames.col]] <- gsub(" ", "_", data[[speciesnames.col]])
+  return(data)
+}
+
 #ID species in tree that are not in the data
 id.missing.tree <- function(phy, data, speciesnames.col) {
   setdiff(phy$tip.label, data[,speciesnames.col])
@@ -39,8 +45,6 @@ remove.missing.species.tree <- function(phy, data, speciesnames.col) {
   tree.not.data <- id.missing.tree(phy, data, speciesnames.col)
   if(length(tree.not.data)>0) {
     phy <- drop.tip(phy, tree.not.data)
-  } else {
-    phy <- phy
   }
   return(phy)
 }
@@ -51,8 +55,6 @@ remove.missing.species.data <- function(phy, data, speciesnames.col) {
   if(length(data.not.tree)>0) {
     matches <- match(data[,speciesnames.col], data.not.tree)
     data <- subset(data, matches!=0)
-  } else {
-    data <- data
   }
   return(data)
 }
