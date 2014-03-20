@@ -1,0 +1,10 @@
+SELECT
+squirrel_hosttax.HostCorrectedName,
+squirrel_main.HostReportedName
+FROM
+squirrel_main,
+squirrel_hosttax
+WHERE
+squirrel_hosttax.HostReportedName = squirrel_main.HostReportedName
+AND
+squirrel_main.Status = "rechecked";
