@@ -1,41 +1,42 @@
+#Useful generic functions 
+
 #Identify column numbers
 column.ID <- function(data, column.name) { 
   which(names(data)==column.name)
 }	
 
+#Functions for tidying up the data prior to PSR calculations:
+
 #Remove replicated records of host-parasite pairs
 unique.pairs <- function(data, parasite.col, host.col) {
-  host <- column.ID(data,host.col)
-  parasite <- column.ID(data, parasite.col)
-  data <- data[which(duplicated(data[,c(host,parasite)])),]
-  return(data)
+  data[which(!duplicated(data[,c(host.col,parasite.col)])),]
 }
 
 #Remove all species with sp. not full Latin Binomial
-remove.sp <- function(data, column.name) {
-  column<-columnID(data,column.name)
-  data[-grep("sp.$", as.character(data[,column.no]),]
+remove.sp <- function(data, species.col) {
+  data[-grep("sp.$", as.character(data[,species.col]),]
 }
 
 #Remove blank species names
-remove.blanks <- function(data, column.name) {
-  data<-subset(data, column.name != "")
+remove.blanks <- function(data, species.col) {
+  data <- data[-grep("sp.$", as.character(data[,species.col]),]###FIX####
 }
 
-#Ouput for PSR calculations
-PSR.output <- function(output, subset.name=NULL) {
-  output <- data.frame(output)
-  output$host <- rownames(output)
-  names(output)[1] <- paste("PSR", subset.name, sep = "")
-  return(output)
-}
+#Functions to calculate PSR for data & subsets
 
 #PSR for all species
 PSR.all <- function(data, parasite.col, host.col) {
-  host<-column.ID(data, host.col)
-  parasite<-column.ID(data, parasite.col)
-  psr <- tapply(data[,parasite], data[,host], FUN=length)
-  PSR.output(psr)
+  genus <- sub(" .*$", "", x)
+  species <- sub("^.* ", "", x)
+  tapply(data[,parasite.col], data[,host.col], function(spp)
+    if (length(spp) == 1) 1 else length(setdiff(spp, "sp.")))
+}
+
+  count.parasites <- function(x) {
+  genus <- sub(" .*$", "", x)
+  species <- sub("^.* ", "", x)
+  tapply(species, genus, function(spp)
+         if (length(spp) == 1) 1 else length(setdiff(spp, "sp.")))
 } 
 
 #PSR for just a subset of species
@@ -49,6 +50,17 @@ PSR.subset <- function(data, parasite.col, host.col, subset.col) {
     PSR.output(psr, subset.name = unique(subset.col)[i])
   }
 }
+
+
+
+#Ouput for PSR calculations
+PSR.output <- function(output, subset.name=NULL) {
+  output <- data.frame(output)
+  output$host <- rownames(output)
+  names(output)[1] <- paste("PSR", subset.name, sep = "")
+  return(output)
+}
+
 
 #Combined function to run any PSR calculation
 PSR <- function(data, parasite.col, host.col, subset.col=NULL) {
