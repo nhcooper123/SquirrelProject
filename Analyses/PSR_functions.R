@@ -55,5 +55,4 @@ PSR.output <- function(output, subset.name=NULL) {
 PSR <- function(data, parasite.col, host.col, subset.name=NULL) {
   psr <- PSR.all(data, parasite.col, host.col)
   PSR.output(psr, subset.name)
-  } 
 }
