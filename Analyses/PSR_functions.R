@@ -53,7 +53,7 @@ psr.all <- function(data, parasite.col, host.col) {
 }
 
 #PSR for subsets. Produces a big dataframe with results for each subset
-#NA where there are no parasites of the subtype available
+#Adds zeros where there are no parasites of the subtype available
 
 psr.subset <- function(data, parasite.col, host.col, subset.col) {
   result <- data.frame(host=NA) 
@@ -66,6 +66,7 @@ psr.subset <- function(data, parasite.col, host.col, subset.col) {
     result <- merge(ans, result, by = "host", all.x = TRUE, all.y = TRUE)
   }
   result <- result[!is.na(result$host),]
+  result[is.na(result)]<-0
   return(result)
 }
 
