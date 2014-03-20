@@ -17,6 +17,11 @@ get.subset <- function(data, subset.col, subset.no) {
     data[which(data[[subset.col]]==unique(data[[subset.col]])[subset.no]),]
   }
 
+#Making data subsets for binary categories
+get.subset.binary <- function(data, subset.col) { 
+    data[which(data[[subset.col]]==1),]
+  }
+
 #Remove incomplete data for specific variables
 remove.incomplete.data <- function(data, variable.col.list) {
   id <- complete.cases(data[,c(variable.col.list)])
