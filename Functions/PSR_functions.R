@@ -51,11 +51,22 @@ psr.subset <- function(data, parasite.col, host.col, subset.col) {
   return(result)
 }
 
+psr.subset.binary <- function(data, parasite.col, host.col, subset.col) {
+  data.subset <- get.subset.binary(data, subset.col)
+  ans <- psr.all(data.subset, parasite.col, host.col)
+  result <- psr.output(ans, subset.name=names(data[subset.col]))
+  return(result)
+}
+
 #Overall PSR function
-psr <- function(data, parasite.col, host.col, subset.col=NULL) {
+psr <- function(data, parasite.col, host.col, subset.col=NULL, binary=NULL) {
   if(is.null(subset.col)) {
     psr.all(data, parasite.col, host.col)
   } else {
-    psr.subset(data, parasite.col, host.col, subset.col)
+    if(is.null(binary)) {
+      psr.subset(data, parasite.col, host.col, subset.col)
+    } else {
+      psr.subset.binary(data, parasite.col, host.col, subset.col)
+    }
   }
 }
