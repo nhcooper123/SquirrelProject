@@ -1,12 +1,3 @@
-#Useful generic functions 
-
-require(plyr)
-
-#Identify column numbers
-column.ID <- function(data, column.name) { 
-  which(names(data)==column.name)
-}	
-
 #Functions for tidying up the data prior to PSR calculations:
 
 #Remove replicated records of host-parasite pairs
@@ -18,16 +9,6 @@ unique.pairs <- function(data, parasite.col, host.col) {
 remove.sp <- function(data, species.col) {
   data[-grep("sp.$", as.character(data[[species.col]])),]
 }
-
-#Remove blank species names
-remove.blanks <- function(data, species.col) {
-  data[which(data[species.col] != ""),]
-}
-
-#Making data subsets
-get.subset <- function(data, subset.col, subset.no) { 
-    data[which(data[[subset.col]]==unique(data[[subset.col]])[subset.no]),]
-  }
 
 #Functions to calculate PSR
 

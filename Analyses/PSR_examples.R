@@ -2,6 +2,7 @@
 #Data is available in SquirrelProject/Data
 
 source("PSR_functions.R")
+source("Useful_functions.R")
 
 set.seed(1)
 ds <- read.delim("squirrel.data.txt", header = TRUE)
