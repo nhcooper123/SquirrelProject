@@ -25,7 +25,6 @@ ds <- remove.blanks(ds, parasite)
 
 PSR <- psr(ds, parasite, host)
 PSR
-hist(PSR$PSR)
 
 #3: PSR for different parasite types
 #Identify column to subset data with
@@ -36,5 +35,13 @@ ds <- remove.blanks(ds, type)
 
 PSR.type <- psr(ds, parasite, host, type)
 PSR.type
-names(PSR.type)
-hist(PSR.type$PSRVirus)
+
+#4: PSR for different vectors
+#Identify column to subset data with
+#Note that this is different because the data is binary
+#rather than categories like ParasiteType
+
+vector <- column.ID(ds, "Vector")
+
+PSR.vector <- psr(ds, parasite, host, vector, binary=TRUE)
+PSR.vector
