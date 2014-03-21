@@ -15,7 +15,7 @@ set.seed(1)
 
 ds <- read.delim("squirrel.data.txt", header = TRUE)
 mammal.tree <- read.nexus("mammalST_MSW05_best_chrono.tre")
-PT <- read.delim("PanTHERIA05.txt")
+LHdata <- read.delim("SquirrelLifeHistory.txt")
 sampling.effort <- read.delim("squirrel.sampling.txt", header = TRUE)
 
 #Identify variables
@@ -84,15 +84,15 @@ squirrel <- comparative.data(phy=squirrel.tree, data=squirrel.data,
 #Example: Total parasite species richness and body size
 #With sampling occassions to control for sampling effort
 
-model1 <- pgls(PSR ~ ln(BodySize) + ln(sampling.occ+0.1), data=squirrel, lambda='ML')
+model1 <- pgls(log(PSR) ~ log(BodyMass_g) + log(sampling.occ), data=squirrel, lambda='ML')
 summary(model1)
 plot(model1)
 
-plot(PSR ~ ln(BodySize), data=squirrel)
+plot(log(PSR) ~ log(BodyMass_g), data=squirrel)
 
 #Example: Helminth parasite species richness and body size
 #With sampling occassions to control for sampling effort
 
-model2 <- pgls(PSRhelminth ~ ln(BodySize) + ln(sampling.occ+0.1), data=squirrel, lambda='ML')
+model2 <- pgls(log(PSRhelminth) ~ log(BodyMass_g) + log(sampling.occ), data=squirrel, lambda='ML')
 summary(model2)
 plot(model2)
