@@ -14,8 +14,9 @@ set.seed(1)
 #-------------------------------------------------------------------
 
 ds <- read.delim("squirrel.data.txt", header = TRUE)
+american.species <- read.delim("SquirrelsofAmerica.txt", header = FALSE)
 mammal.tree <- read.nexus("mammalST_MSW05_best_chrono.tre")
-LHdata <- read.delim("SquirrelLifeHistory.txt")
+LHdata <- read.delim("SquirrelLifeHistory.txt", header = TRUE)
 sampling.effort <- read.delim("squirrel.sampling.txt", header = TRUE)
 
 #Identify variables
@@ -28,6 +29,10 @@ nonclose <- column.ID(ds, "Nonclose")
 vertical <- column.ID(ds, "Vertical")
 sexual <- column.ID(ds, "Sexual")
 close <- column.ID(ds, "CloseT")
+
+#Subset out just the american species
+american.sp <- match(ds[[host]], american.species[[1]], nomatch = 0)
+ds <- subset(ds, american.sp!=0)
 
 #Tidy up the data 
 ds <- remove.sp(ds, host)
