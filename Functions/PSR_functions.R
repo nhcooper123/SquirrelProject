@@ -7,7 +7,10 @@ unique.pairs <- function(data, parasite.col, host.col) {
 
 #Remove all species with sp. not full Latin Binomial
 remove.sp <- function(data, species.col) {
-  data[-grep("sp.$", as.character(data[[species.col]])),]
+  if(length(grep("sp.$", as.character(data[[species.col]])))>0) {
+    data[-grep("sp.$", as.character(data[[species.col]])),]
+  }
+  return(data)
 }
 
 #Functions to calculate PSR
