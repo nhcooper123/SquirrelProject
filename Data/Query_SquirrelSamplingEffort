@@ -1,10 +1,15 @@
 SELECT
 squirrel_hosttax.HostCorrectedName,
-squirrel_main.HostReportedName
+squirrel_parasitetax.ParasiteCorrectedName,
+squirrel_main.LocationName, 
+squirrel_main.Citation
 FROM
 squirrel_main,
-squirrel_hosttax
+squirrel_hosttax,
+squirrel_parasitetax
 WHERE
 squirrel_hosttax.HostReportedName = squirrel_main.HostReportedName
+AND
+squirrel_parasitetax.ParasiteReportedName = squirrel_main.ParasiteReportedName
 AND
 squirrel_main.Status = "rechecked";
