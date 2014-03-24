@@ -1,0 +1,2242 @@
+HostCorrectedName	ParasiteCorrectedName	LocationName	Citation
+Ammospermophilus leucurus	Spirura infundibuliformis	Nevada	Anderson et al 1993
+Ammospermophilus leucurus	Spirura infundibuliformis	Clark County, Nevada	Babero 1973
+Ammospermophilus leucurus	Spirura infundibuliformis	Clark, Lincoln and Nye Counties, Nevada	Babero 1973
+Ammospermophilus leucurus	Spirura michiganensis	Clark, Lincoln and Nye Counties, Nevada	Babero 1973
+Ammospermophilus leucurus	Subulura nevadense	Clark, Lincoln and Nye Counties, Nevada	Babero 1973
+Ammospermophilus leucurus	Subulura nevadense	Clark, Lincoln and Nye Counties, Nevada	Babero 1973
+Ammospermophilus leucurus	Subulura nevadense	Clark, Lincoln and Nye Counties, Nevada	Babero 1973
+Ammospermophilus leucurus	Citellina triradiata	Clark, Lincoln and Nye Counties, Nevada	Babero 1973
+Ammospermophilus leucurus	Syphacia citelli	Clark, Lincoln and Nye Counties, Nevada	Babero 1973
+Ammospermophilus leucurus	Physaloptera sp.	Clark, Lincoln and Nye Counties, Nevada	Babero 1973
+Ammospermophilus leucurus	Physaloptera massino	Not reported	Babero 1973
+Callosciurus erythraeus	Macrostylophora liae	60 - 70km northeast of Hanoi, Bac-Giang (Bak-Thai?) Province	Beaucournu & Sountsov, 1999
+Callosciurus nigrovittatus	Subulura andersoni	Sabah	Inder Singh et al., 1987
+Callosciurus notatus	Allassogonoporus callosciuri	Sarawak, Borneo	Tkach & Bray, 2001
+Spermophilus alashanicus	Yersinia pestis	Haiyuan County, Ganning loess plateau	Fukushima et al., 2001
+Spermophilus alashanicus	Yersinia pestis	Yanchi County, Inner Mongolia plateau	Fukushima et al., 2001
+Spermophilus alashanicus	Yersinia enterocolitica	Haiyuan County, Ganning loess plateau	Fukushima et al., 2001
+Spermophilus alashanicus	Euryparasitus citelli	Haiyuan County	Bai et al., 1988
+Spermophilus beecheyi	Ornithodoros turicata	Cummings Valley, Kern County, California	Burroughs & Holdenried 1944
+Spermophilus beecheyi	Ornithodoros turicata	Alameda County, California	Burroughs & Holdenried 1944
+Spermophilus citellus	Citellophilus martinoi	Srem: Fruska Gora: Irig	Cyprich, 1989
+Spermophilus citellus	Citellophilus martinoi	Velemin, Bohemia	Cyprich, 1989
+Spermophilus citellus	Citellophilus simplex	Mongilev-Podolskii, Vinickaya Region	Cyprich, 1989
+Spermophilus citellus	Citellophilus simplex	MOLDAVIA	Cyprich, 1989
+Spermophilus citellus	Citellophilus simplex	ROMANIA	Cyprich, 1989
+Spermophilus citellus	Citellophilus simplex	HUNGARY	Cyprich, 1989
+Spermophilus citellus	Citellophilus simplex	TURKEY	Cyprich, 1989
+Spermophilus citellus	Citellophilus simplex	Moldava nad Bodvou	Cyprich, 1989
+Spermophilus citellus	Citellophilus simplex	South Slovakian Karst	Cyprich, 1989
+Spermophilus citellus	Citellophilus simplex	Malcoci	Cyprich, 1989
+Spermophilus citellus	Citellophilus simplex	Nalepkovo	Cyprich, 1989
+Spermophilus citellus	Citellophilus martinoi	Backa (Melenci)	Cyprich, 1989
+Spermophilus citellus	Citellina triradiata	Not reported	Babero 1973
+Spermophilus columbianus	Ornithodoros parkeri	Walla Walla county	Bacon et al 1959
+Spermophilus columbianus	Colorado tick fever	Bitterroot Valley near Hamilton, Montana	Bowen et al 1981
+Spermophilus columbianus	Colorado tick fever	Bitterroot Valley near Hamilton, Montana	Burgdorfer & Eklund 1960
+Spermophilus columbianus	Colorado tick fever	Bitterroot Valley near Hamilton, Montana	Burgdorfer & Eklund 1960
+Spermophilus columbianus	Colorado tick fever	Bitterroot Valley near Hamilton, Montana	Burgdorfer & Eklund 1960
+Spermophilus columbianus	Colorado tick fever	Bitterroot Valley near Hamilton, Montana	Burgdorfer & Eklund 1960
+Spermophilus dauricus	Citellophilus tesquorum	Wuningbatu Sumu, Zhengxiangbai Banner, Inner Mongolia	Li & Zhang, 1997
+Spermophilus dauricus	Frontopsylla luculenta	Wuningbatu Sumu, Zhengxiangbai Banner, Inner Mongolia	Li & Zhang, 1997
+Spermophilus dauricus	Neopsylla abagaitui	Wuningbatu Sumu, Zhengxiangbai Banner, Inner Mongolia	Li & Zhang, 1997
+Spermophilus dauricus	Neopsylla bidentatiformis	Wuningbatu Sumu, Zhengxiangbai Banner, Inner Mongolia	Li & Zhang, 1997
+Spermophilus franklinii	Ixodes cookei	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976a
+Spermophilus franklinii	Physaloptera spinicauda	Not reported	Babero 1973
+Spermophilus fulvus	Orthopoxvirus sp.	TURKMENISTAN	Tsanava et al., 1989
+Spermophilus fulvus	Streptopharagus kutassi	IRAN	Wertheim, 1993
+Spermophilus lateralis	Citellina triradiata	Not reported	Babero 1973
+Spermophilus lateralis	Colorado tick fever	Bitterroot Valley near Hamilton, Montana	Burgdorfer & Eklund 1960
+Spermophilus lateralis	Dermacentor andersoni	Bitterroot Valley near Hamilton, Montana	Burgdorfer & Eklund 1960
+Spermophilus lateralis	Colorado tick fever	Bitterroot Valley near Hamilton, Montana	Burgdorfer & Eklund 1960
+Spermophilus lateralis	Staphylococcus aureus	North California	Campbell et al 1981
+Spermophilus musicus	Haemogamasus mandschuricus	Mountain plateau Bichesyn, near Elbrus, Karbada-Balkar	Lopatina et al., 1991
+Spermophilus musicus	Parasitus remberti	Mountain plateau Bichesyn, near Elbrus, Karbada-Balkar	Lopatina et al., 1991
+Spermophilus musicus	Halolaelaps sp.	Mountain plateau Bichesyn, near Elbrus, Karbada-Balkar	Lopatina et al., 1991
+Spermophilus musicus	Cyrtolaelaps chiropterae	Mountain plateau Bichesyn, near Elbrus, Karbada-Balkar	Lopatina et al., 1991
+Spermophilus musicus	Proctolaelaps pygmaeus	Mountain plateau Bichesyn, near Elbrus, Karbada-Balkar	Lopatina et al., 1991
+Spermophilus musicus	Parasitus oudemansi	Mountain plateau Bichesyn, near Elbrus, Karbada-Balkar	Lopatina et al., 1991
+Spermophilus musicus	Trichouropoda sp.	Mountain plateau Bichesyn, near Elbrus, Karbada-Balkar	Lopatina et al., 1991
+Spermophilus pygmaeus	Oribella pectinata	Mountain plateau Bichesyn, near Elbrus, Karbada-Balkar	Lopatina et al., 1991
+Spermophilus pygmaeus	Eucheyletia sp.	Mountain plateau Bichesyn, near Elbrus, Karbada-Balkar	Lopatina et al., 1991
+Spermophilus pygmaeus	Eulaelaps stabularis	Mountain plateau Bichesyn, near Elbrus, Karbada-Balkar	Lopatina et al., 1991
+Spermophilus pygmaeus	Hypoaspis sardous	Mountain plateau Bichesyn, near Elbrus, Karbada-Balkar	Lopatina et al., 1991
+Spermophilus pygmaeus	Hypoaspis heselhausi	Mountain plateau Bichesyn, near Elbrus, Karbada-Balkar	Lopatina et al., 1991
+Spermophilus pygmaeus	Hypoaspis sp.	Mountain plateau Bichesyn, near Elbrus, Karbada-Balkar	Lopatina et al., 1991
+Spermophilus pygmaeus	Haemogamasus mandschuricus	Mountain plateau Bichesyn, near Elbrus, Karbada-Balkar	Lopatina et al., 1991
+Spermophilus pygmaeus	Hirstionyssus criceti	Mountain plateau Bichesyn, near Elbrus, Karbada-Balkar	Lopatina et al., 1991
+Spermophilus pygmaeus	Parasitus remberti	Mountain plateau Bichesyn, near Elbrus, Karbada-Balkar	Lopatina et al., 1991
+Spermophilus pygmaeus	Parasitus oudemansi	Mountain plateau Bichesyn, near Elbrus, Karbada-Balkar	Lopatina et al., 1991
+Spermophilus pygmaeus	Gamasodes spiniger	Mountain plateau Bichesyn, near Elbrus, Karbada-Balkar	Lopatina et al., 1991
+Spermophilus pygmaeus	Gamasodes micherdzinskii	Mountain plateau Bichesyn, near Elbrus, Karbada-Balkar	Lopatina et al., 1991
+Spermophilus pygmaeus	Macrocheles matrius	Mountain plateau Bichesyn, near Elbrus, Karbada-Balkar	Lopatina et al., 1991
+Spermophilus pygmaeus	Macrocheles decoloratus	Mountain plateau Bichesyn, near Elbrus, Karbada-Balkar	Lopatina et al., 1991
+Spermophilus pygmaeus	Pachylaelaps sp.	Mountain plateau Bichesyn, near Elbrus, Karbada-Balkar	Lopatina et al., 1991
+Spermophilus pygmaeus	Proctolaelaps pygmaeus	Mountain plateau Bichesyn, near Elbrus, Karbada-Balkar	Lopatina et al., 1991
+Spermophilus pygmaeus	Cyrtolaelaps chiropterae	Mountain plateau Bichesyn, near Elbrus, Karbada-Balkar	Lopatina et al., 1991
+Spermophilus pygmaeus	Dendrolaelaps disetosimils	Mountain plateau Bichesyn, near Elbrus, Karbada-Balkar	Lopatina et al., 1991
+Spermophilus pygmaeus	Euryparasitus emarginatus	Mountain plateau Bichesyn, near Elbrus, Karbada-Balkar	Lopatina et al., 1991
+Spermophilus pygmaeus	Halolaelaps sp.	Mountain plateau Bichesyn, near Elbrus, Karbada-Balkar	Lopatina et al., 1991
+Spermophilus pygmaeus	Prozercon sp.	Mountain plateau Bichesyn, near Elbrus, Karbada-Balkar	Lopatina et al., 1991
+Spermophilus pygmaeus	Trichouropoda sp.	Mountain plateau Bichesyn, near Elbrus, Karbada-Balkar	Lopatina et al., 1991
+Spermophilus pygmaeus	Ceratophyllus tesquorum	CASPIAN LOWLAND, North Eastern part	Samurov, 1991
+Spermophilus sp.	Citellophilus simplex	TURKEY	Cyprich, 1989
+Spermophilus sp.	Citellophilus simplex	Latovka, Kherson Region	Cyprich, 1989
+Spermophilus suslicus	Citellophilus simplex	MOLDAVIA	Cyprich, 1989
+Spermophilus tridecemlineatus	Thrassis brennani	Fort Sam Houston, Bexar County	Augustson 1944
+Spermophilus tridecemlineatus	Physaloptera spinicauda	Not reported	Babero 1973
+Spermophilus tridecemlineatus	Toxoplasma gondii	Not reported	Bangari et al., 2007 
+Spermophilus undulatus	Taenia solium	Baikal Lake Basin, Buryatskaya	Shalaeva et al., 1987
+Spermophilus undulatus	Mesocestoides lineatus	Ulan-Udensky Region	Shalaeva et al., 1987
+Spermophilus undulatus	Paranoplocephala transversaria	Baikal Lake Basin, Buryatskaya	Shalaeva et al., 1987
+Spermophilus undulatus	Anoplocephaloides dentata	Baikal Lake Basin, Buryatskaya	Shalaeva et al., 1987
+Spermophilus undulatus	Paranoplocephala macrocephala	Ulan-Udensky Region	Shalaeva et al., 1987
+Spermophilus undulatus	Ctenotaenia citelli	Baikal Lake Basin, Buryatskaya	Shalaeva et al., 1987
+Spermophilus undulatus	Catenotaenia cricetorum	Baikal Lake Basin, Buryatskaya	Shalaeva et al., 1987
+Spermophilus undulatus	Hymenolepis megaloon	Baikal Lake Basin, Buryatskaya	Shalaeva et al., 1987
+Spermophilus undulatus	Hymenolepis diminuta	Ulan-Udensky Region	Shalaeva et al., 1987
+Spermophilus undulatus	Baylisascaris laevis	Baikal Lake Basin, Buryatskaya	Shalaeva et al., 1987
+Spermophilus undulatus	Ascaris tarbagan	Baikal Lake Basin, Buryatskaya	Shalaeva et al., 1987
+Spermophilus undulatus	Protospirura suslica	Baikal Lake Basin, Buryatskaya	Shalaeva et al., 1987
+Spermophilus undulatus	Mastophorus muris	Baikal Lake Basin, Buryatskaya	Shalaeva et al., 1987
+Spermophilus undulatus	Streptopharagus kutassi	Baikal Lake Basin, Buryatskaya	Shalaeva et al., 1987
+Spermophilus undulatus	Subulura citelli	Baikal Lake Basin, Buryatskaya	Shalaeva et al., 1987
+Spermophilus undulatus	Physaloptera citelli	Baikal Lake Basin, Buryatskaya	Shalaeva et al., 1987
+Spermophilus undulatus	Physaloptera massino	Baikal Lake Basin, Buryatskaya	Shalaeva et al., 1987
+Spermophilus undulatus	Capillaria armeniaca	Baikal Lake Basin, Buryatskaya	Shalaeva et al., 1987
+Spermophilus undulatus	Trichuris citellorum	Baikal Lake Basin, Buryatskaya	Shalaeva et al., 1987
+Spermophilus undulatus	Trichuris muris	Baikal Lake Basin, Buryatskaya	Shalaeva et al., 1987
+Spermophilus undulatus	Moniliformis moniliformis	Baikal Lake Basin, Buryatskaya	Shalaeva et al., 1987
+Spermophilus undulatus	Moniliformis clarki	Baikal Lake Basin, Buryatskaya	Shalaeva et al., 1987
+Spermophilus undulatus	Hymenolepis megaloon	Tuva	Shalaeva et al., 1987
+Spermophilus undulatus	Hymenolepis diminuta	Tuva	Shalaeva et al., 1987
+Spermophilus undulatus	Paranoplocephala transversaria	Tuva	Shalaeva et al., 1987
+Spermophilus undulatus	Catenotaenia cricetorum	Tuva	Shalaeva et al., 1987
+Spermophilus undulatus	Ctenotaenia citelli	Tuva	Shalaeva et al., 1987
+Spermophilus undulatus	Subulura citelli	Tuva	Shalaeva et al., 1987
+Spermophilus undulatus	Mastophorus muris	Tuva	Shalaeva et al., 1987
+Spermophilus undulatus	Physaloptera massino	Tuva	Shalaeva et al., 1987
+Spermophilus undulatus	Baylisascaris laevis	Tuva	Shalaeva et al., 1987
+Spermophilus undulatus	Moniliformis clarki	Tuva	Shalaeva et al., 1987
+Spermophilus undulatus	Hymenolepis megaloon	Yakutia	Shalaeva et al., 1987
+Spermophilus undulatus	Catenotaenia cricetorum	Yakutia	Shalaeva et al., 1987
+Spermophilus undulatus	Trichuris citellorum	Yakutia	Shalaeva et al., 1987
+Spermophilus undulatus	Moniliformis moniliformis	Yakutia	Shalaeva et al., 1987
+Spermophilus undulatus	Streptopharagus kutassi	Borgoyskaya Steppe	Shalaeva et al., 1987
+Spermophilus undulatus	Paranoplocephala transversaria	Borgoyskaya Steppe	Shalaeva et al., 1987
+Spermophilus undulatus	Hymenolepis diminuta	Borgoyskaya Steppe	Shalaeva et al., 1987
+Spermophilus undulatus	Hymenolepis megaloon	Buryatia	Shalaeva et al., 1987
+Spermophilus undulatus	Hymenolepis diminuta	Buryatia	Shalaeva et al., 1987
+Spermophilus undulatus	Paranoplocephala transversaria	Buryatia	Shalaeva et al., 1987
+Spermophilus undulatus	Catenotaenia cricetorum	Buryatia	Shalaeva et al., 1987
+Spermophilus undulatus	Ctenotaenia citelli	Buryatia	Shalaeva et al., 1987
+Spermophilus undulatus	Subulura citelli	Buryatia	Shalaeva et al., 1987
+Spermophilus undulatus	Mastophorus muris	Buryatia	Shalaeva et al., 1987
+Spermophilus undulatus	Physaloptera massino	Buryatia	Shalaeva et al., 1987
+Spermophilus undulatus	Baylisascaris laevis	Buryatia	Shalaeva et al., 1987
+Spermophilus undulatus	Moniliformis clarki	Buryatia	Shalaeva et al., 1987
+Cynomys gunnisoni	Yersinia pestis	UNITED STATES	Ubico et al., 1988
+Cynomys gunnisoni	Eimeria beecheyi	Southeastern Utah	Seville, 1997
+Cynomys gunnisoni	Eimeria callospermophili	Southeastern Utah	Seville, 1997
+Cynomys gunnisoni	Eimeria cynomysis	Southeastern Utah	Seville, 1997
+Cynomys gunnisoni	Eimeria cynomysis	Southeastern Utah	Seville, 1997
+Cynomys gunnisoni	Eimeria lateralis	Southeastern Utah	Seville, 1997
+Cynomys gunnisoni	Eimeria vilasi	Southeastern Utah	Seville, 1997
+Cynomys gunnisoni	Eimeria spermophili	Southeastern Utah	Seville, 1997
+Cynomys gunnisoni	Yersinia pestis	New Mexico	Cully, Jr. & Williams, 2001
+Cynomys gunnisoni	Aetheca wagneri	Moreno Valley of north-central New Mexico	Cully, Jr. & Williams, 2001
+Cynomys gunnisoni	Catallagia decipiens	Moreno Valley of north-central New Mexico	Cully, Jr. & Williams, 2001
+Cynomys gunnisoni		Moreno Valley of north-central New Mexico	Cully, Jr. & Williams, 2001
+Cynomys gunnisoni	Hoplopsylla anomalus	Moreno Valley of north-central New Mexico	Cully, Jr. & Williams, 2001
+Cynomys gunnisoni	Aetheca eumolpi	Moreno Valley of north-central New Mexico	Cully, Jr. & Williams, 2001
+Cynomys gunnisoni	Oropsylla labis 	Moreno Valley of north-central New Mexico	Cully, Jr. & Williams, 2001
+Cynomys gunnisoni	Oropsylla hirsuta	Moreno Valley of north-central New Mexico	Cully, Jr. & Williams, 2001
+Cynomys gunnisoni	Oropsylla idahoensis	Moreno Valley of north-central New Mexico	Cully, Jr. & Williams, 2001
+Cynomys gunnisoni	Oropsylla tuberculata	Moreno Valley of north-central New Mexico	Cully, Jr. & Williams, 2001
+Cynomys gunnisoni	Pulex sp.	Moreno Valley of north-central New Mexico	Cully, Jr. & Williams, 2001
+Cynomys gunnisoni	Rhadinopsylla sectilis	Moreno Valley of north-central New Mexico	Cully, Jr. & Williams, 2001
+Cynomys gunnisoni	Rhadinopsylla fraterna	Moreno Valley of north-central New Mexico	Cully, Jr. & Williams, 2001
+Cynomys gunnisoni	Thrassis bacchi	Moreno Valley of north-central New Mexico	Cully, Jr. & Williams, 2001
+Cynomys gunnisoni	Eimeria beecheyi	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Cynomys gunnisoni	Eimeria callospermophili	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Cynomys gunnisoni	Eimeria cynomysis	NORTH AMERICA and EUROPE	Wilber et al., 1998
+Cynomys gunnisoni	Eimeria lateralis	NORTH AMERICA and ASIA	Wilber et al., 1998
+Cynomys gunnisoni	Eimeria vilasi	NORTH AMERICA	Wilber et al., 1998
+Cynomys gunnisoni	Eimeria spermophili	NORTH AMERICA	Wilber et al., 1998
+Cynomys gunnisoni	Yersinia pestis	New Mexico	Antolin et al., 2002
+Cynomys gunnisoni	Yersinia pestis	Arizona	Antolin et al., 2002
+Cynomys gunnisoni	Yersinia pestis	South Park, Fairplay, Colorado	Antolin et al., 2002
+Cynomys gunnisoni	Yersinia pestis	Garfield County, Colorado	Barnes, 1993
+Cynomys gunnisoni	Oropsylla hirsuta	Arizona	Barnes, 1993
+Cynomys gunnisoni	Oropsylla hirsuta	New Mexico	Barnes, 1993
+Cynomys gunnisoni	Oropsylla hirsuta	Colorado	Barnes, 1993
+Cynomys gunnisoni	Oropsylla hirsuta	Utah	Barnes, 1993
+Cynomys gunnisoni	Oropsylla tuberculata	Utah	Barnes, 1993
+Cynomys gunnisoni	Oropsylla tuberculata	Colorado	Barnes, 1993
+Cynomys gunnisoni	Oropsylla tuberculata	New Mexico	Barnes, 1993
+Cynomys gunnisoni	Oropsylla tuberculata	Arizona	Barnes, 1993
+Cynomys gunnisoni	Yersinia pestis	Aubrey Valley, Arizona	Bush et al 2011
+Cynomys gunnisoni	Yersinia pestis	Seligman, Arizona	Bush et al 2011
+Cynomys gunnisoni	Yersinia pestis	Moreno Valley of north-central New Mexico	Cully 1997
+Cynomys gunnisoni	Yersinia pestis	Moreno Valley of north-central New Mexico	Cully 1997
+Cynomys gunnisoni	Yersinia pestis	Near Zuni, New Mexico	Cully et al 1997
+Cynomys gunnisoni	Yersinia pestis	Moreno Valley of north-central New Mexico	Cully et al 1997
+Cynomys gunnisoni	Yersinia pestis	Around town of Eagle Nest	Cully et al 1997
+Cynomys gunnisoni	Oropsylla hirsuta	Around town of Eagle Nest	Cully et al 1997
+Cynomys gunnisoni	Oropsylla labis	Around town of Eagle Nest	Cully et al 1997
+Cynomys gunnisoni	Yersinia pestis	Moreno Valley of north-central New Mexico	Cully et al 1997
+Cynomys gunnisoni	Oropsylla hirsuta	Moreno Valley of north-central New Mexico	Cully et al 1997
+Cynomys gunnisoni	Oropsylla labis	Moreno Valley of north-central New Mexico	Cully et al 1997
+Cynomys gunnisoni	Oropsylla tuberculata	Moreno Valley of north-central New Mexico	Cully et al 1997
+Cynomys gunnisoni	Thrassis bacchi	Moreno Valley of north-central New Mexico	Cully et al 1997
+Cynomys gunnisoni	Aetheca wagneri	Moreno Valley of north-central New Mexico	Cully et al 1997
+Cynomys gunnisoni	Catallagia decipiens	Moreno Valley of north-central New Mexico	Cully et al 1997
+Cynomys leucurus	Eimeria lateralis	Wyoming	Seville & Williams, 1989
+Cynomys leucurus	Eimeria cynomysis	Meeteetse, Park County, Wyoming1	Seville & Williams, 1989
+Cynomys leucurus	Eimeria lateralis	Meeteetse, Park County, Wyoming1	Seville & Williams, 1989
+Cynomys leucurus	Eimeria ludoviciani	Meeteetse, Park County, Wyoming1	Seville & Williams, 1989
+Cynomys leucurus	Sarcocystis sp.	Meeteetse, Park County, Wyoming1	Seville & Williams, 1989
+Cynomys leucurus	Hymenolepis citelli	Meeteetse, Park County, Wyoming1	Seville & Williams, 1989
+Cynomys leucurus	Taenia mustelae	Meeteetse, Park County, Wyoming1	Seville & Williams, 1989
+Cynomys leucurus	Physaloptera sp.	Meeteetse, Park County, Wyoming1	Seville & Williams, 1989
+Cynomys leucurus	Capillaria sp.	Meeteetse, Park County, Wyoming1	Seville & Williams, 1989
+Cynomys leucurus	Eimeria cynomysis	Meeteetse, Park County, Wyoming1	Seville & Williams, 1989
+Cynomys leucurus	Eimeria lateralis	Meeteetse, Park County, Wyoming1	Seville & Williams, 1989
+Cynomys leucurus	Eimeria ludoviciani	Meeteetse, Park County, Wyoming1	Seville & Williams, 1989
+Cynomys leucurus	Sarcocystis sp.	Meeteetse, Park County, Wyoming1	Seville & Williams, 1989
+Cynomys leucurus	Hymenolepis citelli	Meeteetse, Park County, Wyoming1	Seville & Williams, 1989
+Cynomys leucurus	Taenia mustelae	Meeteetse, Park County, Wyoming1	Seville & Williams, 1989
+Cynomys leucurus	Physaloptera sp.	Meeteetse, Park County, Wyoming1	Seville & Williams, 1989
+Cynomys leucurus	Capillaria sp.	Meeteetse, Park County, Wyoming1	Seville & Williams, 1989
+Cynomys leucurus	Yersinia pestis	Southeastern Wyoming	Anderson & Williams, 1997
+Cynomys leucurus	Aetheca wagneri	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Cynomys leucurus	Aetheca wagneri	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Cynomys leucurus	Cediopsylla inaequalis	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Cynomys leucurus	Cediopsylla inaequalis	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Cynomys leucurus	Hystrichopsylla dippiei	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Cynomys leucurus	Hystrichopsylla dippiei	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Cynomys leucurus	Neopsylla inopina	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Cynomys leucurus	Neopsylla inopina	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Cynomys leucurus	Neopsylla sp.	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Cynomys leucurus	Neopsylla sp.	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Cynomys leucurus	Oropsylla tuberculata	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Cynomys leucurus	Oropsylla tuberculata	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Cynomys leucurus	Oropsylla idahoensis	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Cynomys leucurus	Oropsylla idahoensis	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Cynomys leucurus	Oropsylla labis	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Cynomys leucurus	Oropsylla labis	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Cynomys leucurus	Thrassis pandorae	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Cynomys leucurus	Thrassis pandorae	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Cynomys leucurus	Oropsylla tuberculata	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Cynomys leucurus	Oropsylla tuberculata	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Cynomys leucurus	Oropsylla sp.	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Cynomys leucurus	Oropsylla sp.	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Cynomys leucurus	Pulex irritans	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Cynomys leucurus	Pulex irritans	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Cynomys leucurus	Pulex sp.	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Cynomys leucurus	Pulex sp.	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Cynomys leucurus	Rhadinopsylla fraterna	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Cynomys leucurus	Rhadinopsylla fraterna	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Cynomys leucurus	Yersinia pestis	Meeteetse, Park County, Wyoming	Williams et al., 1991
+Cynomys leucurus	Yersinia pestis	UNITED STATES	Ubico et al., 1988
+Cynomys leucurus	Yersinia pestis	Albany, Wyoming	Ubico et al., 1988
+Cynomys leucurus	Yersinia pestis	Meeteetse, Park County, Wyoming3	Ubico et al., 1988
+Cynomys leucurus	Oropsylla tuberculata	Meeteetse, Park County, Wyoming3	Ubico et al., 1988
+Cynomys leucurus	Oropsylla labis 	Meeteetse, Park County, Wyoming3	Ubico et al., 1988
+Cynomys leucurus	Neopsylla inopina	Meeteetse, Park County, Wyoming3	Ubico et al., 1988
+Cynomys leucurus	Rhadinopsylla sectilis	Meeteetse, Park County, Wyoming3	Ubico et al., 1988
+Cynomys leucurus	Oropsylla idahoensis	Meeteetse, Park County, Wyoming3	Ubico et al., 1988
+Cynomys leucurus	Hystrichopsylla dippiei	Meeteetse, Park County, Wyoming3	Ubico et al., 1988
+Cynomys leucurus	Aetheca wagneri	Meeteetse, Park County, Wyoming3	Ubico et al., 1988
+Cynomys leucurus	Aetheca exilis	Meeteetse, Park County, Wyoming3	Ubico et al., 1988
+Cynomys leucurus	Thrassis pandorae	Meeteetse, Park County, Wyoming3	Ubico et al., 1988
+Cynomys leucurus	Rhadinopsylla fraterna	Meeteetse, Park County, Wyoming3	Ubico et al., 1988
+Cynomys leucurus	Eimeria lateralis	Not reported	Shults et al., 1990
+Cynomys leucurus	Eimeria lateralis	Southeastern Wyoming	Shults et al., 1990
+Cynomys leucurus	Yersinia pestis	Meeteetse, Park County, Wyoming4	Menkens, Jr. & Anderson, 1991
+Cynomys leucurus	Yersinia pestis	Meeteetse, Park County, Wyoming4	Menkens, Jr. & Anderson, 1991
+Cynomys leucurus	Eimeria beecheyi	Laramie, Wyoming1	Seville et al., 1992
+Cynomys leucurus	Eimeria cynomysis	Laramie, Wyoming1	Seville et al., 1992
+Cynomys leucurus	Eimeria callospermophili	Laramie, Wyoming1	Seville et al., 1992
+Cynomys leucurus	Eimeria lateralis	Laramie, Wyoming1	Seville et al., 1992
+Cynomys leucurus	Eimeria spermophili	Laramie, Wyoming1	Seville et al., 1992
+Cynomys leucurus	Eimeria callospermophili	Not reported	Seville, 1997
+Cynomys leucurus	Eimeria lateralis	Not reported	Seville, 1997
+Cynomys leucurus	Eimeria ludoviciani	Not reported	Seville, 1997
+Cynomys leucurus	Eimeria beecheyi	Southeastern Wyoming	Seville, 1997
+Cynomys leucurus	Eimeria cynomysis	Southeastern Wyoming	Seville, 1997
+Cynomys leucurus	Eimeria vilasi	Southeastern Wyoming	Seville, 1997
+Cynomys leucurus	Eimeria sp.	Hutton Lake Wildlife Refuge, Laramie, Wyoming	Seville, 1997
+Cynomys leucurus	Eimeria lateralis	Wyoming	Seville & Patrick, 2001
+Cynomys leucurus	Eimeria vilasi	Wyoming	Seville & Patrick, 2001
+Cynomys leucurus	Yersinia pestis	Southeastern Wyoming	Cully, Jr. & Williams, 2001
+Cynomys leucurus	Aetheca wagneri	Moreno Valley of north-central New Mexico	Cully, Jr. & Williams, 2001
+Cynomys leucurus	Catallagia decipiens	Moreno Valley of north-central New Mexico	Cully, Jr. & Williams, 2001
+Cynomys leucurus	Cediopsylla inaequalis	Moreno Valley of north-central New Mexico	Cully, Jr. & Williams, 2001
+Cynomys leucurus	Hystrichopsylla dippiei
+	Moreno Valley of north-central New Mexico	Cully, Jr. & Williams, 2001
+Cynomys leucurus	Neopsylla inopina	Moreno Valley of north-central New Mexico	Cully, Jr. & Williams, 2001
+Cynomys leucurus	Oropsylla labis 	Moreno Valley of north-central New Mexico	Cully, Jr. & Williams, 2001
+Cynomys leucurus	Oropsylla hirsuta	Moreno Valley of north-central New Mexico	Cully, Jr. & Williams, 2001
+Cynomys leucurus	Oropsylla idahoensis	Moreno Valley of north-central New Mexico	Cully, Jr. & Williams, 2001
+Cynomys leucurus	Oropsylla tuberculata	Moreno Valley of north-central New Mexico	Cully, Jr. & Williams, 2001
+Cynomys leucurus	Pulex sp.	Moreno Valley of north-central New Mexico	Cully, Jr. & Williams, 2001
+Cynomys leucurus	Rhadinopsylla sectilis	Moreno Valley of north-central New Mexico	Cully, Jr. & Williams, 2001
+Cynomys leucurus	Rhadinopsylla fraterna	Moreno Valley of north-central New Mexico	Cully, Jr. & Williams, 2001
+Cynomys leucurus	Thrassis pandorae	Moreno Valley of north-central New Mexico	Cully, Jr. & Williams, 2001
+Cynomys leucurus	Eimeria beecheyi	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Cynomys leucurus	Eimeria callospermophili	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Cynomys leucurus	Eimeria cynomysis	NORTH AMERICA and EUROPE	Wilber et al., 1998
+Cynomys leucurus	Eimeria lateralis	NORTH AMERICA and ASIA	Wilber et al., 1998
+Cynomys leucurus	Eimeria ludoviciani	Near Fort Collins, Colorado	Wilber et al., 1998
+Cynomys leucurus	Eimeria vilasi	NORTH AMERICA	Wilber et al., 1998
+Cynomys leucurus	Eimeria spermophili	NORTH AMERICA	Wilber et al., 1998
+Cynomys leucurus	Eimeria vilasi	NORTH AMERICA	Wilber et al., 1998
+Cynomys leucurus	Eimeria vilasi	Hutton Lake Wildlife Refuge, Laramie, Wyoming	Seville, 1997
+Cynomys leucurus	Eimeria beecheyi	Hutton Lake Wildlife Refuge, Laramie, Wyoming	Seville, 1997
+Cynomys leucurus	Eimeria callospermophili	Hutton Lake Wildlife Refuge, Laramie, Wyoming	Seville, 1997
+Cynomys leucurus	Eimeria lateralis	Hutton Lake Wildlife Refuge, Laramie, Wyoming	Seville, 1997
+Cynomys leucurus	Eimeria vilasi	Hutton Lake Wildlife Refuge, Laramie, Wyoming	Seville, 1997
+Cynomys leucurus	Eimeria spermophili	Hutton Lake Wildlife Refuge, Laramie, Wyoming	Seville, 1997
+Cynomys leucurus	Eimeria cynomysis	Hutton Lake Wildlife Refuge, Laramie, Wyoming	Seville, 1997
+Cynomys leucurus	Yersinia pestis	Southeastern Wyoming	Ubico et al., 1988
+Cynomys leucurus	Eimeria ludoviciani	Wyoming	Seville & Williams, 1989
+Cynomys leucurus	Eimeria beecheyi	11km south of Laramie Wyoming	Shults et al., 1990
+Cynomys leucurus	Eimeria vilasi	11km south of Laramie Wyoming	Shults et al., 1990
+Cynomys leucurus	Eimeria cynomysis	11km south of Laramie Wyoming	Shults et al., 1990
+Cynomys leucurus	Eimeria lateralis	11km south of Laramie Wyoming	Shults et al., 1990
+Cynomys leucurus	Yersinia pestis	Meeteetse	Antolin et al., 2002
+Cynomys leucurus	Oropsylla tuberculata	Wyoming	Barnes, 1993
+Cynomys leucurus	Oropsylla tuberculata	Northern Colorado	Barnes, 1993
+Cynomys leucurus	Oropsylla hirsuta	Wyoming	Barnes, 1993
+Cynomys leucurus	Oropsylla hirsuta	Northern Colorado	Barnes, 1993
+Cynomys leucurus	Oropsylla labis	Wyoming	Barnes, 1993
+Cynomys leucurus	Oropsylla labis	Northern Colorado	Barnes, 1993
+Cynomys leucurus	Yersinia pestis	Coyote Basin and Kennedy Wash, Utah	Biggins et al 2010
+Cynomys leucurus	Yersinia pestis	Coyote Basin and Kennedy Wash, Utah	Biggins et al 2010
+Cynomys leucurus	Yersinia pestis	Coyote Basin and Kennedy Wash, Utah	Biggins et al 2010
+Cynomys leucurus	Yersinia pestis	Coyote Basin and Kennedy Wash, Utah	Biggins et al 2010
+Cynomys ludovicianus	Eimeria cynomysis	Northern Colorado	Seville & Williams, 1989
+Cynomys ludovicianus	Eimeria lateralis	Northern Colorado	Seville & Williams, 1989
+Cynomys ludovicianus	Eimeria ludoviciani	Northern Colorado	Seville & Williams, 1989
+Cynomys ludovicianus	Yersinia pestis	UNITED STATES	Ubico et al., 1988
+Cynomys ludovicianus	Eimeria lateralis	Not reported	Shults et al., 1990
+Cynomys ludovicianus	Eimeria lateralis	Larimer County, Colorado	Shults et al., 1990
+Cynomys ludovicianus	Dermacentor variabilis	Kansas	Brillhart et al., 1994
+Cynomys ludovicianus	Eimeria cynomysis	Not reported	Seville, 1997
+Cynomys ludovicianus	Eimeria lateralis	Not reported	Seville, 1997
+Cynomys ludovicianus	Eimeria ludoviciani	Not reported	Seville, 1997
+Cynomys ludovicianus	Eimeria sp.	Casper, Wyoming	Seville, 1997
+Cynomys ludovicianus	Eimeria lateralis	Wyoming	Seville & Patrick, 2001
+Cynomys ludovicianus	Eimeria vilasi	Wyoming	Seville & Patrick, 2001
+Cynomys ludovicianus	Yersinia pestis	UNITED STATES	Cully, Jr. & Williams, 2001
+Cynomys ludovicianus	Aetheca exilis	Moreno Valley of north-central New Mexico	Cully, Jr. & Williams, 2001
+Cynomys ludovicianus	Oropsylla hirsuta	Moreno Valley of north-central New Mexico	Cully, Jr. & Williams, 2001
+Cynomys ludovicianus	Oropsylla tuberculata	Moreno Valley of north-central New Mexico	Cully, Jr. & Williams, 2001
+Cynomys ludovicianus	Pulex sp.	Moreno Valley of north-central New Mexico	Cully, Jr. & Williams, 2001
+Cynomys ludovicianus	Thrassis fotus	Moreno Valley of north-central New Mexico	Cully, Jr. & Williams, 2001
+Cynomys ludovicianus	Eimeria beecheyi	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Cynomys ludovicianus	Eimeria callospermophili	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Cynomys ludovicianus	Eimeria cynomysis	NORTH AMERICA and EUROPE	Wilber et al., 1998
+Cynomys ludovicianus	Eimeria cynomysis	Near Fort Collins, Colorado	Wilber et al., 1998
+Cynomys ludovicianus	Eimeria lateralis	NORTH AMERICA and ASIA	Wilber et al., 1998
+Cynomys ludovicianus	Eimeria ludoviciani	Near Fort Collins, Colorado	Wilber et al., 1998
+Cynomys ludovicianus	Eimeria vilasi	NORTH AMERICA	Wilber et al., 1998
+Cynomys ludovicianus	Eimeria pseudospermophili	NORTH AMERICA	Wilber et al., 1998
+Cynomys ludovicianus	Eimeria spermophili	NORTH AMERICA	Wilber et al., 1998
+Cynomys ludovicianus	Eimeria vilasi	NORTH AMERICA	Wilber et al., 1998
+Cynomys ludovicianus	Eimeria vilasi	Casper, Wyoming	Seville, 1997
+Cynomys ludovicianus	Eimeria beecheyi	Casper, Wyoming	Seville, 1997
+Cynomys ludovicianus	Eimeria callospermophili	Casper, Wyoming	Seville, 1997
+Cynomys ludovicianus	Eimeria lateralis	Casper, Wyoming	Seville, 1997
+Cynomys ludovicianus	Eimeria vilasi	Casper, Wyoming	Seville, 1997
+Cynomys ludovicianus	Eimeria spermophili	Casper, Wyoming	Seville, 1997
+Cynomys ludovicianus	Eimeria pseudospermophili	Casper, Wyoming	Seville, 1997
+Cynomys ludovicianus	Yersinia pestis	Western Kansas	Cully, Jr. & Williams, 2001
+Cynomys ludovicianus	Yersinia pestis	Texas	Antolin et al., 2002
+Cynomys ludovicianus	Yersinia pestis	Colorado	Antolin et al., 2002
+Cynomys ludovicianus	Yersinia pestis	Wind Cave National Park, near Hot Springs	Antolin et al., 2002
+Cynomys ludovicianus	Yersinia pestis	Phillips County, Montana	Antolin et al., 2002
+Cynomys ludovicianus	Yersinia pestis	Panhandle of Oklahoma	Antolin et al., 2002
+Cynomys ludovicianus	Yersinia pestis	Beaver County, Oklahoma	Antolin et al., 2002
+Cynomys ludovicianus	Yersinia pestis	Cimarron County, Oklahoma	Antolin et al., 2002
+Cynomys ludovicianus	Yersinia pestis	Cimarron National Grassland, Kansas	Antolin et al., 2002
+Cynomys ludovicianus	Yersinia pestis	Pawnee National Grassland	Antolin et al., 2006
+Cynomys ludovicianus	Yersinia pestis	Pawnee National Grassland	Antolin et al., 2002
+Cynomys ludovicianus	Yersinia pestis	Comanche National Grasland. Baca County	Augustine et al., 2008
+Cynomys ludovicianus	Yersinia pestis	Pawnee National Grassland	Augustine et al., 2008
+Cynomys ludovicianus	Yersinia pestis	Northern Phillips County, Montana	Augustine et al., 2008
+Cynomys ludovicianus	Yersinia pestis	Comanche National Grasland. Baca County	Augustine et al., 2008
+Cynomys ludovicianus	Yersinia pestis	Oglala National Grassland, Nebraska	Augustine et al., 2008b
+Cynomys ludovicianus	Francisella tularensis	Texas	Avashia et al., 2004
+Cynomys ludovicianus	Bartonella washoensis	Boulder County, Colorado	Bai et al., 2008
+Cynomys ludovicianus	Bartonella washoensis	Boulder County, Colorado	Bai et al., 2008
+Cynomys ludovicianus	Oropsylla tuberculata	Rocky Mountain National Park, Colorado	Barnes, 1993
+Cynomys ludovicianus	Oropsylla tuberculata	Western Texas	Barnes, 1993
+Cynomys ludovicianus	Oropsylla tuberculata	Oklahoma	Barnes, 1993
+Cynomys ludovicianus	Oropsylla tuberculata	Kansas	Barnes, 1993
+Cynomys ludovicianus	Oropsylla hirsuta	Rocky Mountain National Park, Colorado	Barnes, 1993
+Cynomys ludovicianus	Oropsylla hirsuta	Western Texas	Barnes, 1993
+Cynomys ludovicianus	Oropsylla hirsuta	Oklahoma	Barnes, 1993
+Cynomys ludovicianus	Oropsylla hirsuta	Kansas	Barnes, 1993
+Cynomys ludovicianus	Yersinia pestis	Northern Montana	Biggins et al 2010
+Cynomys ludovicianus	Yersinia pestis	Northern Montana	Biggins et al 2010
+Cynomys ludovicianus	Yersinia pestis	Northern Montana	Biggins et al 2010
+Cynomys ludovicianus	Yersinia pestis	Boulder County, Colorado	Brinkerhoff et al 2010
+Cynomys ludovicianus	Oropsylla hirsuta	Boulder County, Colorado	Brinkerhoff et al 2006
+Cynomys ludovicianus	Oropsylla tuberculata	Boulder County, Colorado	Brinkerhoff et al 2006
+Cynomys ludovicianus	Pulex sp.	Boulder County, Colorado	Brinkerhoff et al 2006
+Cynomys ludovicianus	Pulex simulans	Boulder County, Colorado	Brinkerhoff et al 2006
+Cynomys ludovicianus	Yersinia pestis	Boulder County, Colorado	Brinkerhoff et al 2011
+Cynomys ludovicianus	Raillietina salmoni	Cimarron County, Oklahoma	Buscher & Tyler 1975
+Cynomys ludovicianus	Raillietina salmoni	Harper County, Oklahoma	Buscher & Tyler 1975
+Cynomys ludovicianus	Raillietina salmoni	Woods County, Oklahoma	Buscher & Tyler 1975
+Cynomys ludovicianus	Raillietina salmoni	Grant County, Oklahoma	Buscher & Tyler 1975
+Cynomys ludovicianus	Raillietina sp.	Jackson County, Oklahoma	Buscher & Tyler 1975
+Cynomys ludovicianus	Monkeypox Virus	NORTH AMERICA	Caroll et al 2013
+Cynomys ludovicianus	Oropsylla hirsuta	UNITED STATES	Buhnerkempe et al 2011
+Cynomys ludovicianus	Yersinia pestis	Pawnee National Grassland	Buhnerkempe et al 2011
+Cynomys ludovicianus	Yersinia pestis	Boulder County, Colorado	Collinge et al 2005
+Cynomys ludovicianus	Yersinia pestis	Phillips County, Montana	Collinge et al 2005
+Cynomys ludovicianus	Opisocrostis hirsutus	Conata Basin, Buffalo Gap, National Grassland	Creekmore et al 2002
+Cynomys ludovicianus	Linognathoides cynomyis	Conata Basin, Buffalo Gap, National Grassland	Creekmore et al 2002
+Cynomys ludovicianus	Ixodes sculptus	Conata Basin, Buffalo Gap, National Grassland	Creekmore et al 2002
+Cynomys ludovicianus	Yersinia pestis	Conata Basin, Buffalo Gap, National Grassland	Cully et al 2010
+Cynomys ludovicianus	Yersinia pestis	Wind Cave National Park, near Hot Springs	Cully et al 2010
+Cynomys ludovicianus	Yersinia pestis	Cimarron National Grassland, Kansas	Cully et al 2010
+Cynomys ludovicianus	Yersinia pestis	Comanche National Grasland. Baca County	Cully et al 2010
+Cynomys ludovicianus	Yersinia pestis	Kiowa/Rita Blanca National Grassland	Cully et al 2010
+Cynomys ludovicianus	Yersinia pestis	Thunder Basin National Grassland	Cully et al 2010
+Cynomys ludovicianus	Oropsylla hirsuta	Cimarron National Grassland, Kansas	Cully et al 2000
+Cynomys ludovicianus	Thrassis fotus	Cimarron National Grassland, Kansas	Cully et al 2000
+Cynomys ludovicianus	Pulex sp.	Cimarron National Grassland, Kansas	Cully et al 2000
+Cynomys parvidens	Yersinia pestis	UNITED STATES	Ubico et al., 1988
+Cynomys parvidens	Yersinia pestis	Southern Utah	Biggins et al 2010
+Cynomys parvidens	Yersinia pestis	Southern Utah	Biggins et al 2010
+Cynomys parvidens	Yersinia pestis	Southern Utah	Biggins et al 2010
+Cynomys parvidens	Yersinia pestis	Southern Utah	Biggins et al 2010
+Cynomys parvidens	Yersinia pestis	Southern Utah	Biggins et al 2010
+Cynomys sp.	Lyssavirus sp.	UNITED STATES	Childs et al., 1997
+Cynomys sp.	Eimeria cynomysis	NORTH AMERICA and EUROPE	Wilber et al., 1998
+Cynomys sp.	Ochlerotatus triseriatus	Iowa County, Wisconsin	Burkot & Defoliart 1982
+Cynomys sp.	Monkeypox Virus	Illinois	Centers for Disease, Control Prevention 2003
+Cynomys sp.	Monkeypox Virus	Indiana	Centers for Disease, Control Prevention 2003
+Cynomys sp.	Monkeypox Virus	Wisconsin	Centers for Disease, Control Prevention 2003
+Dremomys pernyi	Spuropsylla monoseta	Western Yunnan	Li et al., 1982
+Dremomys rufigenis	Macrostylophora perplexa	An Khe, Gia-Lai Province	Beaucournu & Sountsov, 1999
+Tamias amoenus	Opisodasys keeni	Bend, Deschutes County, Oregon	Hopkins, 1985
+Tamias amoenus	Oropsylla idahoensis	Bend, Deschutes County, Oregon	Hopkins, 1985
+Tamias amoenus	Malaraeus telchinus	Bend, Deschutes County, Oregon	Hopkins, 1985
+Tamias amoenus	Aetheca wagneri	Bend, Deschutes County, Oregon	Hopkins, 1985
+Tamias amoenus	Ceratophyllus ciliatus	Bend, Deschutes County, Oregon	Hopkins, 1985
+Tamias amoenus	Aetheca eumolpi	Bend, Deschutes County, Oregon	Hopkins, 1985
+Tamias amoenus	Peromyscopsylla sp.	Bend, Deschutes County, Oregon	Hopkins, 1985
+Tamias amoenus	Androlaelaps fahrenholzi	Oregon, Union County	Whitaker, Jr. & Maser, 1985
+Tamias amoenus	Proctolaelaps sp.	Oregon, Union County	Whitaker, Jr. & Maser, 1985
+Tamias amoenus	Androlaelaps fahrenholzi	Oregon	Whitaker, Jr. & Maser, 1985
+Tamias amoenus	Heteroxynema cucullatum	Colorado	Archie et al., 1988
+Tamias amoenus	Hantavirus sp.	Mammoth Lakes, California	Turell et al., 1995
+Tamias amoenus	Colorado tick fever	Bitterroot Valley near Hamilton, Montana	Bowen et al 1981
+Tamias amoenus	Colorado tick fever	California	Bowen et al 1981
+Tamias amoenus	Colorado tick fever	Not reported	Bowen et al 1981
+Tamias amoenus	Colorado tick fever	Bitterroot Valley near Hamilton, Montana	Burgdorfer & Eklund 1960
+Tamias amoenus	Colorado tick fever	Bitterroot Valley near Hamilton, Montana	Burgdorfer & Eklund 1960
+Tamias amoenus	Colorado tick fever	Bitterroot Valley near Hamilton, Montana	Burgdorfer & Eklund 1960
+Tamias sibiricus	Eimeria beecheyi	JAPAN	Hill & Duszynski, 1986
+Tamias canipes	Eimeria vilasi	Eddy County, New Mexico	Hill & Duszynski, 1986
+Tamias canipes	Eimeria beecheyi	Eddy County, New Mexico	Hill & Duszynski, 1986
+Tamias canipes	Eimeria vilasi	Lincoln County, New Mexico	Hill & Duszynski, 1986
+Tamias canipes	Eimeria beecheyi	Lincoln County, New Mexico	Hill & Duszynski, 1986
+Tamias dorsalis	Eimeria vilasi	3.2km N.E. of Rustler Park, Cochise County, Arizona	Hill & Duszynski, 1986
+Tamias dorsalis	Eimeria beecheyi	3.2km N.E. of Rustler Park, Cochise County, Arizona	Hill & Duszynski, 1986
+Tamias dorsalis	Eimeria tamiasciuri	Cochise County, Arizona	Hill & Duszynski, 1986
+Tamias dorsalis	Eimeria eutamiae	Arizona	Hill & Duszynski, 1986
+Tamias dorsalis	Colorado tick fever	Not reported	Bowen et al 1981
+Tamias merriami	Eimeria vilasi	Los Angeles County, California	Hill & Duszynski, 1986
+Tamias merriami	Eimeria tamiasciuri	Riverside County, California	Hill & Duszynski, 1986
+Tamias merriami	Eimeria vilasi	Riverside County, California	Hill & Duszynski, 1986
+Tamias minimus	Flavivirus sp.	Fort McMurray, Alberta	Zarnke & Yuill, 1985
+Tamias minimus	Ixodes scapularis	Wisconsin	Godsey, Jr. et al., 1987
+Tamias minimus	Syphacia eutamii	Minnesota	Archie et al., 1988
+Tamias minimus	Hantavirus sp.	Mammoth Lakes, California	Turell et al., 1995
+Tamias minimus	Ixodes sp.	White Swan, Yakima County 	Bacon et al 1959
+Tamias minimus	Colorado tick fever	Rocky Mountain National Park, Colorado	Bowen et al 1981
+Tamias minimus	Colorado tick fever	Rocky Mountain National Park, Colorado	Carey et al 1980
+Tamias minimus	Dermacentor andersoni	Rocky Mountain National Park, Colorado	Carey et al 1980
+Tamias minimus	Ixodes sculptus	Rocky Mountain National Park, Colorado	Carey et al 1980
+Tamias minimus	Ixodes spinipalpis	Rocky Mountain National Park, Colorado	Carey et al 1980
+Tamias obscurus	Eimeria vilasi	Baja California Norte	Hill & Duszynski, 1986
+Tamias obscurus	Eimeria beecheyi	Riverside County, California	Hill & Duszynski, 1986
+Tamias obscurus	Eimeria tamiasciuri	Baja California Norte	Hill & Duszynski, 1986
+Tamias obscurus	Eimeria lateralis	Baja California Norte	Hill & Duszynski, 1986
+Tamias obscurus	Eimeria vilasi	Riverside County, California	Hill & Duszynski, 1986
+Tamias obscurus	Eimeria vilasi	San Bernardino County, California	Hill & Duszynski, 1986
+Tamias palmeri	Pterygodermatites coloradensis	Mount Charleston area, Lincoln county, Nevada	Archie et al., 1988
+Tamias palmeri	Syphacia eutamii	Pahrump and higher elevations of Mt. Charleston, Nevada	Archie et al., 1988
+Tamias panamintinus	Syphacia eutamii	Pahrump and higher elevations of Mt. Charleston, Nevada	Archie et al., 1988
+Tamias quadrivittatus	Pterygodermatites coloradensis	UNITED STATES	Archie et al., 1988
+Tamias quadrivittatus	Epitedia stanfordi	Mesa Verde National Park, Colorado	Beck 1966
+Tamias quadrivittatus	Malaraeus sinomus	Mesa Verde National Park, Colorado	Beck 1966
+Tamias quadrivittatus	Malaraeus telchinus	Mesa Verde National Park, Colorado	Beck 1966
+Tamias quadrivittatus	Megaroglossus procus	Mesa Verde National Park, Colorado	Beck 1966
+Tamias quadrivittatus	Aetheca eumolpi	Mesa Verde National Park, Colorado	Beck 1966
+Tamias quadrivittatus	Aetheca wagneri	Mesa Verde National Park, Colorado	Beck 1966
+Tamias quadrivittatus	Peromyscopsylla hesperomys	Mesa Verde National Park, Colorado	Beck 1966
+Tamias senex	Opisodasys keeni	Bend, Deschutes County, Oregon	Hopkins, 1985
+Tamias senex	Aetheca wagneri	Bend, Deschutes County, Oregon	Hopkins, 1985
+Tamias senex	Aetheca eumolpi	Bend, Deschutes County, Oregon	Hopkins, 1985
+Tamias sibiricus	Ixodes persulcatus	22nd Forestry Center, Hailin County, Heilongjiang Province	Ai et al., 1991
+Tamias sp.	Heteroxynema cucullatum	Utah	Archie et al., 1988
+Tamias sp.	Heteroxynema cucullatum	Nye, Esmeralda, Lincoln, and Clark Counties, Nevada	Archie et al., 1988
+Tamias speciosus	Hantavirus sp.	Mammoth Lakes, California	Turell et al., 1995
+Tamias striatus	Spirura michiganensis	Michigan	Anderson et al 1993
+Tamias townsendii	Dermacarus jonesi	Oregon	Whitaker, Jr. & Maser, 1985
+Tamias townsendii	Dermacarus spermophilus	Oregon	Whitaker, Jr. & Maser, 1985
+Tamias townsendii	Glycyphagus hypudaei	Oregon	Whitaker, Jr. & Maser, 1985
+Tamias townsendii	Alphalaelaps aplodontiae	Oregon	Whitaker, Jr. & Maser, 1985
+Tamias townsendii	Hirstionyssus affinis	Oregon	Whitaker, Jr. & Maser, 1985
+Tamias townsendii	Eubrachylaelaps debilis	Oregon	Whitaker, Jr. & Maser, 1985
+Tamias townsendii	Eulaelaps stabularis	Oregon	Whitaker, Jr. & Maser, 1985
+Tamias townsendii	Haemogamasus occidentalis	Oregon	Whitaker, Jr. & Maser, 1985
+Tamias townsendii	Haemogamasus reidi	Oregon	Whitaker, Jr. & Maser, 1985
+Tamias townsendii	Eimeria vilasi	Clallan County, Washington	Hill & Duszynski, 1986
+Tamias townsendii	Eimeria beecheyi	Clallan County, Washington	Hill & Duszynski, 1986
+Tamias umbrinus	Colorado tick fever	Rocky Mountain National Park, Colorado	Bowen et al 1981
+Tamias umbrinus	Colorado tick fever	Rocky Mountain National Park, Colorado	Carey et al 1980
+Tamias umbrinus	Dermacentor andersoni	Rocky Mountain National Park, Colorado	Carey et al 1980
+Tamias umbrinus	Ixodes sculptus	Rocky Mountain National Park, Colorado	Carey et al 1980
+Tamias umbrinus	Ixodes spinipalpis	Rocky Mountain National Park, Colorado	Carey et al 1980
+Xerus erythropus	Trypanosoma xeri	Thies region of Senegal	Ranque, 1977
+Funambulus palmarum	Trypanosoma indicum	INDIA	Ranque, 1977
+Funambulus palmarum	Oxynema indica	Lucknow	Gupta & Jaiswal, 1985
+Funambulus palmarum	Orthohepadnavirus sp.	Around Lucknow	Mehrotra & Mehrotra, 1987
+Funambulus pennantii	Hymenolepis pennanti	Jodhpur	Neb & Nama, 1993
+Funambulus pennantii	Vampirolepis fraterna	Jodhpur	Neb & Nama, 1993
+Funambulus pennantii	Paraheterakis gubernaculi	Jodhpur	Neb & Nama, 1993
+Funambulus pennantii	Syphacia pennanti	Jodhpur	Neb & Nama, 1993
+Funambulus pennantii	Physaloptera funambuli	Jodhpur	Neb & Nama, 1993
+Funambulus pennantii	Rictularia incognita	Jodhpur	Neb & Nama, 1993
+Funambulus pennantii	Hymenolepis pennanti	Jodhpur	Neb & Nama, 1993
+Funambulus pennantii	Vampirolepis fraterna	Jodhpur	Neb & Nama, 1993
+Funambulus pennantii	Paraheterakis gubernaculi	Jodhpur	Neb & Nama, 1993
+Funambulus pennantii	Syphacia pennanti	Jodhpur	Neb & Nama, 1993
+Funambulus pennantii	Physaloptera funambuli	Jodhpur	Neb & Nama, 1993
+Funambulus pennantii	Rictularia incognita	Jodhpur	Neb & Nama, 1993
+Funambulus pennantii	Dorisa bengalensis	South of Howrah town, Howrah Region, West Bengal	Bandyopadhyay, 1986
+Funambulus pennantii	Listrophorus sp.	 Agricultural fields of CCS HAU Farm, Hisar	Chaudhary et al., 1994
+Funambulus pennantii	Myocoptes musculinus	 Agricultural fields of CCS HAU Farm, Hisar	Chaudhary et al., 1994
+Funambulus pennantii	Radfordia sp.	 Agricultural fields of CCS HAU Farm, Hisar	Chaudhary et al., 1994
+Funambulus pennantii	Dermanyssus sp.	 Agricultural fields of CCS HAU Farm, Hisar	Chaudhary et al., 1994
+Funambulus pennantii	Androlaelaps sp.	 Agricultural fields of CCS HAU Farm, Hisar	Chaudhary et al., 1994
+Funambulus pennantii	Laelaps sp.	 Agricultural fields of CCS HAU Farm, Hisar	Chaudhary et al., 1994
+Funambulus pennantii	Cheyletus malaccensis	 Agricultural fields of CCS HAU Farm, Hisar	Chaudhary et al., 1994
+Funambulus pennantii	Cheletopsis sp.	 Agricultural fields of CCS HAU Farm, Hisar	Chaudhary et al., 1994
+Funambulus pennantii	Trombicula sp.	 Agricultural fields of CCS HAU Farm, Hisar	Chaudhary et al., 1994
+Funambulus pennantii	Whartonia sp.	 Agricultural fields of CCS HAU Farm, Hisar	Chaudhary et al., 1994
+Funambulus pennantii	Acomatacarus sp.	 Agricultural fields of CCS HAU Farm, Hisar	Chaudhary et al., 1994
+Funambulus pennantii	Caloglyphus oudemansi	 Agricultural fields of CCS HAU Farm, Hisar	Chaudhary et al., 1994
+Funambulus pennantii	Paraheterakis funambuli	Lucknow	Arya, 1987
+Funisciurus anerythrus	Syphacia adami	CONGO	Hugot & Brochier, 1988
+Funisciurus anerythrus	Orthopoxvirus sp.	AFRICA	Marennikova et al., 1989
+Funisciurus anerythrus	Orthopoxvirus sp.	Not reported	Marennikova et al., 1989
+Funisciurus anerythrus	Orthopoxvirus sp.	Not reported	Sainsbury et al., 2000
+Funisciurus congicus	Trypanosoma sciuri	ZAIRE	Ranque, 1977
+Funisciurus isabella	Syphacia interjecta	GABON	Hugot & Brochier, 1988
+Funisciurus lemniscatus	Syphacia adami	GABON	Hugot & Brochier, 1988
+Funisciurus pyrropus	Syphacia adami	CONGO	Hugot & Brochier, 1988
+Glaucomys sabrinus	Orchopeas caedens	19km outside Sherbrooke, Quebec	Robert & Bergeron, 1977
+Glaucomys sabrinus	Flavivirus sp.	Fort McMurray, Alberta	Zarnke & Yuill, 1985
+Glaucomys sabrinus	Acotyledon paradoxa	Oregon	Whitaker, Jr. & Maser, 1985
+Glaucomys sabrinus	Acaropsellina summersi	Oregon	Whitaker, Jr. & Maser, 1985
+Glaucomys sabrinus	Camincheyletus glaucomys	Oregon	Whitaker, Jr. & Maser, 1985
+Glaucomys sabrinus	Eucheyletia bishoppi	Oregon	Whitaker, Jr. & Maser, 1985
+Glaucomys sabrinus	Dermanyssus gallinoides	Oregon	Whitaker, Jr. & Maser, 1985
+Glaucomys sabrinus	Dermacarus tamiasciuri	Oregon	Whitaker, Jr. & Maser, 1985
+Glaucomys sabrinus	Gohieria sp.	Oregon	Whitaker, Jr. & Maser, 1985
+Glaucomys sabrinus	Androlaelaps casalis	Oregon	Whitaker, Jr. & Maser, 1985
+Glaucomys sabrinus	Androlaelaps fahrenholzi	Oregon	Whitaker, Jr. & Maser, 1985
+Glaucomys sabrinus	Hirstionyssus cynomys	Oregon	Whitaker, Jr. & Maser, 1985
+Glaucomys sabrinus	Echinonyssus longichelae	Oregon	Whitaker, Jr. & Maser, 1985
+Glaucomys sabrinus	Haemogamasus pontiger	Oregon	Whitaker, Jr. & Maser, 1985
+Glaucomys sabrinus	Haemogamasus reidi	Oregon	Whitaker, Jr. & Maser, 1985
+Glaucomys sabrinus	Strongyloides robustus	Connecticut	Patrick, 1991a
+Glaucomys sabrinus	Strongyloides robustus	Not reported	Weigl et al., 1992
+Glaucomys sabrinus	Strongyloides robustus	Not reported	Wetzel & Weigl, 1994
+Glaucomys sabrinus	Orchopeas nepos	Oregon	Eads et al., 1985
+Glaucomys sabrinus	Strongyloides robustus	Connecticut	Bartlett, 1995
+Glaucomys sabrinus	Syphacia thompsoni	Virginia	Pung et al., 2000
+Glaucomys sabrinus	Strongyloides robustus	Virginia	Bartlett, 1995
+Glaucomys sabrinus	Strongyloides robustus	Florida	Bartlett, 1995
+Glaucomys sabrinus	Strongyloides robustus	Pennsylvania	Bartlett, 1995
+Glaucomys sabrinus	Strongyloides robustus	North Carolina	Bartlett, 1995
+Glaucomys sabrinus	Microphthirus uncinatus	British Columbia	Pung et al., 2000
+Glaucomys sabrinus	Microphthirus uncinatus	California	Pung et al., 2000
+Glaucomys sabrinus	Microphthirus uncinatus	Oregon	Pung et al., 2000
+Glaucomys sabrinus	Microphthirus uncinatus	Minnesota	Pung et al., 2000
+Glaucomys sabrinus	Hoplopleura trispinosa	North America	Pung et al., 2000
+Glaucomys sabrinus	Neohaematopinus sciuropteri	North America	Pung et al., 2000
+Glaucomys sabrinus	Epitedia faceta	Vermont	Pung et al., 2000
+Glaucomys sabrinus	Conorhinopsylla stanfordi	Vermont	Pung et al., 2000
+Glaucomys sabrinus	Dermacentor variabilis	Virginia	Pung et al., 2000
+Glaucomys sabrinus	Ixodes marxi	Virginia	Pung et al., 2000
+Glaucomys sabrinus	Ixodes scapularis	Virginia	Pung et al., 2000
+Glaucomys sabrinus	Ixodes scapularis	Regions of Quebec	Bouchard et al 2011
+Glaucomys sp.	Hoplopleura trispinosa	UNITED STATES	Durden et al., 1997
+Glaucomys sp.	Opisodasys pseudarctomys	Tennessee	Durden & Kollars, Jr., 1997
+Glaucomys volans	Lyssavirus sp.	UNITED STATES	Childs et al., 1997
+Glaucomys volans	Ixodes scapularis	Wisconsin	Godsey, Jr. et al., 1987
+Glaucomys volans	Rickettsia prowazekii	Florida	McDade, 1987
+Glaucomys volans	Orchopeas howardii	UNITED STATES	McDade, 1987
+Glaucomys volans	Conorhinopsylla stanfordi	UNITED STATES	McDade, 1987
+Glaucomys volans	Opisodasys pseudarctomys	UNITED STATES	McDade, 1987
+Glaucomys volans	Epitedia faceta	UNITED STATES	McDade, 1987
+Glaucomys volans	Neohaematopinus sciuropteri	UNITED STATES	McDade, 1987
+Glaucomys volans	Hoplopleura sciuricola	UNITED STATES	McDade, 1987
+Glaucomys volans	Haemogamasus reidi	UNITED STATES	McDade, 1987
+Glaucomys volans	Androlaelaps fahrenholzi	UNITED STATES	McDade, 1987
+Glaucomys volans	Psorergates glaucomys	UNITED STATES	McDade, 1987
+Glaucomys volans	Miyatrombicula esoensis	UNITED STATES	McDade, 1987
+Glaucomys volans	Miyatrombicula cynos	UNITED STATES	McDade, 1987
+Glaucomys volans	Neotrombicula harperi	UNITED STATES	McDade, 1987
+Glaucomys volans	Neotrombicula fitchi	UNITED STATES	McDade, 1987
+Glaucomys volans	Leptotrombidium sp.	UNITED STATES	McDade, 1987
+Glaucomys volans	Ixodes marxi	UNITED STATES	McDade, 1987
+Glaucomys volans	Dermacentor andersoni	UNITED STATES	McDade, 1987
+Glaucomys volans	Moniliformis dubius	UNITED STATES	Archie et al., 1988
+Glaucomys volans	Strongyloides robustus	Connecticut	Patrick, 1991a
+Glaucomys volans	Capillaria americana	Indiana County, Pennsylvania	Patrick, 1991a
+Glaucomys volans	Strongyloides robustus	Indiana County, Pennsylvania	Patrick, 1991a
+Glaucomys volans	Citellinema bifurcatum	Indiana County, Pennsylvania	Patrick, 1991a
+Glaucomys volans	Strongyloides robustus	Not reported	Weigl et al., 1992
+Glaucomys volans	Strongyloides robustus	Not reported	Wetzel & Weigl, 1994
+Glaucomys volans	Hoplopleura trispinosa	Shelby County, Tennessee	Durden et al., 1997
+Glaucomys volans	Neohaematopinus sciuropteri	11km southwest of Nashville, Davidson County, Tennessee	Durden et al., 1997
+Glaucomys volans	Orchopeas howardii	Tennessee	Durden & Kollars, Jr., 1997
+Glaucomys volans	Ixodes scapularis	Van Cortlandt Park, New York City, New York	Daniels et al., 1997
+Glaucomys volans	Opisodasys pseudarctomys	Dickinson County, approx. 13km east of Sagola, Michigan	Scharf & Lederle, 1998
+Glaucomys volans	Orchopeas caedens	Dickinson County, approx. 13km east of Sagola, Michigan	Scharf & Lederle, 1998
+Glaucomys volans	Rickettsia prowazekii	Florida	Moron et al., 2000
+Glaucomys volans	Rickettsia prowazekii	Eastern United States	Regnery et al., 1986
+Glaucomys volans	Enterobius sciuri	Not reported	Patrick & Wilson, 1995
+Glaucomys volans	Ixodes scapularis	Naval Weapons Station, Earle, Monmouth County, New Jersey	Schulze et al., 1986
+Glaucomys volans	Strongyloides robustus	Connecticut	Bartlett, 1995
+Glaucomys volans	Strongyloides robustus	University Lodge on the Campus of Indiana Unversity of Pennsylvania	Patrick, 1991b
+Glaucomys volans	Capillaria americana	University Lodge on the Campus of Indiana Unversity of Pennsylvania	Patrick, 1991b
+Glaucomys volans	Citellinema bifurcatum	University Lodge on the Campus of Indiana Unversity of Pennsylvania	Patrick, 1991b
+Glaucomys volans	Neohaematopinus sciuropteri	UNITED STATES	Pung et al., 2000
+Glaucomys volans	Orchopeas howardii	UNITED STATES	Pung et al., 2000
+Glaucomys volans	Neohaematopinus sciuropteri	Fort Stewart Military Reservation, Georgia	Pung et al., 2000
+Glaucomys volans	Hoplopleura trispinosa	Fort Stewart Military Reservation, Georgia	Pung et al., 2000
+Glaucomys volans	Microphthirus uncinatus	Fort Stewart Military Reservation, Georgia	Pung et al., 2000
+Glaucomys volans	Orchopeas howardii	Fort Stewart Military Reservation, Georgia	Pung et al., 2000
+Glaucomys volans	Amblyomma maculatum	Fort Stewart Military Reservation, Georgia	Pung et al., 2000
+Glaucomys volans	Ixodes scapularis	Fort Stewart Military Reservation, Georgia	Pung et al., 2000
+Glaucomys volans	Androlaelaps casalis	Fort Stewart Military Reservation, Georgia	Pung et al., 2000
+Glaucomys volans	Androlaelaps fahrenholzi	Fort Stewart Military Reservation, Georgia	Pung et al., 2000
+Glaucomys volans	Haemogamasus ambulans	Fort Stewart Military Reservation, Georgia	Pung et al., 2000
+Glaucomys volans	Leptotrombidium peromysci	Fort Stewart Military Reservation, Georgia	Pung et al., 2000
+Glaucomys volans	Moniliformis clarki	Fort Stewart Military Reservation, Georgia	Pung et al., 2000
+Glaucomys volans	Citellinema bifurcatum	Fort Stewart Military Reservation, Georgia	Pung et al., 2000
+Glaucomys volans	Strongyloides robustus	Fort Stewart Military Reservation, Georgia	Pung et al., 2000
+Glaucomys volans	Syphacia thompsoni	Fort Stewart Military Reservation, Georgia	Pung et al., 2000
+Glaucomys volans	Epitedia faceta	New York	Pung et al., 2000
+Glaucomys volans	Conorhinopsylla stanfordi	New York	Pung et al., 2000
+Glaucomys volans	Haemogamasus reidi	UNITED STATES	Pung et al., 2000
+Glaucomys volans	Neotrombicula fitchi	Indiana County, Pennsylvania	Pung et al., 2000
+Glaucomys volans	Syphacia thompsoni	Virginia	Pung et al., 2000
+Glaucomys volans	Moniliformis clarki	Florida	Pung et al., 2000
+Glaucomys volans	Citellinema bifurcatum	Northern United States	Pung et al., 2000
+Glaucomys volans	Capillaria americana	Northern United States	Pung et al., 2000
+Glaucomys volans	Enterobius sciuri	Northern United States	Pung et al., 2000
+Glaucomys volans	Strongyloides robustus	Connecticut	Pung et al., 2000
+Glaucomys volans	Catenotaenia pusilla	Connecticut	Pung et al., 2000
+Glaucomys volans	Syphacia thompsoni	Florida	Pung et al., 2000
+Glaucomys volans	Syphacia thompsoni	Pennsylvania	Pung et al., 2000
+Glaucomys volans	Syphacia thompsoni	Virginia	Pung et al., 2000
+Glaucomys volans	Syphacia thompsoni	Connecticut	Pung et al., 2000
+Glaucomys volans	Strongyloides robustus	Florida	Pung et al., 2000
+Glaucomys volans	Strongyloides robustus	Pennsylvania	Pung et al., 2000
+Glaucomys volans	Moniliformis clarki	Florida	Pung et al., 2000
+Glaucomys volans	Neotrombicula fitchi	New Jersey	Pung et al., 2000
+Glaucomys volans	Enterobius sciuri	Fort Stewart Military Reservation, Georgia	Pung et al., 2000
+Glaucomys volans	Lyssavirus sp.	Alabama	Fishbein et al., 1986
+Glaucomys volans	Lyssavirus sp.	Maryland	Fishbein et al., 1986
+Glaucomys volans	Lyssavirus sp.	Texas	Fishbein et al., 1986
+Glaucomys volans	Lyssavirus sp.	Pennsylvania	Fishbein et al., 1986
+Glaucomys volans	Rickettsia prowazekii	Virginia	McDade, 1987
+Glaucomys volans	Rickettsia prowazekii	Virginia	Moron et al., 2000
+Glaucomys volans	Psorergates glaucomys	Savannah, Georgia	Ah el at. 1973
+Glaucomys volans	Rickettsia prowazekii	Near Montpelier, Virginia	Bozeman et al 1975
+Glaucomys volans	Rickettsia prowazekii	Near Ashland, Virginia	Bozeman et al 1975
+Glaucomys volans	Rickettsia prowazekii	Near Ashland, Virginia	Bozeman et al 1975
+Glaucomys volans	Rickettsia prowazekii	Florida	Bozeman et al 1975
+Glaucomys volans	Rickettsia prowazekii	Eastern United States	Chapman et al 2009
+Glaucomys volans	Rickettsia prowazekii	Pennsylvania	Chapman et al 2009
+Heliosciurus gambianus	Trypanosoma sciuri	FRENCH GUINEA	Ranque, 1977
+Heliosciurus gambianus	Syphacia pearsi	Pelende, Bandudu	Hugot & Brochier, 1988
+Heliosciurus gambianus	Syphacia pearsi	ZAIRE	Hugot & Brochier, 1988
+Heliosciurus rufobrachium	Syphacia pearsi	NIGERIA	Hugot & Brochier, 1988
+Heliosciurus rufobrachium	Syphacia pearsi	NIGERIA	Hugot & Brochier, 1988
+Heliosciurus rufobrachium	Orthopoxvirus sp.	Not reported	Marennikova et al., 1989
+Heliosciurus rufobrachium	Orthopoxvirus sp.	Not reported	Sainsbury et al., 2000
+Spermophilus mexicanus	Trypanosoma cruzi	Uvalde County, Texas	Charles et al 2013
+Lariscus insignis	Syphacia insignis	Ulu Endau, Johore	Inder Singh et al., 1987
+Lariscus insignis	 Platynosomum muris	Ulu Endau, Johore	Inder Singh et al., 1987
+Marmota baibacina	Eimeria callospermophili	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Marmota baibacina	Eimeria cynomysis	NORTH AMERICA	Wilber et al., 1998
+Marmota baibacina	Eimeria lateralis	NORTH AMERICA and ASIA	Wilber et al., 1998
+Marmota baibacina	Eimeria callospermophili	NORTH AMERICA and ASIA	Wilber et al., 1998
+Marmota baibacina	Eimeria callospermophili	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Marmota baibacina	Eimeria surki	Alma-Ata, Kerekin area	Wilber et al., 1998
+Marmota bobak	Eimeria callospermophili	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Marmota bobak	Eimeria cynomysis	NORTH AMERICA	Wilber et al., 1998
+Marmota bobak	Eimeria lateralis	NORTH AMERICA and ASIA	Wilber et al., 1998
+Marmota bobak	Eimeria callospermophili	NORTH AMERICA and ASIA	Wilber et al., 1998
+Marmota bobak	Eimeria callospermophili	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Marmota bobak	Eimeria surki	Alma-Ata, Kerekin area	Wilber et al., 1998
+Marmota bobak	Eimeria lateralis	Not reported	Wilber et al., 1998
+Marmota caudata	Eimeria callospermophili	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Marmota flaviventris	Eimeria beecheyi	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Marmota flaviventris	Eimeria callospermophili	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Marmota flaviventris	Eimeria vilasi	NORTH AMERICA	Wilber et al., 1998
+Marmota flaviventris	Eimeria spermophili	NORTH AMERICA	Wilber et al., 1998
+Marmota flaviventris	Eimeria beecheyi	Not reported	Seville, 1997
+Marmota flaviventris	Eimeria callospermophili	Not reported	Seville, 1997
+Marmota flaviventris	Eimeria vilasi	not reported	Seville, 1997
+Marmota marmota	Eimeria callospermophili	NORTH AMERICA and ASIA	Wilber et al., 1998
+Marmota marmota	Eimeria arctomysi	Not reported	Wilber et al., 1998
+Marmota marmota	Eimeria cynonymis	Not reported	Wilber et al., 1998
+Marmota menzbieri	Eimeria callospermophili	KASACHSTAN	Wilber et al., 1998
+Marmota menzbieri	Eimeria callospermophili	NORTH AMERICA and ASIA	Wilber et al., 1998
+Marmota menzbieri	Eimeria callospermophili	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Marmota menzbieri	Eimeria monacis	Not reported	Wilber et al., 1998
+Marmota monax	Oropsylla arctomys	Wisconsin, Indiana  and Iowa	Amin & Wagner, 1983
+Marmota monax	Lyssavirus sp.	UNITED STATES	Childs et al., 1997
+Marmota monax	Ixodes cookei	100 km radius around Guelph, Ontario	Barker et al., 1993
+Marmota monax	Borrelia burgdorferi	100 km radius around Guelph, Ontario	Barker et al., 1993
+Marmota monax	Lyssavirus sp.	Delaware	Moro et al., 1991
+Marmota monax	Lyssavirus sp.	Maryland	Moro et al., 1991
+Marmota monax	Lyssavirus sp.	Pennsylvania	Moro et al., 1991
+Marmota monax	Lyssavirus sp.	Virginia	Moro et al., 1991
+Marmota monax	Lyssavirus sp.	West Virginia	Moro et al., 1991
+Marmota monax	Lyssavirus sp.	Maryland	Moro et al., 1991
+Marmota monax	Oropsylla arctomys	UNITED STATES	Addison et al., 1978
+Marmota monax	Eimeria lateralis	Not reported	Fleming et al., 1979
+Marmota monax	Eimeria callospermophili	Not reported	Fleming et al., 1979
+Marmota monax	Eimeria callospermophili	Not reported	Fleming et al., 1979
+Marmota monax	Eimeria callospermophili	Not reported	Fleming et al., 1979
+Marmota monax	Androlaelaps fahrenholzi	Not reported	Fleming et al., 1979
+Marmota monax	Ixodes sp.	Not reported	Fleming et al., 1979
+Marmota monax	Taenia crassiceps	Ontario	Fleming et al., 1979
+Marmota monax	Taenia mustelae	Ontario	Fleming et al., 1979
+Marmota monax	Dicrocoelium dendriticum	New York	Fleming et al., 1979
+Marmota monax	Quinqueserialis hassalli	Wisconsin	Fleming et al., 1979
+Marmota monax	Strongyloides sp.	Maryland	Fleming et al., 1979
+Marmota monax	Capillaria hepatica	New York	Fleming et al., 1979
+Marmota monax	Capillaria sp.	UNITED STATES	Fleming et al., 1979
+Marmota monax	Baylisascaris laevis	Pennsylvania	Fleming et al., 1979
+Marmota monax	Baylisascaris columnaris	Pennsylvania	Fleming et al., 1979
+Marmota monax	Citellina triradiata	Maine	Fleming et al., 1979
+Marmota monax	Passalurus ambiguus	New York	Fleming et al., 1979
+Marmota monax	Citellinema bifurcatum	Maine	Fleming et al., 1979
+Marmota monax	Graphidium sp.	New York	Fleming et al., 1979
+Marmota monax	Obeliscoides cuniculi	Minnesota	Fleming et al., 1979
+Marmota monax	Trichostrongylus calcaratus	UNITED STATES	Fleming et al., 1979
+Marmota monax	Heligmostomum sp.	New York	Fleming et al., 1979
+Marmota monax	Physaloptera sp.	Ontario	Fleming et al., 1979
+Marmota monax	Ackertia marmotae	Ontario	Fleming et al., 1979
+Marmota monax	Eimeria callospermophili	Tompkins County, Finger Lakes Region, New York	Fleming et al., 1979
+Marmota monax	Eimeria callospermophili	Tompkins County, Finger Lakes Region, New York	Fleming et al., 1979
+Marmota monax	Eimeria callospermophili	Tompkins County, Finger Lakes Region, New York	Fleming et al., 1979
+Marmota monax	Eimeria lateralis	Tompkins County, Finger Lakes Region, New York	Fleming et al., 1979
+Marmota monax	Taenia crassiceps	Tompkins County, Finger Lakes Region, New York	Fleming et al., 1979
+Marmota monax	Taenia mustelae	Tompkins County, Finger Lakes Region, New York	Fleming et al., 1979
+Marmota monax	Ackertia marmotae	Tompkins County, Finger Lakes Region, New York	Fleming et al., 1979
+Marmota monax	Baylisascaris laevis	Tompkins County, Finger Lakes Region, New York	Fleming et al., 1979
+Marmota monax	Capillaria tamiasstriati	Tompkins County, Finger Lakes Region, New York	Fleming et al., 1979
+Marmota monax	Citellina triradiata	Tompkins County, Finger Lakes Region, New York	Fleming et al., 1979
+Marmota monax	Citellinema bifurcatum	Tompkins County, Finger Lakes Region, New York	Fleming et al., 1979
+Marmota monax	Obeliscoides cuniculi	Tompkins County, Finger Lakes Region, New York	Fleming et al., 1979
+Marmota monax	Strongyloides sp.	Tompkins County, Finger Lakes Region, New York	Fleming et al., 1979
+Marmota monax	Trichostrongylus axei	Tompkins County, Finger Lakes Region, New York	Fleming et al., 1979
+Marmota monax	Androlaelaps fahrenholzi	Tompkins County, Finger Lakes Region, New York	Fleming et al., 1979
+Marmota monax	Enderleinellus marmotae	Tompkins County, Finger Lakes Region, New York	Fleming et al., 1979
+Marmota monax	Ixodes cookei	Tompkins County, Finger Lakes Region, New York	Fleming et al., 1979
+Marmota monax	Oropsylla arctomys	Tompkins County, Finger Lakes Region, New York	Fleming et al., 1979
+Marmota monax	Oropsylla arctomys	Salcha River, 80km upstream from Tanana River, Alaska	Haas et al., 1982
+Marmota monax	Orthohepadnavirus sp.	Not reported	Ponzetto et al., 1985
+Marmota monax	Ixodes scapularis	Wisconsin	Godsey, Jr. et al., 1987
+Marmota monax	Orthohepadnavirus sp.	Not reported	Korba et al., 1990
+Marmota monax	Ixodes cookei	Not reported	Farkas & Surgeoner, 1991
+Marmota monax	Klossia sp.	Pennsylvania	Seville et al., 1992
+Marmota monax	Oropsylla arctomys	Pennsylvania	Serfass et al., 1992
+Marmota monax	Orthohepadnavirus sp.	Not reported	Cullen et al., 1994
+Marmota monax	Dermacentor variabilis	Kansas	Brillhart et al., 1994
+Marmota monax	Baylisascaris sp.	Kentucky	Lyons et al., 2001
+Marmota monax	Taenia crassiceps	Woodbridge, Ontario	Brojer et al., 2002
+Marmota monax	Orthohepadnavirus sp.	Not reported	Shiga et al., 1991
+Marmota monax	Toxoplasma gondii	Pennsylvania	Stewart et al., 1995
+Marmota monax	Orthohepadnavirus sp.	Not reported	Mehrotra & Mehrotra, 1987
+Marmota monax	Ixodes cookei	Eastern North America	Magnarelli & Swihart, 1991
+Marmota monax	Ixodes cookei	Branford, Guilford, Hamden, and Southington, Connecticutt	Magnarelli & Swihart, 1991
+Marmota monax	Borrelia burgdorferi	Branford, Guilford, Hamden, and Southington, Connecticutt	Magnarelli & Swihart, 1991
+Marmota monax	Orthohepadnavirus sp.	Not reported	Hele et al., 1987
+Marmota monax	Eimeria lateralis	Pennsylvania	Seville & Patrick, 2001
+Marmota monax	Amblyomma americanum	Piney Campground, Land Between the Lakes, Tennessee	Zimmerman et al., 1988
+Marmota monax	Dermacentor variabilis	Piney Campground, Land Between the Lakes, Tennessee	Zimmerman et al., 1988
+Marmota monax	Ixodes cookei	Not reported	Farkas & Surgeoner, 1990
+Marmota monax	Flavivirus sp.	Ontario	Farkas & Surgeoner, 1990
+Marmota monax	Ixodes cookei	Guelph, Ontario	Farkas & Surgeoner, 1990
+Marmota monax	Ixodes cookei	Guelph, Ontario	Farkas & Surgeoner, 1990
+Marmota monax	Ixodes cookei	Guelph, Ontario	Farkas & Surgeoner, 1990
+Marmota monax	Oropsylla arctomys	Guelph, Ontario	Farkas & Surgeoner, 1990
+Marmota monax	Oropsylla arctomys	Guelph, Ontario	Farkas & Surgeoner, 1990
+Marmota monax	Androlaelaps fahrenholzi	Guelph, Ontario	Farkas & Surgeoner, 1990
+Marmota monax	Atheta sp.	Guelph, Ontario	Farkas & Surgeoner, 1990
+Marmota monax	Ixodes cookei	Ontario	Farkas & Surgeoner, 1990
+Marmota monax	Ixodes cookei	New York	Farkas & Surgeoner, 1990
+Marmota monax	Eimeria callospermophili	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Marmota monax	Eimeria cynomysis	NORTH AMERICA	Wilber et al., 1998
+Marmota monax	Eimeria lateralis	NORTH AMERICA and ASIA	Wilber et al., 1998
+Marmota monax	Eimeria callospermophili	Washington D.C.	Wilber et al., 1998
+Marmota monax	Eimeria callospermophili	Near Ames, Iowa	Wilber et al., 1998
+Marmota monax	Eimeria vilasi	NORTH AMERICA	Wilber et al., 1998
+Marmota monax	Eimeria callospermophili	Not reported	Wilber et al., 1998
+Marmota monax	Eimeria lateralis	Not reported	Wilber et al., 1998
+Marmota monax	Eimeria callospermophili	Not reported	Wilber et al., 1998
+Marmota monax	Taenia crassiceps	Central New York and Maryland	Anderson et al., 1990
+Marmota monax	Cediopsylla simplex	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Marmota monax	Ctenocephalides canis	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Marmota monax	Ctenocephalides felis	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Marmota monax	Pulex irritans	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Marmota monax	Chaetopsylla lotoris	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Marmota monax	Conorhinopsylla stanfordi	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Marmota monax	Corrodopsylla curvata	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Marmota monax	Ctenophthalmus pseudagyrtes	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Marmota monax	Epitedia wenmanni	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Marmota monax	Tamiophila grandis	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Marmota monax	Megabothris acerbus	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Marmota monax	Megabothris asio	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Marmota monax	Megabothris sp.	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Marmota monax	Oropsylla bruneri 	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Marmota monax	Orchopeas howardii	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Marmota monax	Orchopeas leucopus	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Marmota monax	Oropsylla arctomys	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Marmota monax	Toxoplasma gondii	Cambria, Pennsylvania	Stewart et al., 1995
+Marmota monax	Toxoplasma gondii	Clearfield County, Pennsylvania	Stewart et al., 1995
+Marmota monax	Toxoplasma gondii	Elk, Pennsylvania	Stewart et al., 1995
+Marmota monax	Toxoplasma gondii	Indiana County, Pennsylvania	Stewart et al., 1995
+Marmota monax	Toxoplasma gondii	Jefferson, Pennsylvania	Stewart et al., 1995
+Marmota monax	Toxoplasma gondii	Lancaster County, Pennsylvania	Stewart et al., 1995
+Marmota monax	Toxoplasma gondii	Lehigh, Pennsylvania	Stewart et al., 1995
+Marmota monax	Toxoplasma gondii	Potter, Pennsylvania	Stewart et al., 1995
+Marmota monax	Lyssavirus sp.	Virginia	Childs et al., 1997
+Marmota monax	Lyssavirus sp.	New Hampshire	Childs et al., 1997
+Marmota monax	Lyssavirus sp.	Illinois	Fishbein et al., 1986
+Marmota monax	Lyssavirus sp.	Iowa	Fishbein et al., 1986
+Marmota monax	Lyssavirus sp.	Tennessee	Fishbein et al., 1986
+Marmota monax	Lyssavirus sp.	Minnesota	Fishbein et al., 1986
+Marmota monax	Lyssavirus sp.	Iowa	Fishbein et al., 1986
+Marmota monax	Lyssavirus sp.	North Dakota	Fishbein et al., 1986
+Marmota monax	Lyssavirus sp.	Virginia	Fishbein et al., 1986
+Marmota monax	Lyssavirus sp.	Iowa	Fishbein et al., 1986
+Marmota monax	Lyssavirus sp.	Minnesota	Fishbein et al., 1986
+Marmota monax	Lyssavirus sp.	Ohio	Fishbein et al., 1986
+Marmota monax	Lyssavirus sp.	Pennsylvania	Fishbein et al., 1986
+Marmota monax	Lyssavirus sp.	Virginia	Fishbein et al., 1986
+Marmota monax	Lyssavirus sp.	Virginia	Fishbein et al., 1986
+Marmota monax	Lyssavirus sp.	West Virginia	Fishbein et al., 1986
+Marmota monax	Lyssavirus sp.	Wisconsin	Fishbein et al., 1986
+Marmota monax	Lyssavirus sp.	Delaware	Fishbein et al., 1986
+Marmota monax	Lyssavirus sp.	Indiana	Fishbein et al., 1986
+Marmota monax	Lyssavirus sp.	Maryland	Fishbein et al., 1986
+Marmota monax	Lyssavirus sp.	Minnesota	Fishbein et al., 1986
+Marmota monax	Lyssavirus sp.	Pennsylvania	Fishbein et al., 1986
+Marmota monax	Lyssavirus sp.	South Dakota	Fishbein et al., 1986
+Marmota monax	Lyssavirus sp.	Maryland	Fishbein et al., 1986
+Marmota monax	Taenia crassiceps	CANADA	Fleming et al., 1979
+Marmota monax	Taenia crassiceps	Pennsylvania	Fleming et al., 1979
+Marmota monax	Taenia crassiceps	Maryland	Fleming et al., 1979
+Marmota monax	Taenia crassiceps	New York	Fleming et al., 1979
+Marmota monax	Capillaria hepatica	New Jersey	Fleming et al., 1979
+Marmota monax	Baylisascaris laevis	Virginia	Fleming et al., 1979
+Marmota monax	Citellinema bifurcatum	New York	Fleming et al., 1979
+Marmota monax	Ackertia marmotae	CANADA	Fleming et al., 1979
+Marmota monax	Ackertia marmotae	Connecticut	Fleming et al., 1979
+Marmota monax	Taenia crassiceps	Maryland	Fleming et al., 1979
+Marmota monax	Citellinema bifurcatum	Michigan	Fleming et al., 1979
+Marmota monax	Citellinema bifurcatum	Minnesota	Fleming et al., 1979
+Marmota monax	Citellinema bifurcatum	Connecticut	Fleming et al., 1979
+Marmota monax	Citellinema bifurcatum	Maryland	Fleming et al., 1979
+Marmota monax	Citellinema bifurcatum	Pennsylvania	Fleming et al., 1979
+Marmota monax	Citellinema bifurcatum	Wisconsin	Fleming et al., 1979
+Marmota monax	Citellinema bifurcatum	Connecticut	Fleming et al., 1979
+Marmota monax	Citellinema bifurcatum	Iowa	Fleming et al., 1979
+Marmota monax	Citellinema bifurcatum	Maryland	Fleming et al., 1979
+Marmota monax	Citellinema bifurcatum	Michigan	Fleming et al., 1979
+Marmota monax	Citellinema bifurcatum	North Carolina	Fleming et al., 1979
+Marmota monax	Obeliscoides cuniculi	Kentucky	Fleming et al., 1979
+Marmota monax	Obeliscoides cuniculi	Missouri	Fleming et al., 1979
+Marmota monax	Obeliscoides cuniculi	Ohio	Fleming et al., 1979
+Marmota monax	Obeliscoides cuniculi	Maryland	Fleming et al., 1979
+Marmota monax	Obeliscoides cuniculi	Maryland	Fleming et al., 1979
+Marmota monax	Obeliscoides cuniculi	Missouri	Fleming et al., 1979
+Marmota monax	Obeliscoides cuniculi	New Jersey	Fleming et al., 1979
+Marmota monax	Obeliscoides cuniculi	New York	Fleming et al., 1979
+Marmota monax	Obeliscoides cuniculi	Tennessee	Fleming et al., 1979
+Marmota monax	Obeliscoides cuniculi	Washington D.C.	Fleming et al., 1979
+Marmota monax	Orthohepadnavirus sp.	Southeastern Pennsylvania	Mehrotra et al., 1990
+Marmota monax	Orthohepadnavirus sp.	New Jersey	Mehrotra et al., 1990
+Marmota monax	Orthohepadnavirus sp.	Maryland	Mehrotra et al., 1990
+Marmota monax	Hepatozoon	Missouri	Allen et al., 2011a
+Marmota monax	Hoplopleura erratica	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976a
+Marmota monax	Hoplopleura erratica	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976a
+Marmota monax	Androlaelaps fahrenholzi	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976a
+Marmota monax	Dermacarus hylandi	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976a
+Marmota monax	Eulaelaps stabularis	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976a
+Marmota monax	Euschoengastia sp.	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976a
+Marmota monax	Macrocheles sp.	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976a
+Marmota monax	Pergamasus longicornis	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976a
+Marmota monax	Trombicula myotis	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976a
+Marmota monax	Toxoplasma gondii	New York	Bangari et al., 2007 
+Marmota monax	La Crosse virus	Gambier, Knox County, Ohio	Berry et al 1975
+Marmota monax	Woodchuck hepatitis virus	Within 220km of Philadelphia	Blumberg 1981
+Marmota monax	Woodchuck hepatitis virus	Within 220km of Philadelphia	Blumberg 1981
+Marmota monax	Rickettsia rickettsii	Piney Campground, Land Between the Lakes, Tennessee	Burgdorfer et al 1974
+Marmota monax	Rickettsia typhi	Piney Campground, Land Between the Lakes, Tennessee	Burgdorfer et al 1974
+Marmota monax	Rickettsia prowazekii	Piney Campground, Land Between the Lakes, Tennessee	Burgdorfer et al 1974
+Marmota monax	Rickettsia canadensis	Piney Campground, Land Between the Lakes, Tennessee	Burgdorfer et al 1974
+Marmota monax	Francisella tularensis	Piney Campground, Land Between the Lakes, Tennessee	Burgdorfer et al 1974
+Marmota monax	Dermacentor variabilis	Piney Campground, Land Between the Lakes, Tennessee	Burgdorfer et al 1974
+Marmota monax	Amblyomma americanum	Piney Campground, Land Between the Lakes, Tennessee	Burgdorfer et al 1974
+Marmota monax	Haemaphysalis verticalis	Piney Campground, Land Between the Lakes, Tennessee	Burgdorfer et al 1974
+Marmota monax	Dermacentor albipictus	Piney Campground, Land Between the Lakes, Tennessee	Burgdorfer et al 1974
+Marmota monax	Ochlerotatus triseriatus	Iowa County, Wisconsin	Burkot & Defoliart 1982
+Marmota monax	Woodchuck hepatitis virus	Eastern United States	Cullen et al 2008
+Marmota monax	Woodchuck hepatitis virus	Eastern United States	Cullen et al 2008
+Marmota monax	Woodchuck hepatitis virus	Eastern United States	Cullen et al 2008
+Marmota monax	Woodchuck hepatitis virus	Orange County, North Carolina	Cullen et al 2008
+Marmota monax	Woodchuck hepatitis virus	Orange County, North Carolina	Cullen et al 2008
+Marmota sibirica	Eimeria callospermophili	NORTH AMERICA and ASIA	Wilber et al., 1998
+Marmota sibirica	Eimeria callospermophili	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Marmota sibirica	Eimeria callospermophili	Placer County, California	Wilber et al., 1998
+Menetes berdmorei	Macrostylophora perplexa	An Khe, Gia-Lai Province	Beaucournu & Sountsov, 1999
+Tamias alpinus	Hoplopleura arboricola	NORTH AMERICA	Jameson, Jr. 1999
+Tamias alpinus	Neohaematopinus pacificus	NORTH AMERICA	Jameson, Jr. 1999
+Tamias ruficaudus	Hoplopleura arboricola	NORTH AMERICA	Jameson, Jr. 1999
+Tamias ruficaudus	Neohaematopinus pacificus	NORTH AMERICA	Jameson, Jr. 1999
+Tamias ruficaudus	Ceratophyllus ciliatus
+
+	NORTH AMERICA	Jameson, Jr. 1999
+Tamias dorsalis	Hoplopleura arboricola	NORTH AMERICA	Jameson, Jr. 1999
+Tamias dorsalis	Neohaematopinus pacificus	NORTH AMERICA	Jameson, Jr. 1999
+Tamias merriami	Hoplopleura arboricola	NORTH AMERICA	Jameson, Jr. 1999
+Tamias merriami	Neohaematopinus pacificus	NORTH AMERICA	Jameson, Jr. 1999
+Tamias merriami	Ceratophyllus ciliatus
+
+	NORTH AMERICA	Jameson, Jr. 1999
+Tamias minimus	Hoplopleura arboricola	NORTH AMERICA	Jameson, Jr. 1999
+Tamias minimus	Ceratophyllus ciliatus
+
+	NORTH AMERICA	Jameson, Jr. 1999
+Tamias ochrogenys	Hoplopleura arboricola	NORTH AMERICA	Jameson, Jr. 1999
+Tamias quadrimaculatus	Ceratophyllus ciliatus
+
+	NORTH AMERICA	Jameson, Jr. 1999
+Tamias quadrivittatus	Hoplopleura arboricola	NORTH AMERICA	Jameson, Jr. 1999
+Tamias quadrivittatus	Neohaematopinus pacificus	NORTH AMERICA	Jameson, Jr. 1999
+Tamias ruficaudus	Ceratophyllus ciliatus
+
+	NORTH AMERICA	Jameson, Jr. 1999
+Tamias sonomae	Hoplopleura arboricola	NORTH AMERICA	Jameson, Jr. 1999
+Tamias sonomae	Neohaematopinus pacificus	NORTH AMERICA	Jameson, Jr. 1999
+Tamias sp.	Eumolpianus eumolpi	NORTH AMERICA	Jameson, Jr. 1999
+Tamias speciosus	Hoplopleura arboricola	NORTH AMERICA	Jameson, Jr. 1999
+Tamias speciosus	Neohaematopinus pacificus	NORTH AMERICA	Jameson, Jr. 1999
+Tamias speciosus	Ceratophyllus ciliatus
+
+	NORTH AMERICA	Jameson, Jr. 1999
+Tamias townsendii	Hoplopleura arboricola	NORTH AMERICA	Jameson, Jr. 1999
+Tamias townsendii	Neohaematopinus pacificus	NORTH AMERICA	Jameson, Jr. 1999
+Tamias townsendii	Ceratophyllus ciliatus
+
+	NORTH AMERICA	Jameson, Jr. 1999
+Spermophilus variegatus	Trypanosoma cruzi	Uvalde County, Texas	Charles et al 2013
+Paraxerus cepapi	Syphacia cepapi	TRANSVAAL	Hugot & Brochier, 1988
+Paraxerus palliatus	Syphacia paraxeri	ZIMBABWE	Hugot & Brochier, 1988
+Paraxerus poensis	Syphacia ividensis	GABON	Hugot & Brochier, 1988
+Prosciurillus leucomus	Farhangia sedecimdentata	Sungai Tokararu, Sulawesi	Mardon & Durden, 2003
+Prosciurillus murinus	Farhangia quattuordecimdentata	Lake Lindu, Tomado, Sulawesi	Mardon & Durden, 2003
+Protoxerus stangeri	Syphacia feeri	GABON	Hugot & Brochier, 1988
+Rhinosciurus laticaudatus	Breinlia sp.	Ulu Endau, Johore	Inder Singh et al., 1987
+Rhinosciurus laticaudatus	Protospirura sp.	Ulu Endau, Johore	Inder Singh et al., 1987
+Rhinosciurus laticaudatus	Subulura andersoni	Ulu Endau, Johore	Inder Singh et al., 1987
+Rubrisciurus rubriventer	Hoplopleura sp.	Gunung Moajat, Sulawesi	Durden, 1986
+Sciurus aberti	Eimeria ontarioensis	Apache County, Arizona	Hill & Duszynski, 1986
+Sciurus aberti	Eimeria tamiasciuri	Apache County, Arizona	Hill & Duszynski, 1986
+Sciurus aberti	Warrenius quadrivittati	New Mexico, Catron Co + Rio Arriba Co + Sandoval Co	Patrick & Wilson, 1995
+Sciurus aberti	Enterobius sciuri	New Mexico, Catron Co + Rio Arriba Co	Patrick & Wilson, 1995
+Sciurus aberti	Hymenolepis sp.	New Mexico	Patrick & Wilson, 1995
+Sciurus aberti	Eimeria tamiasciuri	New Mexico, Catron Co + Rio Arriba Co + Sandoval Co	Patrick & Wilson, 1995
+Sciurus aberti	Ceratophyllus vison	New Mexico, Catron Co	Patrick & Wilson, 1995
+Sciurus aberti	Eumolpianus eumolpi	New Mexico, Catron Co + Rio Arriba Co	Patrick & Wilson, 1995
+Sciurus aberti	Opisodasys robustus	New Mexico, Sandoval Co + Socorro Co	Patrick & Wilson, 1995
+Sciurus aberti	Orchopeas caedens	New Mexico, Catron Co + Socorro Co	Patrick & Wilson, 1995
+Sciurus aberti	Orchopeas leucopus	New Mexico	Patrick & Wilson, 1995
+Sciurus aberti	Orchopeas neotomae	New Mexico, Sandoval Co + Socorro Co	Patrick & Wilson, 1995
+Sciurus aberti	Oropsylla idahoensis	New Mexico	Patrick & Wilson, 1995
+Sciurus aberti	Eimeria tamiasciuri	Arizona	Patrick & Wilson, 1995
+Sciurus aberti	Opisodasys robustus	New Mexico	Patrick & Wilson, 1995
+Sciurus aberti	Orchopeas caedens	New Mexico	Patrick & Wilson, 1995
+Sciurus aberti	Eimeria tamiasciuri	NORTH AMERICA	Wilber et al., 1998
+Sciurus aestuans	Androlaelaps fahrenholzi	Tijucas do Sul, Parana	BarrosBattesti et al., 1998
+Sciurus aestuans	Polygenis occidentalis	Tijucas do Sul, Parana	BarrosBattesti et al., 1998
+Sciurus aestuans	Hoplopleura sciuricola	Tijucas do Sul, Parana	BarrosBattesti et al., 1998
+Sciurus aestuans	Amblyomma sp.	Around Vila Dois Village, Ilha Grande	Bittencourt & Rocha 2003
+Sciurus aestuans	Ixodes sp.	Around Vila Dois Village, Ilha Grande	Bittencourt & Rocha 2003
+Sciurus aestuans	Ixodes didelphidis	Around Vila Dois Village, Ilha Grande	Bittencourt & Rocha 2003
+Sciurus aestuans	Gigantolaelaps goyanensis	Around Vila Dois Village, Ilha Grande	Bittencourt & Rocha 2003
+Sciurus aestuans	Gigantolaelaps oudemansi	Around Vila Dois Village, Ilha Grande	Bittencourt & Rocha 2003
+Sciurus aestuans	Laelaps manguinhosi	Around Vila Dois Village, Ilha Grande	Bittencourt & Rocha 2003
+Sciurus aestuans	Androlaelaps fahrenholzi	Around Vila Dois Village, Ilha Grande	Bittencourt & Rocha 2003
+Sciurus aestuans	Androlaelaps marmosops	Around Vila Dois Village, Ilha Grande	Bittencourt & Rocha 2003
+Sciurus aestuans	Polyplax spinulosa	Around Vila Dois Village, Ilha Grande	Bittencourt & Rocha 2003
+Sciurus aestuans	Hoplopleura sciuricola	Around Vila Dois Village, Ilha Grande	Bittencourt & Rocha 2003
+Sciurus aestuans	Polygenis occidentalis	Around Vila Dois Village, Ilha Grande	Bittencourt & Rocha 2003
+Sciurus aestuans	Polygenis rimatus	Around Vila Dois Village, Ilha Grande	Bittencourt & Rocha 2003
+Sciurus aestuans	Amblyomma sp.	Around Vila Dois Village, Ilha Grande	Bittencourt & Rocha 2002
+Sciurus aestuans	Ixodes sp.	Around Vila Dois Village, Ilha Grande	Bittencourt & Rocha 2002
+Sciurus aureogaster	Eimeria sciurorum	British Honduras	Hill & Duszynski, 1986
+Sciurus carolinensis	Lyssavirus sp.	UNITED STATES	Childs et al., 1997
+Sciurus carolinensis	Orchopeas howardii	Wisconsin	Amin & Wagner, 1983
+Sciurus carolinensis	Orthobunyavirus sp.	Pocomoke Cypress Swamp, Delmarva Peninsula	Clark et al., 1986
+Sciurus carolinensis	Eimeria ascotensis	ENGLAND	Hill & Duszynski, 1986
+Sciurus carolinensis	Eimeria confusa	ENGLAND	Hill & Duszynski, 1986
+Sciurus carolinensis	Eimeria lancasterensis	ENGLAND	Hill & Duszynski, 1986
+Sciurus carolinensis	Eimeria ontarioensis	ENGLAND	Hill & Duszynski, 1986
+Sciurus carolinensis	Eimeria sp.	Florida	Hill & Duszynski, 1986
+Sciurus carolinensis	Eimeria sciurorum	Berlin	Hill & Duszynski, 1986
+Sciurus carolinensis	Eimeria ascotensis	ENGLAND	Hill & Duszynski, 1986
+Sciurus carolinensis	Eimeria sciurorum	Berlin	Hill & Duszynski, 1986
+Sciurus carolinensis	Ixodes scapularis	Wisconsin	Godsey, Jr. et al., 1987
+Sciurus carolinensis	Borrelia burgdorferi	Spooner, Washburn County, Wisconsin	Godsey, Jr. et al., 1987
+Sciurus carolinensis	Borrelia burgdorferi	Wisconsin	Godsey, Jr. et al., 1987
+Sciurus carolinensis	Ochlerotatus triseriatus	UNITED STATES	Cully, Jr. et al., 1991a
+Sciurus carolinensis	Strongyloides robustus	Texas	Patrick, 1991a
+Sciurus carolinensis	Strongyloides papillosus	Tennessee	Patrick, 1991a
+Sciurus carolinensis	Strongyloides robustus	UNITED STATES	Patrick, 1991a
+Sciurus carolinensis	Strongyloides robustus	Kansas	Patrick, 1991a
+Sciurus carolinensis	Strongyloides robustus	Tennessee	Patrick, 1991a
+Sciurus carolinensis	Strongyloides robustus	Florida	Patrick, 1991a
+Sciurus carolinensis	Strongyloides robustus	Connecticut	Patrick, 1991a
+Sciurus carolinensis	Strongyloides robustus	UNITED STATES	Patrick, 1991a
+Sciurus carolinensis	Strongyloides robustus	Georgia	Patrick, 1991a
+Sciurus carolinensis	Strongyloides robustus	Indiana County, Pennsylvania	Patrick, 1991a
+Sciurus carolinensis	Heligmodendrium hassalli	Indiana County, Pennsylvania	Patrick, 1991a
+Sciurus carolinensis	Enderleinellus longiceps	UNITED STATES	Durden et al., 1997
+Sciurus carolinensis	Enderleinellus longiceps	Davidson County, Tennessee	Durden et al., 1997
+Sciurus carolinensis	Enderleinellus longiceps	Hamilton County, Tennessee	Durden et al., 1997
+Sciurus carolinensis	Hoplopleura sciuricola	Davidson County, Tennessee	Durden et al., 1997
+Sciurus carolinensis	Hoplopleura sciuricola	Anderson County, Tennessee	Durden et al., 1997
+Sciurus carolinensis	Neohaematopinus sciuri	UNITED STATES	Durden et al., 1997
+Sciurus carolinensis	Neohaematopinus sciuri	Davidson County, Tennessee	Durden et al., 1997
+Sciurus carolinensis	Enderleinellus longiceps	Tennessee	Durden et al., 1997
+Sciurus carolinensis	Hoplopleura sciuricola	Tennessee	Durden et al., 1997
+Sciurus carolinensis	Neohaematopinus sciuri	Tennessee	Durden et al., 1997
+Sciurus carolinensis	Orchopeas howardii	Shelby County, Tennessee	Durden & Kollars, Jr., 1997
+Sciurus carolinensis	Ixodes scapularis	Not reported	Qiu et al., 1997
+Sciurus carolinensis	Ixodes scapularis	Van Cortlandt Park, New York City, New York	Daniels et al., 1997
+Sciurus carolinensis	Baylisascaris procyonis	Not reported	Page et al., 2001
+Sciurus carolinensis	Bartonella vinsonii	Mere Sands	Bown et al., 2002
+Sciurus carolinensis	Bartonella vinsonii	Bulloch County, Georgia and Georgia Southern University in Statesboro	Bown et al., 2002
+Sciurus carolinensis	Notoedres centrifera	UNITED STATES	Cornish et al., 2001
+Sciurus carolinensis	Borrelia burgdorferi	UNITED STATES	Anderson et al., 1985
+Sciurus carolinensis	Enterobius sciuri	Not reported	Patrick & Wilson, 1995
+Sciurus carolinensis	Amblyomma americanum	Piney Campground, Land Between the Lakes, Tennessee	Zimmerman et al., 1988
+Sciurus carolinensis	Dermacentor variabilis	Piney Campground, Land Between the Lakes, Tennessee	Zimmerman et al., 1988
+Sciurus carolinensis	Orthobunyavirus sp.	Not reported	Walker & Edman, 1986
+Sciurus carolinensis	Ochlerotatus triseriatus	Not reported	Walker & Edman, 1986
+Sciurus carolinensis	Ixodes scapularis	Naval Weapons Station, Earle, Monmouth County, New Jersey	Schulze et al., 1986
+Sciurus carolinensis	Amblyomma americanum	Naval Weapons Station, Earle, Monmouth County, New Jersey	Schulze et al., 1986
+Sciurus carolinensis	Dermacentor variabilis	Naval Weapons Station, Earle, Monmouth County, New Jersey	Schulze et al., 1986
+Sciurus carolinensis	Amblyomma americanum	New Jersey	Schulze et al., 1986
+Sciurus carolinensis	Strongyloides robustus	UNITED STATES	Bartlett, 1995
+Sciurus carolinensis	Borrelia burgdorferi	SWITZERLAND	Humair & Gern, 1998
+Sciurus carolinensis	Parapoxvirus sp.	Hampshire	Duff et al., 1996
+Sciurus carolinensis	Cediopsylla simplex	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Sciurus carolinensis	Ctenocephalides canis	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Sciurus carolinensis	Ctenocephalides felis	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Sciurus carolinensis	Pulex irritans	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Sciurus carolinensis	Chaetopsylla lotoris	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Sciurus carolinensis	Conorhinopsylla stanfordi	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Sciurus carolinensis	Corrodopsylla curvata	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Sciurus carolinensis	Ctenophthalmus pseudagyrtes	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Sciurus carolinensis	Epitedia wenmanni	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Sciurus carolinensis	Tamiophila grandis	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Sciurus carolinensis	Megabothris acerbus	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Sciurus carolinensis	Megabothris asio	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Sciurus carolinensis	Megabothris sp.	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Sciurus carolinensis	Oropsylla bruneri 	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Sciurus carolinensis	Orchopeas howardii	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Sciurus carolinensis	Orchopeas leucopus	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Sciurus carolinensis	Oropsylla arctomys	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Sciurus carolinensis	Orchopeas howardii	Indiana County, Pennsylvania	Amin, 1976b
+Sciurus carolinensis	Orchopeas howardii	North Carolina	Amin, 1976b
+Sciurus carolinensis	Enterobius sciuri	Georgia	Pung et al., 2000
+Sciurus carolinensis	Orchopeas howardii	New York	Amin, 1976b
+Sciurus carolinensis	Orchopeas howardii	Indiana County, Pennsylvania	Amin, 1976b
+Sciurus carolinensis	Lyssavirus sp.	South Carolina	Fishbein et al., 1986
+Sciurus carolinensis	Lyssavirus sp.	Maryland	Fishbein et al., 1986
+Sciurus carolinensis	Lyssavirus sp.	Pennsylvania	Fishbein et al., 1986
+Sciurus carolinensis	Eimeria confusa	NORTH AMERICA	Hill & Duszynski, 1986
+Sciurus carolinensis	Eimeria lancasterensis	UNITED STATES	Hill & Duszynski, 1986
+Sciurus carolinensis	Eimeria ontarioensis	NORTH AMERICA	Hill & Duszynski, 1986
+Sciurus carolinensis	Eimeria sciurorum	ENGLAND	Hill & Duszynski, 1986
+Sciurus carolinensis	Strongyloides robustus	Virginia	Patrick, 1991a
+Sciurus carolinensis	Enderleinellus longiceps	Lookout Mountain	Durden et al., 1997
+Sciurus carolinensis	Enderleinellus longiceps	Chattanooga 	Durden et al., 1997
+Sciurus carolinensis	Enderleinellus longiceps	Shelby County, Tennessee	Durden et al., 1997
+Sciurus carolinensis	Hoplopleura sciuricola	Oak Ridge, Tennessee	Durden et al., 1997
+Sciurus carolinensis	Hoplopleura sciuricola	Shelby County, Tennessee	Durden et al., 1997
+Sciurus carolinensis	Bartonella vinsonii	Wirral peninsula	Bown et al., 2002
+Sciurus carolinensis	Bartonella vinsonii	New York1	Bown et al., 2002
+Sciurus carolinensis	Hepatozoon	Georgia	Allen et al., 2011a
+Sciurus carolinensis	Neohaematopinus sciuri	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976a
+Sciurus carolinensis	Haemogamasus reidi	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976a
+Sciurus carolinensis	Macrocheles sp.	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976a
+Sciurus carolinensis	Orchopeas howardii	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin & Sewell, 1977
+Sciurus carolinensis	Cuterebra sp.	Alabama	Applegate & Warr 2009
+Sciurus carolinensis	Cuterebra sp.	Virginia	Applegate & Warr 2009
+Sciurus carolinensis	Cuterebra sp.	West Virginia	Applegate & Warr 2009
+Sciurus carolinensis	Cuterebra sp.	West Tennessee	Applegate & Warr 2009
+Sciurus carolinensis	Cuterebra sp.	Middle Tennessee	Applegate & Warr 2009
+Sciurus carolinensis	Cuterebra sp.	Tennessee Plateau	Applegate & Warr 2009
+Sciurus carolinensis	Cuterebra sp.	East Tennessee	Applegate & Warr 2009
+Sciurus carolinensis	La Crosse virus	Zumbra Ridge, Carver County	Balfour et al., 1976
+Sciurus carolinensis	La Crosse virus	Golden Valley, Minnesota	Balfour et al., 1976
+Sciurus carolinensis	Squirrel fibroma virus	Not reported	Bangari et al., 2009
+Sciurus carolinensis	Squirrel fibroma virus	Florida	Bangari et al., 2009
+Sciurus carolinensis	Squirrel fibroma virus	Elkhart County, Indiana, near urban areas	Bangari et al., 2009
+Sciurus carolinensis	Parapoxvirus sp.	Dane County, Wisconsin	Bangari et al., 2009
+Sciurus carolinensis	Toxoplasma gondii	Not reported	Bangari et al., 2007 
+Sciurus carolinensis	Candidia albicans	Jacksonville, Florida	Bigler&Hoff
+Sciurus carolinensis	Microsporum gypseum	Jacksonville, Florida	Bigler&Hoff
+Sciurus carolinensis	Scopulariopsis brevicaulis	Jacksonville, Florida	Bigler&Hoff
+Sciurus carolinensis	Trichophyton mentagrophytes	Jacksonville, Florida	Bigler&Hoff
+Sciurus carolinensis	Streptococcus sp.	Jacksonville, Florida	Bigler&Hoff
+Sciurus carolinensis	Staphylococcus epidermidis	Jacksonville, Florida	Bigler&Hoff
+Sciurus carolinensis	Enterobacter	Jacksonville, Florida	Bigler&Hoff
+Sciurus carolinensis	Bacillus sp.	Jacksonville, Florida	Bigler&Hoff
+Sciurus carolinensis	Staphylococcus aureus	Jacksonville, Florida	Bigler&Hoff
+Sciurus carolinensis	Borrelia burgdorferi	Institute of Ecosystem Studies in Millbrook, New York	Brisson&Dykhuizen 2004
+Sciurus carolinensis	Ixodes scapularis	Institute of Ecosystem Studies in Millbrook, New York	Brisson&Dykhuizen 2004
+Sciurus carolinensis	Borrelia burgdorferi	Not reported	Brunner et al 2008
+Sciurus carolinensis	Rickettsia rickettsii	Piney Campground, Land Between the Lakes, Tennessee	Burgdorfer et al 1974
+Sciurus carolinensis	Rickettsia typhi	Piney Campground, Land Between the Lakes, Tennessee	Burgdorfer et al 1974
+Sciurus carolinensis	Rickettsia prowazekii	Piney Campground, Land Between the Lakes, Tennessee	Burgdorfer et al 1974
+Sciurus carolinensis	Rickettsia canadensis	Piney Campground, Land Between the Lakes, Tennessee	Burgdorfer et al 1974
+Sciurus carolinensis	Francisella tularensis	Piney Campground, Land Between the Lakes, Tennessee	Burgdorfer et al 1974
+Sciurus carolinensis	Dermacentor variabilis	Piney Campground, Land Between the Lakes, Tennessee	Burgdorfer et al 1974
+Sciurus carolinensis	Dermacentor albipictus	Piney Campground, Land Between the Lakes, Tennessee	Burgdorfer et al 1974
+Sciurus carolinensis	Haemaphysalis verticalis	Piney Campground, Land Between the Lakes, Tennessee	Burgdorfer et al 1974
+Sciurus carolinensis	Amblyomma americanum	Piney Campground, Land Between the Lakes, Tennessee	Burgdorfer et al 1974
+Sciurus carolinensis	Rabies virus	Not reported	Cappucci et al 1972
+Sciurus carolinensis	Notoedres sp.	Massachusetts	Carlson et al 1982
+Sciurus carolinensis	Ctenophthalmus pseudagyrtes	Percy Quin State Park, Pike County	Clark&Durden 2002
+Sciurus carolinensis	Androlaelaps fahrenholzi	Percy Quin State Park, Pike County	Clark&Durden 2002
+Sciurus carolinensis	Dermacentor variabilis	Percy Quin State Park, Pike County	Clark&Durden 2002
+Sciurus carolinensis	Amblyomma maculatum	Percy Quin State Park, Pike County	Clark&Durden 2002
+Sciurus carolinensis	Cuterebra fontinella	Percy Quin State Park, Pike County	Clark&Durden 2002
+Sciurus carolinensis	Ixodes scapularis	Percy Quin State Park, Pike County	Clark&Durden 2002
+Sciurus carolinensis	Moniliformis clarki	Jacksonville, Florida	Conti et al 1984
+Sciurus carolinensis	Strongyloides robustus	Jacksonville, Florida	Conti et al 1984
+Sciurus carolinensis	Heligmodendrium hassalli	Jacksonville, Florida	Conti et al 1984
+Sciurus carolinensis	Syphacia thompsoni	Jacksonville, Florida	Conti et al 1984
+Sciurus carolinensis	Dipetalonema interstitium	Jacksonville, Florida	Conti et al 1984
+Sciurus carolinensis	Trichostrongylus calcaratus	Jacksonville, Florida	Conti et al 1984
+Sciurus carolinensis	Physaloptera sp.	Jacksonville, Florida	Conti et al 1984
+Sciurus carolinensis	Raillietina bakeri	Jackson County, Oklahoma	Conti et al 1984
+Sciurus carolinensis	Strongyloides robustus	Not reported	Conti et al 1984
+Sciurus carolinensis	Heligmodendrium hassalli	Not reported	Conti et al 1984
+Sciurus carolinensis	Heligmodendrium hassalli	Southeastern United States	Coyner et al 1996
+Sciurus carolinensis	Toxoplasma gondii	Kansas	Dabritz et al 2008
+Sciurus carolinensis	Neohaematopinus sciuri	New York	Dansby & Shoemaker 1971
+Sciurus carolinensis	Neohaematopinus sciuri	Rhode Island	Dansby & Shoemaker 1971
+Sciurus carolinensis	Neohaematopinus sciuri	Maryland	Dansby & Shoemaker 1971
+Sciurus carolinensis	Neohaematopinus sciuri	District of Columbia	Dansby & Shoemaker 1971
+Sciurus carolinensis	Neohaematopinus sciuri	Virginia	Dansby & Shoemaker 1971
+Sciurus carolinensis	Neohaematopinus sciuri	North Carolina	Dansby & Shoemaker 1971
+Sciurus carolinensis	Neohaematopinus sciuri	Georgia	Dansby & Shoemaker 1971
+Sciurus carolinensis	Neohaematopinus sciuri	Florida	Dansby & Shoemaker 1971
+Sciurus carolinensis	Neohaematopinus sciuri	Mississippi State	Dansby & Shoemaker 1971
+Sciurus carolinensis	Neohaematopinus sciuri	Ohio	Dansby & Shoemaker 1971
+Sciurus carolinensis	Neohaematopinus sciuri	Mason County, West Virginia	Dansby & Shoemaker 1971
+Sciurus carolinensis	Enderleinellus longiceps	Mingo County, West Virginia	Dansby & Shoemaker 1971
+Sciurus carolinensis	Dirofilariaeformia pulmoni	Dorchester County, Maryland	Davidson 1975
+Sciurus carolinensis	Dirofilariaeformia pulmoni	Trigg County, Kentucky	Davidson 1975
+Sciurus carolinensis	Eimeria confusa	Southeastern United States	Davidson 1976
+Sciurus carolinensis	Eimeria ontarioensis	Southeastern United States	Davidson 1976
+Sciurus carolinensis	Eimeria ontarioensis	Southeastern United States	Davidson 1976
+Sciurus granatensis	Leishmania braziliensis	Tropical rainforest near Naranjal	Grimaldi, Jr. et al., 1992
+Sciurus granatensis	Leishmania chagasi	Coloso Primate Reserve	Travi et al., 1998
+Sciurus granatensis	Leishmania braziliensis	Tropical rainforest near Naranjal	Hashiguchi et al., 1985
+Sciurus granatensis	Leishmania braziliensis	Ocaña	Hashiguchi et al., 1985
+Sciurus granatensis	Leishmania sp.	Ecuador	Katakura et al., 2003
+Sciurus granatensis	Endotrypanum sp.	Ecuador	Katakura et al., 2003
+Sciurus granatensis	Trypanosoma cruzi	El Hurtado, Barinas	Anez et al., 2009
+Sciurus granatensis	Endotrypanum sp.	Pacific region of Ecuador	Calvopina et al 2004
+Sciurus griseus	Eimeria tamiasciuri	Riverside County, California	Hill & Duszynski, 1986
+Sciurus griseus	Eimeria sp.	California	Hill & Duszynski, 1986
+Sciurus griseus	Notoedres centrifera	UNITED STATES	Cornish et al., 2001
+Sciurus griseus	Notoedres centrifera	Eldorado National Forest, California	Cornish et al., 2001
+Sciurus griseus	Notoedres centrifera	Klickitat County, Washington	Cornish et al., 2001
+Sciurus griseus	Notoedres centrifera	Klickitat County, Washington	Cornish et al., 2001
+Sciurus griseus	Notoedres centrifera	Klickitat County, Washington	Cornish et al., 2001
+Sciurus griseus	Notoedres centrifera	Klickitat County, Washington	Cornish et al., 2001
+Sciurus griseus	Orchopeas nepos	Washington	Eads et al., 1985
+Sciurus griseus	Orchopeas nepos	California	Eads et al., 1985
+Sciurus griseus	Orchopeas latens	Santa Cruz County, California	Eads et al., 1985
+Sciurus griseus	Orchopeas latens	Monterey County, California	Eads et al., 1985
+Sciurus griseus	Orchopeas dieteri	Los Angeles County, California	Eads et al., 1985
+Sciurus griseus	Orchopeas latens	San Mateo County, California	Eads et al., 1985
+Sciurus griseus	Orchopeas howardii	San Mateo County, California	Eads et al., 1985
+Sciurus griseus	Opisodasys enoplus	San Bernardino County, California	Eads et al., 1985
+Sciurus griseus	Orchopeas latens	San Mateo County, California	Eads et al., 1985
+Sciurus griseus	Orchopeas nepos	California	Eads et al., 1985
+Sciurus griseus	Orchopeas dieteri	Riverside County, California	Eads et al., 1985
+Sciurus griseus	Syphacia thompsoni	Southeastern United States	Pung et al., 2000
+Sciurus griseus	Strongyloides robustus	Southeastern United States	Pung et al., 2000
+Sciurus griseus	Moniliformis clarki	Alabama	Pung et al., 2000
+Sciurus griseus	Eimeria tamiasciuri	NORTH AMERICA	Wilber et al., 1998
+Sciurus griseus	Orchopeas nepos	Oregon	Eads et al., 1985
+Sciurus griseus	Orchopeas nepos	California	Eads et al., 1985
+Sciurus griseus	Orchopeas latens	Santa Cruz County, California	Eads et al., 1985
+Sciurus griseus	Orchopeas latens	Butte County, California	Eads et al., 1985
+Sciurus griseus	Orchopeas latens	Riverside County, California	Eads et al., 1985
+Sciurus griseus	Orchopeas nepos	Mendocino County, California	Eads et al., 1985
+Sciurus griseus	Orchopeas nepos	Napa County, California	Eads et al., 1985
+Sciurus griseus	Orchopeas nepos	San Luis Obispo County	Eads et al., 1985
+Sciurus griseus	Orchopeas nepos	Siskiyou County, California	Eads et al., 1985
+Sciurus griseus	Orchopeas nepos	Butte County, California	Eads et al., 1985
+Sciurus griseus	Orchopeas nepos	Calaveras County, California	Eads et al., 1985
+Sciurus griseus	Moniliformis clarki	Florida	Pung et al., 2000
+Sciurus griseus	Moniliformis clarki	South Carolina	Pung et al., 2000
+Sciurus griseus	Toxoplasma gondii	Not reported	Bangari et al., 2007 
+Sciurus griseus	Notoedres douglasi	Eldorado National Forest, California	Carlson et al 1982
+Sciurus aestuans	Eimeria botelhoi	Brazil	Hill & Duszynski, 1986
+Sciurus niger	Lyssavirus sp.	UNITED STATES	Childs et al., 1997
+Sciurus niger	Yersinia pestis	Laramie, Wyoming	Ubico et al., 1988
+Sciurus niger	Eimeria ascotensis	Indiana	Hill & Duszynski, 1986
+Sciurus niger	Eimeria lancasterensis	Indiana	Hill & Duszynski, 1986
+Sciurus niger	Eimeria ontarioensis	Indiana	Hill & Duszynski, 1986
+Sciurus niger	Eimeria sciurorum	Indiana	Hill & Duszynski, 1986
+Sciurus niger	Ixodes scapularis	Wisconsin	Godsey, Jr. et al., 1987
+Sciurus niger	Strongyloides robustus	Texas	Patrick, 1991a
+Sciurus niger	Strongyloides robustus	Dorchester County, Maryland	Patrick, 1991a
+Sciurus niger	Strongyloides robustus	UNITED STATES	Patrick, 1991a
+Sciurus niger	Strongyloides robustus	Kansas	Patrick, 1991a
+Sciurus niger	Amblyomma americanum	Kansas	Brillhart et al., 1994
+Sciurus niger	Dermacentor variabilis	Kansas	Brillhart et al., 1994
+Sciurus niger	Enderleinellus longiceps	UNITED STATES	Durden et al., 1997
+Sciurus niger	Orchopeas howardii	Tennessee	Durden & Kollars, Jr., 1997
+Sciurus niger	Notoedres centrifera	UNITED STATES	Cornish et al., 2001
+Sciurus niger	Enterobius sciuri	Not reported	Patrick & Wilson, 1995
+Sciurus niger	Orchopeas howardii	Not reported	Eads et al., 1985
+Sciurus niger	Strongyloides robustus	Texas	Bartlett, 1995
+Sciurus niger	Strongyloides robustus	Florida	Pung et al., 2000
+Sciurus niger	Moniliformis clarki	Florida	Pung et al., 2000
+Sciurus niger	Cediopsylla simplex	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Sciurus niger	Ctenocephalides canis	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Sciurus niger	Ctenocephalides felis	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Sciurus niger	Pulex irritans	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Sciurus niger	Chaetopsylla lotoris	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Sciurus niger	Conorhinopsylla stanfordi	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Sciurus niger	Corrodopsylla curvata	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Sciurus niger	Ctenophthalmus pseudagyrtes	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Sciurus niger	Epitedia wenmanni	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Sciurus niger	Tamiophila grandis	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Sciurus niger	Megabothris acerbus	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Sciurus niger	Megabothris asio	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Sciurus niger	Megabothris sp.	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Sciurus niger	Oropsylla bruneri 	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Sciurus niger	Orchopeas howardii	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Sciurus niger	Orchopeas leucopus	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Sciurus niger	Oropsylla arctomys	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Sciurus niger	Orchopeas howardii	Iowa	Amin, 1976b
+Sciurus niger	Strongyloides robustus	Maryland	Bartlett, 1995
+Sciurus niger	Strongyloides robustus	Michigan	Bartlett, 1995
+Sciurus niger	Strongyloides robustus	Wisconsin	Bartlett, 1995
+Sciurus niger	Strongyloides robustus	Kansas	Bartlett, 1995
+Sciurus niger	Strongyloides robustus	Tennessee	Bartlett, 1995
+Sciurus niger	Strongyloides robustus	Virginia	Bartlett, 1995
+Sciurus niger	Lyssavirus sp.	California	Fishbein et al., 1986
+Sciurus niger	Hoplopleura sciuricola	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976a
+Sciurus niger	Squirrel fibroma virus	Not reported	Bangari et al., 2009
+Sciurus niger	Orchopeas howardii	Colorado	Barnes, 1993
+Sciurus niger	Orchopeas howardii	Wyoming	Barnes, 1993
+Sciurus niger	Orchopeas howardii	California	Barnes, 1993
+Sciurus niger	West Nile virus	Western, central and eastern Iowa	Blitvich et al 2009
+Sciurus niger	Rickettsia rickettsii	Piney Campground, Land Between the Lakes, Tennessee	Burgdorfer et al 1974
+Sciurus niger	Rickettsia typhi	Piney Campground, Land Between the Lakes, Tennessee	Burgdorfer et al 1974
+Sciurus niger	Rickettsia prowazekii	Piney Campground, Land Between the Lakes, Tennessee	Burgdorfer et al 1974
+Sciurus niger	Rickettsia canadensis	Piney Campground, Land Between the Lakes, Tennessee	Burgdorfer et al 1974
+Sciurus niger	Francisella tularensis	Piney Campground, Land Between the Lakes, Tennessee	Burgdorfer et al 1974
+Sciurus niger	Dermacentor variabilis	Piney Campground, Land Between the Lakes, Tennessee	Burgdorfer et al 1974
+Sciurus niger	Amblyomma americanum	Piney Campground, Land Between the Lakes, Tennessee	Burgdorfer et al 1974
+Sciurus niger	Haemaphysalis verticalis	Piney Campground, Land Between the Lakes, Tennessee	Burgdorfer et al 1974
+Sciurus niger	Dermacentor albipictus	Piney Campground, Land Between the Lakes, Tennessee	Burgdorfer et al 1974
+Sciurus niger	Rabies virus	San Leandro, Alameda County, California	Cappucci et al 1972
+Sciurus niger	Moniliformis clarki	Florida	Coyner et al 1996
+Sciurus niger	Raillietina bakeri	Florida	Coyner et al 1996
+Sciurus niger	Strongyloides robustus	Florida	Coyner et al 1996
+Sciurus niger	Heligmodendrium hassalli	Florida	Coyner et al 1996
+Sciurus niger	Citellinema bifurcatum	Florida	Coyner et al 1996
+Sciurus niger	Dipetalonema interstitium	Florida	Coyner et al 1996
+Sciurus niger	Physaloptera massino	Florida	Coyner et al 1996
+Sciurus niger	Syphacia thompsoni	Florida	Coyner et al 1996
+Sciurus niger	Gongylonema pulchrum	Florida	Coyner et al 1996
+Sciurus niger	Trichostrongylus calcaratus	Florida	Coyner et al 1996
+Sciurus niger	Bohmiella wilsoni	Florida	Coyner et al 1996
+Sciurus niger	Orchopeas howardii	Florida	Coyner et al 1996
+Sciurus niger	Neohaematopinus sciuri	Florida	Coyner et al 1996
+Sciurus niger	Hoplopleura sciuricola	Florida	Coyner et al 1996
+Sciurus niger	Enderleinellus longiceps	Florida	Coyner et al 1996
+Sciurus niger	Androlaelaps casalis	Florida	Coyner et al 1996
+Sciurus niger	Amblyomma americanum	Florida	Coyner et al 1996
+Sciurus niger	Neotrombicula whartoni	Florida	Coyner et al 1996
+Sciurus niger	Eushoengastia diversa	Florida	Coyner et al 1996
+Sciurus niger	Cuterebra sp.	Florida	Coyner et al 1996
+Sciurus niger	Heligmodendrium hassalli	Texas	Coyner et al 1996
+Sciurus niger	Heligmodendrium hassalli	Maryland	Coyner et al 1996
+Sciurus niger	Heligmodendrium hassalli	Virginia	Coyner et al 1996
+Sciurus niger	Moniliformis clarki	Putnam County, Florida	Coyner et al 1996
+Sciurus niger	Toxoplasma gondii	Kansas	Dabritz et al 2008
+Sciurus niger	Hoplopleura sciuricola	Mason County, West Virginia	Dansby & Shoemaker 1971
+Spermophilus richardsonii	Strongyloides robustus	Saskatchewan	Patrick, 1991a
+Sciurus sp.	Lyssavirus sp.	Maryland	Moro et al., 1991
+Sciurus sp.	Hoplopleura sciuricola	UNITED STATES	Durden et al., 1997
+Spermophilus tridecemlineatus	Strongyloides robustus	Saskatchewan	Patrick, 1991a
+Spermophilus tridecemlineatus	Lyssavirus sp.	Texas	Fishbein et al., 1986
+Spermophilus tridecemlineatus	Toxoplasma gondii	Kansas	Dabritz et al 2008
+Sciurus vulgaris	Eimeria andrewsi	BULGARIA	Hill & Duszynski, 1986
+Sciurus vulgaris	Eimeria franchinii	Italy	Hill & Duszynski, 1986
+Sciurus vulgaris	Eimeria luiseri	Switzerland	Hill & Duszynski, 1986
+Sciurus vulgaris	Eimeria botelhoi	BULGARIA	Hill & Duszynski, 1986
+Sciurus vulgaris	Eimeria ascotensis	Czechoslovakia	Hill & Duszynski, 1986
+Sciurus vulgaris	Eimeria sciurorum	BULGARIA	Hill & Duszynski, 1986
+Sciurus vulgaris	Eimeria sciurorum	YUGOSLAVIA	Hill & Duszynski, 1986
+Sciurus vulgaris	Eimeria silvana	BULGARIA	Hill & Duszynski, 1986
+Sciurus vulgaris	Leishmaniavirus sp.	Palenque, Department of Los Rios	Mimori et al., 1989
+Sciurus vulgaris	Rickettsia typhi	EUROPE	Trilar et al., 1994
+Sciurus vulgaris	Cardiovirus sp.	GREAT BRITAIN	Amaddeo et al., 1995
+Sciurus vulgaris	Neohaematopinus sciuri	UNITED STATES	Durden et al., 1997
+Sciurus vulgaris	Bartonella sp.	Formby Sands	Bown et al., 2002
+Sciurus vulgaris	Dicrocoelium dendriticum	Brest and Gomel regions	Shimalov & Shimalov, 2002
+Sciurus vulgaris	Rubenstrema exasperatum	Brest and Gomel regions	Shimalov & Shimalov, 2002
+Sciurus vulgaris	Catenotaenia dendritica	Brest and Gomel regions	Shimalov & Shimalov, 2002
+Sciurus vulgaris	Cladotaenia globifera	Brest and Gomel regions	Shimalov & Shimalov, 2002
+Sciurus vulgaris	Hymenolepis horrida	Brest and Gomel regions	Shimalov & Shimalov, 2002
+Sciurus vulgaris	Taenia crassiceps	Brest and Gomel regions	Shimalov & Shimalov, 2002
+Sciurus vulgaris	Aspiculuris tetraptera	Brest and Gomel regions	Shimalov & Shimalov, 2002
+Sciurus vulgaris	Capillaria hepatica	Brest and Gomel regions	Shimalov & Shimalov, 2002
+Sciurus vulgaris	Mastophorus muris	Brest and Gomel regions	Shimalov & Shimalov, 2002
+Sciurus vulgaris	Pterothominx sadovskoi	Brest and Gomel regions	Shimalov & Shimalov, 2002
+Sciurus vulgaris	Syphacia sp.	Brest and Gomel regions	Shimalov & Shimalov, 2002
+Sciurus vulgaris	Pasteurella multocida	SWEDEN	Morner, 1999
+Sciurus vulgaris	Isospora sp.	SWEDEN	Morner, 1999
+Sciurus vulgaris	Parapoxvirus sp.	East Anglia	Sainsbury & Gurnell, 1995
+Sciurus vulgaris	Eimeria sciurorum	BRITISH ISLES	Sainsbury & Gurnell, 1995
+Sciurus vulgaris	Eimeria silvana	BRITISH ISLES	Sainsbury & Gurnell, 1995
+Sciurus vulgaris	Tarsopsylla octodecimdentata	Poljanska Dolina	Brelih & Trilar, 2000
+Sciurus vulgaris	Ceratophyllus sciurorum	Cerkno	Brelih & Trilar, 2000
+Sciurus vulgaris	Trichostrongylus retortaeformis	SPAIN	Alvarez et al., 1988
+Sciurus vulgaris	Ixodes ricinus	Canton Neuchatel and Jura	Humair & Gern, 1998
+Sciurus vulgaris	Borrelia burgdorferi	Canton Neuchatel and Jura	Humair & Gern, 1998
+Sciurus vulgaris	Ceratophyllus sciurorum	Riding Mill	Jessop, 1993
+Sciurus vulgaris	Tarsopsylla octodecimdentata	Riding Mill	Jessop, 1993
+Sciurus vulgaris	Morbillivirus sp.	Not reported	Pastoret et al., 1991
+Sciurus vulgaris	Enderleinellus nitzschi	CZECHOSLOVAKIA	Preisler, 1985
+Sciurus vulgaris	Neohaematopinus sciuri	CZECHOSLOVAKIA	Preisler, 1985
+Sciurus vulgaris	Parapoxvirus sp.	Cumbria	Sainsbury et al., 2000
+Sciurus vulgaris	Parapoxvirus sp.	Northumberland	Sainsbury et al., 2000
+Sciurus vulgaris	Parapoxvirus sp.	UNITED KINGDOM	Duff et al., 1996
+Sciurus vulgaris	Orchopeas howardii	New York	Amin, 1976b
+Sciurus vulgaris	Tarsopsylla octodecimdentata	Ljubljana, environs, Solvenija	Brelih & Trilar, 2000
+Sciurus vulgaris	Tarsopsylla octodecimdentata	Sencur, Voglje	Brelih & Trilar, 2000
+Sciurus vulgaris	Ceratophyllus sciurorum	Ljubljana: Vrhovci	Brelih & Trilar, 2000
+Sciurus vulgaris	Ceratophyllus sciurorum	Kranj, Milje	Brelih & Trilar, 2000
+Sciurus vulgaris	Ceratophyllus sciurorum	Sencur, Voglje	Brelih & Trilar, 2000
+Sciurus vulgaris	Ceratophyllus sciurorum	Gameljne, Slovenija	Brelih & Trilar, 2000
+Sciurus vulgaris	Ceratophyllus sciurorum	Orjen 	Brelih & Trilar, 2000
+Sciurus vulgaris	Ceratophyllus sciurorum	Deliblatska Pescara: Kremenjak	Brelih & Trilar, 2000
+Sciurus vulgaris	Ceratophyllus sciurorum	Tara Planina: Predov Krst	Brelih & Trilar, 2000
+Sciurus vulgaris	Parapoxvirus sp.	Cumbria	Sainsbury et al., 2000
+Sciurus vulgaris	Parapoxvirus sp.	Northumberland	Sainsbury et al., 2000
+Sciurus vulgaris	Parapoxvirus sp.	Lancashire	Sainsbury et al., 2000
+Sciurus vulgaris	Parapoxvirus sp.	Thetford Chase	Sainsbury et al., 2000
+Sciurus vulgaris	Eimeria andrewsi	CZECHOSLOVAKIA	Hill & Duszynski, 1986
+Sciurus vulgaris	Eimeria andrewsi	ENGLAND	Hill & Duszynski, 1986
+Sciurus vulgaris	Eimeria andrewsi	HUNGARY	Hill & Duszynski, 1986
+Sciurus vulgaris	Eimeria andrewsi	SOVIET UNION	Hill & Duszynski, 1986
+Sciurus vulgaris	Eimeria botelhoi	CZECHOSLOVAKIA	Hill & Duszynski, 1986
+Sciurus vulgaris	Eimeria botelhoi	HUNGARY	Hill & Duszynski, 1986
+Sciurus vulgaris	Eimeria botelhoi	GERMANY	Hill & Duszynski, 1986
+Sciurus vulgaris	Eimeria sciurorum	SWITZERLAND	Hill & Duszynski, 1986
+Sciurus vulgaris	Eimeria sciurorum	HUNGARY	Hill & Duszynski, 1986
+Sciurus vulgaris	Eimeria sciurorum	SOVIET UNION	Hill & Duszynski, 1986
+Sciurus vulgaris	Eimeria sciurorum	CZECHOSLOVAKIA	Hill & Duszynski, 1986
+Sciurus vulgaris	Eimeria sciurorum	HUNGARY	Hill & Duszynski, 1986
+Sciurus vulgaris	La Crosse virus	Massachusetts	Armstrong & Andreadis, 2006
+Sciurus vulgaris	Citellina triradiata	Not reported	Babero 1973
+Sciurus vulgaris	Toxoplasma gondii	Not reported	Bangari et al., 2007 
+Sciurus vulgaris	Leishmania amazonensis	Chimborazo	Calvopina et al 2004
+Spermophilus alashanicus	Citellophilus tesquorum	Qinghai Province	Wang & Xiao, 1987
+Spermophilus alashanicus	Frontopsylla elatoides	Qinghai Province	Wang & Xiao, 1987
+Spermophilus alashanicus	Neopsylla abagaitui	Qinghai Province	Wang & Xiao, 1987
+Spermophilus armatus	Eimeria lateralis	Utah	Seville & Williams, 1989
+Spermophilus armatus	Eimeria lateralis	Montana	Seville & Williams, 1989
+Spermophilus armatus	Aetheca wagneri	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Spermophilus armatus	Aetheca wagneri	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Spermophilus armatus	Hystrichopsylla dippiei	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Spermophilus armatus	Hystrichopsylla dippiei	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Spermophilus armatus	Neopsylla inopina	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Spermophilus armatus	Neopsylla inopina	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Spermophilus armatus	Oropsylla tuberculata	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Spermophilus armatus	Oropsylla tuberculata	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Spermophilus armatus	Rhadinopsylla fraterna	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Spermophilus armatus	Rhadinopsylla fraterna	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Spermophilus armatus	Callistopsyllus sp.	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Spermophilus armatus	Callistopsyllus sp.	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Spermophilus armatus	Pleochaetis exilis	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Spermophilus armatus	Pleochaetis exilis	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Spermophilus armatus	Foxella ignota	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Spermophilus armatus	Foxella ignota	Meeteetse, Park County, Wyoming2	Anderson & Williams, 1997
+Spermophilus armatus	Yersinia pestis	Yellowstone National Park, Wyoming	Ubico et al., 1988
+Spermophilus armatus	Oropsylla tuberculata	Meeteetse, Park County, Wyoming3	Ubico et al., 1988
+Spermophilus armatus	Oropsylla labis 	Meeteetse, Park County, Wyoming3	Ubico et al., 1988
+Spermophilus armatus	Neopsylla inopina	Meeteetse, Park County, Wyoming3	Ubico et al., 1988
+Spermophilus armatus	Rhadinopsylla sectilis	Meeteetse, Park County, Wyoming3	Ubico et al., 1988
+Spermophilus armatus	Oropsylla idahoensis	Meeteetse, Park County, Wyoming3	Ubico et al., 1988
+Spermophilus armatus	Hystrichopsylla dippiei	Meeteetse, Park County, Wyoming3	Ubico et al., 1988
+Spermophilus armatus	Aetheca wagneri	Meeteetse, Park County, Wyoming3	Ubico et al., 1988
+Spermophilus armatus	Aetheca exilis	Meeteetse, Park County, Wyoming3	Ubico et al., 1988
+Spermophilus armatus	Thrassis pandorae	Meeteetse, Park County, Wyoming3	Ubico et al., 1988
+Spermophilus armatus	Rhadinopsylla fraterna	Meeteetse, Park County, Wyoming3	Ubico et al., 1988
+Spermophilus armatus	Eimeria lateralis	Southeastern Utah	Shults et al., 1990
+Spermophilus armatus	Eimeria lateralis	Montana	Shults et al., 1990
+Spermophilus armatus	Eimeria cynomysis	Southeastern Utah	Shults et al., 1990
+Spermophilus armatus	Eimeria cynomysis	Southeastern Wyoming	Shults et al., 1990
+Spermophilus armatus	Eimeria callospermophili	Southeastern Utah	Shults et al., 1990
+Spermophilus armatus	Eimeria callospermophili	Montana	Shults et al., 1990
+Spermophilus armatus	Eimeria callospermophili	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Spermophilus armatus	Eimeria cynomysis	NORTH AMERICA and EUROPE	Wilber et al., 1998
+Spermophilus armatus	Eimeria lateralis	NORTH AMERICA and ASIA	Wilber et al., 1998
+Spermophilus armatus	Thrassis francisi	Idaho	Barnes, 1993
+Spermophilus armatus	Thrassis francisi	Utah	Barnes, 1993
+Spermophilus armatus	Thrassis francisi	Wyoming	Barnes, 1993
+Spermophilus armatus	Thrassis pandorae	Idaho	Barnes, 1993
+Spermophilus armatus	Thrassis pandorae	Utah	Barnes, 1993
+Spermophilus armatus	Thrassis pandorae	Wyoming	Barnes, 1993
+Spermophilus armatus	Heligmosomoides polygyrus	Teton National Park, Wyoming	Bergstrom&Werner 1981
+Spermophilus beecheyi	Androlaelaps fahrenholzi	Oregon, Curry County	Whitaker, Jr. & Maser, 1985
+Spermophilus beecheyi	Haemogamasus occidentalis	Oregon, Curry County	Whitaker, Jr. & Maser, 1985
+Spermophilus beecheyi	Androlaelaps fahrenholzi	Oregon	Whitaker, Jr. & Maser, 1985
+Spermophilus beecheyi	Haemogamasus occidentalis	Oregon	Whitaker, Jr. & Maser, 1985
+Spermophilus beecheyi	Eimeria lateralis	California	Shults et al., 1990
+Spermophilus beecheyi	Eimeria cynomysis	California	Shults et al., 1990
+Spermophilus beecheyi	Eimeria beecheyi	California	Shults et al., 1990
+Spermophilus beecheyi	Eimeria callospermophili	California	Shults et al., 1990
+Spermophilus beecheyi	Orthohepadnavirus sp.	Not reported	Cullen et al., 1994
+Spermophilus beecheyi	Hantavirus sp.	A ranch 20km northeast of Solvang, California	Turell et al., 1995
+Spermophilus beecheyi	Orthohepadnavirus sp.	California	Cullen & Marion, 1996
+Spermophilus beecheyi	Bartonella sp.	Idlewild Park, Washoe County, Nevada	Kosoy et al., 2003
+Spermophilus beecheyi	Bartonella sp.	Governor's Bowl Park,Washoe County, Nevada	Kosoy et al., 2003
+Spermophilus beecheyi	Bartonella sp.	Washoe County Golf Course, Nevada	Kosoy et al., 2003
+Spermophilus beecheyi	Bartonella sp.	Galena Creek Park, Washoe County, Nevada	Kosoy et al., 2003
+Spermophilus beecheyi	Bartonella sp.	South Meadows Sports Complex, Washoe County, Nevada	Kosoy et al., 2003
+Spermophilus beecheyi	Bartonella sp.	South Meadows Sports Complex, Washoe County, Nevada	Kosoy et al., 2003
+Spermophilus beecheyi	Orthohepadnavirus sp.	Not reported	Mehrotra & Mehrotra, 1987
+Spermophilus beecheyi	Orthohepadnavirus sp.	North California	Mehrotra et al., 1990
+Spermophilus beecheyi	Orchopeas nepos	Nevada	Eads et al., 1985
+Spermophilus beecheyi	Orchopeas latens	San Diego County, California	Eads et al., 1985
+Spermophilus beecheyi	Orchopeas nepos	Washoe County, Nevada	Eads et al., 1985
+Spermophilus beecheyi	Yersinia pestis	Berkeley hills, California	Cully, Jr. & Williams, 2001
+Spermophilus beecheyi	Yersinia pestis	Yellowstone National Park, Wyoming	Cully, Jr. & Williams, 2001
+Spermophilus beecheyi	Eimeria beecheyi	Lake County, near Nevada City, California	Wilber et al., 1998
+Spermophilus beecheyi	Eimeria callospermophili	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Spermophilus beecheyi	Eimeria cynomysis	NORTH AMERICA and EUROPE	Wilber et al., 1998
+Spermophilus beecheyi	Eimeria lateralis	NORTH AMERICA and ASIA	Wilber et al., 1998
+Spermophilus beecheyi	Eimeria lateralis	California	Seville & Williams, 1989
+Spermophilus beecheyi	Coccidia	Oil Well Road,Salinas and East Garrison	Adams&Strahler, 1972
+Spermophilus beecheyi	Yersinia pestis	Near San Francisco	Antolin et al., 2002
+Spermophilus beecheyi	Cryptosporidium parvum	Kern County	Atwill et al., 2001
+Spermophilus beecheyi	Cryptosporidium parvum	Kern County	Atwill et al., 2001
+Spermophilus beecheyi	Bartonella washoensis	Not reported	Bai et al., 2008
+Spermophilus beecheyi	Oropsylla montana	California	Barnes, 1993
+Spermophilus beecheyi	Oropsylla montana	Oregon	Barnes, 1993
+Spermophilus beecheyi	Oropsylla montana	Washington	Barnes, 1993
+Spermophilus beecheyi	Oropsylla montana	Western Nevada	Barnes, 1993
+Spermophilus beecheyi	Hoplopsyllus anomalus	California	Barnes, 1993
+Spermophilus beecheyi	Hoplopsyllus anomalus	Oregon	Barnes, 1993
+Spermophilus beecheyi	Hoplopsyllus anomalus	Washington	Barnes, 1993
+Spermophilus beecheyi	Hoplopsyllus anomalus	Western Nevada	Barnes, 1993
+Spermophilus beecheyi	Ground squirrel hepatitis virus	Not reported	Blumberg 1981
+Spermophilus beecheyi	Colorado tick fever	Not reported	Bowen et al 1981
+Spermophilus beecheyi	Oropsylla montana	Camp Ohlone, Alameda County, California	Bursten et al 1997
+Spermophilus beecheyi	Hoplopsyllus anomalus	Camp Ohlone, Alameda County, California	Bursten et al 1997
+Spermophilus beecheyi	Oropsylla montana	UNITED STATES	Buhnerkempe et al 2011
+Spermophilus beecheyi	Toxoplasma gondii	Morro Bay, California	Dabritz et al 2008
+Spermophilus beldingi	Androlaelaps fahrenholzi	Oregon	Whitaker, Jr. & Maser, 1985
+Spermophilus beldingi	Dermacarus reticulosus	Oregon	Whitaker, Jr. & Maser, 1985
+Spermophilus beldingi	Cheyletus linsdalei	Oregon	Whitaker, Jr. & Maser, 1985
+Spermophilus beldingi	Cheyletus linsdalei	Oregon	Whitaker, Jr. & Maser, 1985
+Spermophilus beldingi	Dermacarus reticulosus	Oregon	Whitaker, Jr. & Maser, 1985
+Spermophilus beldingi	Androlaelaps fahrenholzi	Oregon	Whitaker, Jr. & Maser, 1985
+Spermophilus beldingi	Eimeria callospermophili	California	Shults et al., 1990
+Spermophilus beldingi	Eimeria lateralis	California	Seville & Patrick, 2001
+Spermophilus beldingi	Orchopeas nepos	Oregon	Eads et al., 1985
+Spermophilus beldingi	Eimeria beckeri	EUROPE and ASIA	Wilber et al., 1998
+Spermophilus beldingi	Eimeria callospermophili	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Spermophilus beldingi	Eimeria callospermophili	NORTH AMERICA	Wilber et al., 1998
+Spermophilus beldingi	Eimeria lateralis	NORTH AMERICA and ASIA	Wilber et al., 1998
+Spermophilus beldingi	Eimeria lateralis	Not reported	Wilber et al., 1998
+Spermophilus beldingi	Thrassis francisi	California	Barnes, 1993
+Spermophilus beldingi	Thrassis francisi	Northern Nevada	Barnes, 1993
+Spermophilus beldingi	Thrassis francisi	Idaho	Barnes, 1993
+Spermophilus beldingi	Thrassis pandorae	California	Barnes, 1993
+Spermophilus beldingi	Thrassis pandorae	Oregon	Barnes, 1993
+Spermophilus beldingi	Thrassis pandorae	Northern Nevada	Barnes, 1993
+Spermophilus beldingi	Thrassis pandorae	Idaho	Barnes, 1993
+Spermophilus beldingi	Thrassis petiolatus	California	Barnes, 1993
+Spermophilus beldingi	Thrassis petiolatus	Oregon	Barnes, 1993
+Spermophilus beldingi	Thrassis petiolatus	Northern Nevada	Barnes, 1993
+Spermophilus beldingi	Thrassis petiolatus	Idaho	Barnes, 1993
+Spermophilus beldingi	Oropsylla tuberculata	California	Barnes, 1993
+Spermophilus beldingi	Oropsylla tuberculata	Oregon	Barnes, 1993
+Spermophilus beldingi	Oropsylla tuberculata	Northern Nevada	Barnes, 1993
+Spermophilus beldingi	Oropsylla tuberculata	Idaho	Barnes, 1993
+Spermophilus undulatus	Eimeria cynomysis	HUNGARY	Shults et al., 1990
+Spermophilus undulatus	Eimeria cynomysis	CZECHOSLOVAKIA	Shults et al., 1990
+Spermophilus undulatus	Neopsylla setosa	Srem: Fruska Gora: Jazak	Brelih & Trilar, 2000
+Spermophilus undulatus	Neopsylla setosa	Srem: Fruska Gora: Cortanovci	Brelih & Trilar, 2000
+Spermophilus undulatus	Ctenophthalmus agyrtes	Jakupica: Gorno Begovo, Begovo Pole	Brelih & Trilar, 2000
+Spermophilus undulatus	Ctenophthalmus orientalis	Srem: Fruska Gora: Irig	Brelih & Trilar, 2000
+Spermophilus undulatus	Ctenophthalmus orientalis	Srem: Fruska Gora: Jazak	Brelih & Trilar, 2000
+Spermophilus undulatus	Citellophilus simplex	Sencur, Voglje	Brelih & Trilar, 2000
+Spermophilus undulatus	Citellophilus simplex	EUROPE	Brelih & Trilar, 2000
+Spermophilus undulatus	Citellophilus simplex	Deliblatska Pescara: Samos	Brelih & Trilar, 2000
+Spermophilus undulatus	Citellophilus martinoi	Srem: Fruska Gora: Irig	Brelih & Trilar, 2000
+Spermophilus undulatus	Citellophilus martinoi	Srem: Fruska Gora: Jazak	Brelih & Trilar, 2000
+Spermophilus undulatus	Citellophilus sp.	Banat: Melenci	Brelih & Trilar, 2000
+Spermophilus undulatus	Ixodes laguri	CZECHOSLOVAKIA	Cerny, 1990
+Spermophilus undulatus	Eimeria callospermophili	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Spermophilus undulatus	Eimeria callospermophili	NORTH AMERICA	Wilber et al., 1998
+Spermophilus undulatus	Eimeria cynomysis	NORTH AMERICA and EUROPE	Wilber et al., 1998
+Spermophilus undulatus	Neopsylla setosa	Deliblatska pescara: Coka	Brelih & Trilar, 2000
+Spermophilus undulatus	Ctenophthalmus orientalis	Crepaja, Banat	Brelih & Trilar, 2000
+Spermophilus undulatus	Ctenophthalmus orientalis	Banat: Banatska Palanka	Brelih & Trilar, 2000
+Spermophilus undulatus	Ctenophthalmus orientalis	Banat: Zrenjanini, Orlovat, reka Tamis	Brelih & Trilar, 2000
+Spermophilus undulatus	Ctenophthalmus orientalis	Banat: Melenci	Brelih & Trilar, 2000
+Spermophilus undulatus	Ctenophthalmus orientalis	Deliblatska Pescara: Samos	Brelih & Trilar, 2000
+Spermophilus undulatus	Ctenophthalmus orientalis	Deliblatska Pescara: Deliblato	Brelih & Trilar, 2000
+Spermophilus undulatus	Ctenophthalmus orientalis	Deliblaska pescara: Coka	Brelih & Trilar, 2000
+Spermophilus undulatus	Ctenophthalmus orientalis	Vlasina	Brelih & Trilar, 2000
+Spermophilus undulatus	Ctenophthalmus orientalis	Stara Planina: Ponor	Brelih & Trilar, 2000
+Spermophilus undulatus	Ctenophthalmus orientalis	Jakupica: Gorno Begovo, Begovo Pole	Brelih & Trilar, 2000
+Spermophilus undulatus	Citellophilus simplex	Deliblatska Pescara: Susara	Brelih & Trilar, 2000
+Spermophilus undulatus	Citellophilus simplex	Banat: Banatska Palanka	Brelih & Trilar, 2000
+Spermophilus undulatus	Citellophilus simplex	Dojransko jezero, Acikot	Brelih & Trilar, 2000
+Spermophilus undulatus	Citellophilus simplex	Deliblatska Pescara: Deliblato	Brelih & Trilar, 2000
+Spermophilus undulatus	Citellophilus simplex	Deliblatska Pescara: Deliblato	Brelih & Trilar, 2000
+Spermophilus undulatus	Citellophilus simplex	Deliblatska Pescara: Deliblato	Brelih & Trilar, 2000
+Spermophilus undulatus	Citellophilus martinoi	Banat: Melenci	Brelih & Trilar, 2000
+Spermophilus undulatus	Citellophilus martinoi	Vlasinska Tresava	Brelih & Trilar, 2000
+Spermophilus undulatus	Citellophilus martinoi	Vlasina	Brelih & Trilar, 2000
+Spermophilus undulatus	Citellophilus martinoi	Stara Planina: Ponor	Brelih & Trilar, 2000
+Spermophilus undulatus	Citellophilus martinoi	Jakupica, Solunsko Pole	Brelih & Trilar, 2000
+Spermophilus undulatus	Citellophilus martinoi	Jakupica: Gorno Begovo, Begovo Pole	Brelih & Trilar, 2000
+Spermophilus columbianus	Eimeria callospermophili	Alberta	Shults et al., 1990
+Spermophilus columbianus	Eimeria lateralis	Alberta	Seville & Patrick, 2001
+Spermophilus columbianus	Eimeria callospermophili	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Spermophilus columbianus	Eimeria cynomysis	NORTH AMERICA and EUROPE	Wilber et al., 1998
+Spermophilus columbianus	Eimeria lateralis	NORTH AMERICA and ASIA	Wilber et al., 1998
+Spermophilus columbianus	Dermacentor andersoni	Bitterroot Valley near Hamilton, Montana	Norment & Burgdorfer, 1985
+Spermophilus columbianus	Colorado tick fever	Not reported	Bowen et al 1981
+Spermophilus elegans	Eimeria lateralis	Wyoming, irrigated alfalfa-brome field, 10km south of Laramie	Shults et al., 1990
+Spermophilus elegans	Eimeria cynomysis	Wyoming, irrigated alfalfa-brome field, 10km south of Laramie	Shults et al., 1990
+Spermophilus elegans	Eimeria beecheyi	Wyoming, irrigated alfalfa-brome field, 10km south of Laramie	Shults et al., 1990
+Spermophilus elegans	Eimeria vilasi	Wyoming, irrigated alfalfa-brome field, 10km south of Laramie	Shults et al., 1990
+Spermophilus elegans	Eimeria callospermophili	Wyoming, irrigated alfalfa-brome field, 10km south of Laramie	Shults et al., 1990
+Spermophilus elegans	Eimeria spermophili	Wyoming, irrigated alfalfa-brome field, 10km south of Laramie	Shults et al., 1990
+Spermophilus elegans	Eimeria lateralis	Xeric cold desert shrub-steppe, 14km north of Baggs, Wyoming	Shults et al., 1990
+Spermophilus elegans	Eimeria cynomysis	Xeric cold desert shrub-steppe, 14km north of Baggs, Wyoming	Shults et al., 1990
+Spermophilus elegans	Eimeria beecheyi	Xeric cold desert shrub-steppe, 14km north of Baggs, Wyoming	Shults et al., 1990
+Spermophilus elegans	Eimeria vilasi	Xeric cold desert shrub-steppe, 14km north of Baggs, Wyoming	Shults et al., 1990
+Spermophilus elegans	Eimeria callospermophili	Xeric cold desert shrub-steppe, 14km north of Baggs, Wyoming	Shults et al., 1990
+Spermophilus elegans	Eimeria spermophili	Xeric cold desert shrub-steppe, 14km north of Baggs, Wyoming	Shults et al., 1990
+Spermophilus elegans	Eimeria beecheyi	Laramie, Wyoming1	Seville et al., 1992
+Spermophilus elegans	Eimeria cynomysis	Laramie, Wyoming1	Seville et al., 1992
+Spermophilus elegans	Eimeria callospermophili	Laramie, Wyoming1	Seville et al., 1992
+Spermophilus elegans	Eimeria lateralis	Laramie, Wyoming1	Seville et al., 1992
+Spermophilus elegans	Eimeria spermophili	Laramie, Wyoming1	Seville et al., 1992
+Spermophilus elegans	Eimeria lateralis	Wyoming	Seville & Patrick, 2001
+Spermophilus elegans	Eimeria lateralis	Wyoming	Seville & Patrick, 2001
+Spermophilus elegans	Eimeria beecheyi	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Spermophilus elegans	Eimeria callospermophili	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Spermophilus elegans	Eimeria cynomysis	NORTH AMERICA and EUROPE	Wilber et al., 1998
+Spermophilus elegans	Eimeria lateralis	NORTH AMERICA and ASIA	Wilber et al., 1998
+Spermophilus elegans	Eimeria vilasi	NORTH AMERICA	Wilber et al., 1998
+Spermophilus elegans	Eimeria spermophili	NORTH AMERICA	Wilber et al., 1998
+Spermophilus elegans	Eimeria beecheyi	11km south of Laramie Wyoming	Shults et al., 1990
+Spermophilus elegans	Eimeria vilasi	11km south of Laramie Wyoming	Shults et al., 1990
+Spermophilus elegans	Eimeria cynomysis	11km south of Laramie Wyoming	Shults et al., 1990
+Spermophilus elegans	Eimeria lateralis	11km south of Laramie Wyoming	Shults et al., 1990
+Spermophilus erythrogenys	Eimeria beckeri	EUROPE and ASIA	Wilber et al., 1998
+Spermophilus erythrogenys	Eimeria berkinbaevi	Alma- Ata, Chimkiant and Kzyl-Ordin regions	Wilber et al., 1998
+Spermophilus erythrogenys	Eimeria callospermophili	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Spermophilus erythrogenys	Eimeria callospermophili	ASIA, EUROPE, USA	Wilber et al., 1998
+Spermophilus erythrogenys	Eimeria volgenis	KASACHSTAN	Wilber et al., 1998
+Spermophilus franklinii	Eimeria cynomysis	Iowa	Shults et al., 1990
+Spermophilus franklinii	Eimeria callospermophili	Alberta	Shults et al., 1990
+Spermophilus franklinii	Eimeria spermophili	Alberta	Shults et al., 1990
+Spermophilus franklinii	Eimeria callospermophili	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Spermophilus franklinii	Eimeria cynomysis	NORTH AMERICA and EUROPE	Wilber et al., 1998
+Spermophilus franklinii	Eimeria franklinii	Near Ames, Iowa	Wilber et al., 1998
+Spermophilus franklinii	Eimeria spermophili	NORTH AMERICA	Wilber et al., 1998
+Spermophilus franklinii	Dermacentor andersoni	Birds Hill Provincial Park	Burachynsky&Galloway 1985
+Spermophilus franklinii	Dermacentor andersoni	Birds Hill Provincial Park	Burachynsky&Galloway 1985
+Spermophilus franklinii	Dermacentor andersoni	Birds Hill Provincial Park	Burachynsky&Galloway 1985
+Spermophilus franklinii	Dermacentor andersoni	Birds Hill Provincial Park	Burachynsky&Galloway 1985
+Spermophilus fulvus	Eimeria callospermophili	Liechtenstein	Shults et al., 1990
+Spermophilus fulvus	Eimeria airculensis	Aktiabinsk region, Irgizski area	Wilber et al., 1998
+Spermophilus fulvus	Eimeria beckeri	EUROPE and ASIA	Wilber et al., 1998
+Spermophilus fulvus	Eimeria berkinbaevi	Alma- Ata, Chimkiant and Kzyl-Ordin regions	Wilber et al., 1998
+Spermophilus fulvus	Eimeria callospermophili	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Spermophilus fulvus	Eimeria callospermophili	ASIA, EUROPE, USA	Wilber et al., 1998
+Spermophilus fulvus	Eimeria deserticola	Karschinski and Ulianovski regions	Wilber et al., 1998
+Spermophilus fulvus	Eimeria beckeri	Not reported	Wilber et al., 1998
+Spermophilus lateralis	Opisodasys keeni	Bend, Deschutes County, Oregon	Hopkins, 1985
+Spermophilus lateralis	Oropsylla idahoensis	Bend, Deschutes County, Oregon	Hopkins, 1985
+Spermophilus lateralis	Aetheca wagneri	Bend, Deschutes County, Oregon	Hopkins, 1985
+Spermophilus lateralis	Ceratophyllus ciliatus	Bend, Deschutes County, Oregon	Hopkins, 1985
+Spermophilus lateralis	Aetheca eumolpi	Bend, Deschutes County, Oregon	Hopkins, 1985
+Spermophilus lateralis	Meringis parkeri	Bend, Deschutes County, Oregon	Hopkins, 1985
+Spermophilus lateralis	Epitedia wenmanni	Bend, Deschutes County, Oregon	Hopkins, 1985
+Spermophilus lateralis	Peromyscopsylla hesperomys	Bend, Deschutes County, Oregon	Hopkins, 1985
+Spermophilus lateralis	Androlaelaps fahrenholzi	Oregon	Whitaker, Jr. & Maser, 1985
+Spermophilus lateralis	Dermacarus spermophilus	Oregon	Whitaker, Jr. & Maser, 1985
+Spermophilus lateralis	Dermacarus spermophilus	Oregon	Whitaker, Jr. & Maser, 1985
+Spermophilus lateralis	Androlaelaps fahrenholzi	Oregon	Whitaker, Jr. & Maser, 1985
+Spermophilus lateralis	Coltivirus sp.	Rocky Mountain National Park, Colorado	McLean et al., 1989
+Spermophilus lateralis	Dermacentor andersoni	Moraine Park in Rocky Mountain National Park, Colorado	McLean et al., 1989
+Spermophilus lateralis	Dermacentor andersoni	Beaver Meadow transect, Rocky Mountain National Park, Colorado	McLean et al., 1989
+Spermophilus lateralis	Coltivirus sp.	Moraine Park in Rocky Mountain National Park, Colorado	McLean et al., 1989
+Spermophilus lateralis	Coltivirus sp.	Beaver Meadow transect, Rocky Mountain National Park, Colorado	McLean et al., 1989
+Spermophilus lateralis	Eimeria lateralis	Southeastern Utah	Shults et al., 1990
+Spermophilus lateralis	Eimeria cynomysis	California	Shults et al., 1990
+Spermophilus lateralis	Eimeria vilasi	Colorado	Shults et al., 1990
+Spermophilus lateralis	Eimeria callospermophili	California	Shults et al., 1990
+Spermophilus lateralis	Eimeria callospermophili	Colorado	Shults et al., 1990
+Spermophilus lateralis	Eimeria callospermophili	Southeastern Utah	Shults et al., 1990
+Spermophilus lateralis	Borrelia bissettii	Pingree Park, Colorado	DeNatale et al., 2002
+Spermophilus lateralis	Anaplasma phagocytophilum	Pingree Park, Colorado	DeNatale et al., 2002
+Spermophilus lateralis	Ixodes spinipalpis	Pingree Park, Colorado	DeNatale et al., 2002
+Spermophilus lateralis	Dermacentor andersoni	Pingree Park, Colorado	DeNatale et al., 2002
+Spermophilus lateralis	Bartonella sp.	Galena Creek Park, Washoe County, Nevada	Kosoy et al., 2003
+Spermophilus lateralis	Bartonella sp.	Galena Creek Park, Washoe County, Nevada	Kosoy et al., 2003
+Spermophilus lateralis	Bartonella sp.	Mount Rose Campground, Washoe County, Nevada	Kosoy et al., 2003
+Spermophilus lateralis	Orchopeas nepos	Nevada	Eads et al., 1985
+Spermophilus lateralis	Orchopeas nepos	Washoe County, Nevada	Eads et al., 1985
+Spermophilus lateralis	Eimeria callospermophili	Placer County, California	Wilber et al., 1998
+Spermophilus lateralis	Eimeria cynomysis	NORTH AMERICA and EUROPE	Wilber et al., 1998
+Spermophilus lateralis	Eimeria lateralis	Point Imperial on the northern rim of the Grand Canyon, Arizona	Wilber et al., 1998
+Spermophilus lateralis	Eimeria vilasi	Moraine Park in Rocky Mountain National Park, Colorado	Wilber et al., 1998
+Spermophilus lateralis	Eimeria ovata	NORTH AMERICA	Wilber et al., 1998
+Spermophilus lateralis	Eimeria cynomysis	Not reported	Wilber et al., 1998
+Spermophilus lateralis	Dermacentor andersoni	Bitterroot Valley near Hamilton, Montana	Norment & Burgdorfer, 1985
+Spermophilus lateralis	Eimeria lateralis	Utah	Seville & Williams, 1989
+Spermophilus lateralis	Oropsylla idahoensis	Arizona	Barnes, 1993
+Spermophilus lateralis	Oropsylla idahoensis	California	Barnes, 1993
+Spermophilus lateralis	Oropsylla idahoensis	Colorado	Barnes, 1993
+Spermophilus lateralis	Oropsylla idahoensis	Idaho	Barnes, 1993
+Spermophilus lateralis	Oropsylla idahoensis	Montana	Barnes, 1993
+Spermophilus lateralis	Oropsylla idahoensis	Nevada	Barnes, 1993
+Spermophilus lateralis	Oropsylla idahoensis	New Mexico	Barnes, 1993
+Spermophilus lateralis	Oropsylla idahoensis	Oregon	Barnes, 1993
+Spermophilus lateralis	Oropsylla montana	Arizona	Barnes, 1993
+Spermophilus lateralis	Oropsylla montana	California	Barnes, 1993
+Spermophilus lateralis	Oropsylla montana	Colorado	Barnes, 1993
+Spermophilus lateralis	Oropsylla montana	Idaho	Barnes, 1993
+Spermophilus lateralis	Oropsylla montana	Montana	Barnes, 1993
+Spermophilus lateralis	Oropsylla montana	Nevada	Barnes, 1993
+Spermophilus lateralis	Oropsylla montana	New Mexico	Barnes, 1993
+Spermophilus lateralis	Oropsylla montana	Oregon	Barnes, 1993
+Spermophilus lateralis	Oropsylla labis	Arizona	Barnes, 1993
+Spermophilus lateralis	Oropsylla labis	California	Barnes, 1993
+Spermophilus lateralis	Oropsylla labis	Colorado	Barnes, 1993
+Spermophilus lateralis	Oropsylla labis	Idaho	Barnes, 1993
+Spermophilus lateralis	Oropsylla labis	Montana	Barnes, 1993
+Spermophilus lateralis	Oropsylla labis	Nevada	Barnes, 1993
+Spermophilus lateralis	Oropsylla labis	New Mexico	Barnes, 1993
+Spermophilus lateralis	Oropsylla labis	Oregon	Barnes, 1993
+Spermophilus lateralis	Thrassis bacchi	New Mexico	Barnes, 1993
+Spermophilus lateralis	Thrassis bacchi	Arizona	Barnes, 1993
+Spermophilus lateralis	Thrassis bacchi	California	Barnes, 1993
+Spermophilus lateralis	Thrassis bacchi	Utah	Barnes, 1993
+Spermophilus lateralis	Thrassis bacchi	Colorado	Barnes, 1993
+Spermophilus lateralis	Colorado tick fever	Pitkin County, Colorado	Bowen et al 1981
+Spermophilus lateralis	Colorado tick fever	California	Bowen et al 1981
+Spermophilus lateralis	Colorado tick fever	Rocky Mountain National Park, Colorado	Bowen et al 1981
+Spermophilus lateralis	Colorado tick fever	Not reported	Bowen et al 1981
+Spermophilus lateralis	Colorado tick fever	Bitterroot Valley near Hamilton, Montana	Burgdorfer & Eklund 1960
+Spermophilus lateralis	Colorado tick fever	Rocky Mountain National Park, Colorado	Carey et al 1980
+Spermophilus lateralis	Dermacentor andersoni	Rocky Mountain National Park, Colorado	Carey et al 1980
+Spermophilus lateralis	Ixodes sculptus	Rocky Mountain National Park, Colorado	Carey et al 1980
+Spermophilus lateralis	Ixodes spinipalpis	Rocky Mountain National Park, Colorado	Carey et al 1980
+Spermophilus lateralis	Dermacentor albipictus	Rocky Mountain National Park, Colorado	Carey et al 1980
+Ammospermophilus leucurus	Eimeria callospermophili	Southeastern Wyoming	Shults et al., 1990
+Spermophilus fulvus	Eimeria callospermophili	Soviet Union	Shults et al., 1990
+Spermophilus mexicanus	Eimeria callospermophili	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Spermophilus mexicanus	Eimeria vilasi	NORTH AMERICA	Wilber et al., 1998
+Spermophilus musicus	Citellophilus tesquorum	Elbrus Region, Caucasus	Cyprich et al., 1986
+Spermophilus musicus	Ctenophthalmus golovi	Elbrus Region, Caucasus	Cyprich et al., 1986
+Spermophilus parryii	Oropsylla alaskensis	Utokok River, Driftwood Camp, Alaska	Haas et al., 1982
+Spermophilus parryii	Oropsylla alaskensis	Utokok River, Driftwood Camp, Alaska	Haas et al., 1982
+Spermophilus parryii	Oropsylla idahoensis	3.7km northwest of Matanuska Glacier, Alaska	Haas et al., 1982
+Spermophilus pygmaeus	Eimeria beckeri	Crimea	Wilber et al., 1998
+Spermophilus pygmaeus	Eimeria callospermophili	ASIA, EUROPE, USA	Wilber et al., 1998
+Spermophilus pygmaeus	Eimeria volgenis	KASACHSTAN	Wilber et al., 1998
+Spermophilus pygmaeus	Yersinia pestis	Northwestern Caspian Territory, Caucasus	Emal'Yanov, 1987
+Spermophilus relictus	Eimeria beecheyi	USSR	Shults et al., 1990
+Spermophilus relictus	Eimeria beckeri	EUROPE and ASIA	Wilber et al., 1998
+Spermophilus relictus	Eimeria beecheyi	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Spermophilus relictus	Eimeria callospermophili	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Spermophilus relictus	Eimeria callospermophili	ASIA, EUROPE, USA	Wilber et al., 1998
+Spermophilus relictus	Eimeria volgenis	KASACHSTAN	Wilber et al., 1998
+Spermophilus elegans	Yersinia pestis	UNITED STATES	Anderson & Williams, 1997
+Spermophilus elegans	Yersinia pestis	Niobrara, Wyoming	Ubico et al., 1988
+Spermophilus elegans	Coltivirus sp.	Rocky Mountain National Park, Colorado	McLean et al., 1989
+Spermophilus elegans	Dermacentor andersoni	Moraine Park in Rocky Mountain National Park, Colorado	McLean et al., 1989
+Spermophilus elegans	Dermacentor andersoni	Beaver Meadow transect, Rocky Mountain National Park, Colorado	McLean et al., 1989
+Spermophilus elegans	Coltivirus sp.	Moraine Park in Rocky Mountain National Park, Colorado	McLean et al., 1989
+Spermophilus elegans	Coltivirus sp.	Beaver Meadow transect, Rocky Mountain National Park, Colorado	McLean et al., 1989
+Spermophilus elegans	Eimeria callospermophili	Alberta	Shults et al., 1990
+Spermophilus elegans	Eimeria callospermophili	Montana	Shults et al., 1990
+Spermophilus elegans	Eimeria callospermophili	Southeastern Wyoming	Shults et al., 1990
+Spermophilus elegans	Eimeria spermophili	Alberta	Shults et al., 1990
+Spermophilus elegans	Eimeria lateralis	Alberta	Seville & Patrick, 2001
+Spermophilus elegans	Eimeria lateralis	Alberta	Seville & Patrick, 2001
+Spermophilus elegans	Strongyloides robustus	Saskatchewan	Bartlett, 1995
+Spermophilus elegans	Eimeria beecheyi	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Spermophilus elegans	Eimeria callospermophili	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Spermophilus elegans	Eimeria cynomysis	NORTH AMERICA and EUROPE	Wilber et al., 1998
+Spermophilus elegans	Eimeria lateralis	NORTH AMERICA and ASIA	Wilber et al., 1998
+Spermophilus elegans	Eimeria vilasi	NORTH AMERICA	Wilber et al., 1998
+Spermophilus elegans	Eimeria spermophili	Alberta	Wilber et al., 1998
+Spermophilus elegans	Yersinia pestis	Niobrara, Wyoming	Ubico et al., 1988
+Spermophilus elegans	Spirura infundibuliformis	Near Gem Alberta	Anderson et al 1993
+Spermophilus elegans	Dermacentor andersoni	Outside of Beechy, Saskatchewan	Anstead et al., 2014
+Spermophilus elegans	Ixodes sculptus	Outside of Beechy, Saskatchewan	Anstead et al., 2014
+Spermophilus elegans	Ixodes kingi	Outside of Beechy, Saskatchewan	Anstead et al., 2014
+Spermophilus elegans	Dermacentor variabilis	Outside of Beechy, Saskatchewan	Anstead et al., 2014
+Spermophilus elegans	Oropsylla labis	Wyoming	Barnes, 1993
+Spermophilus elegans	Oropsylla labis	Idaho	Barnes, 1993
+Spermophilus elegans	Oropsylla labis	Colorado	Barnes, 1993
+Spermophilus elegans	Oropsylla labis	Montana	Barnes, 1993
+Spermophilus elegans	Oropsylla idahoensis	Wyoming	Barnes, 1993
+Spermophilus elegans	Oropsylla idahoensis	Idaho	Barnes, 1993
+Spermophilus elegans	Oropsylla idahoensis	Colorado	Barnes, 1993
+Spermophilus elegans	Oropsylla idahoensis	Montana	Barnes, 1993
+Spermophilus elegans	Oropsylla tuberculata	Wyoming	Barnes, 1993
+Spermophilus elegans	Oropsylla tuberculata	Idaho	Barnes, 1993
+Spermophilus elegans	Oropsylla tuberculata	Colorado	Barnes, 1993
+Spermophilus elegans	Oropsylla tuberculata	Montana	Barnes, 1993
+Spermophilus elegans	Colorado tick fever	Rocky Mountain National Park, Colorado	Bowen et al 1981
+Spermophilus elegans	Colorado tick fever	Rocky Mountain National Park, Colorado	Carey et al 1980
+Spermophilus elegans	Dermacentor andersoni	Rocky Mountain National Park, Colorado	Carey et al 1980
+Spermophilus elegans	Ixodes sculptus	Rocky Mountain National Park, Colorado	Carey et al 1980
+Spermophilus sp.	Hymenolepis citelli	Manitoba	Seville & Williams, 1989
+Spermophilus sp.	Eimeria cynomysis	Not reported	Shults et al., 1990
+Spermophilus sp.	Eimeria lateralis	Not reported	Shults et al., 1990
+Spermophilus sp.	Neopsylla inopina	NORTH AMERICA	Jameson, Jr. 1999
+Spermophilus spilosoma	Eimeria lateralis	Colorado	Shults et al., 1990
+Spermophilus spilosoma	Eimeria callospermophili	MEXICO	Shults et al., 1990
+Spermophilus spilosoma	Eimeria callospermophili	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Spermophilus spilosoma	Eimeria hoffmeisteri	11 km. N of Rincon de Romos, Aguascalientes	Wilber et al., 1998
+Spermophilus spilosoma	Eimeria lateralis	NORTH AMERICA and ASIA	Wilber et al., 1998
+Spermophilus suslicus	Citellophilus simplex	EUROPE	Brelih & Trilar, 2000
+Spermophilus tereticaudus	Subulura nevadense	Clark, Lincoln and Nye Counties, Nevada	Babero 1973
+Spermophilus tereticaudus	Citellina triradiata	Clark, Lincoln and Nye Counties, Nevada	Babero 1973
+Spermophilus tereticaudus	Syphacia citelli	Clark, Lincoln and Nye Counties, Nevada	Babero 1973
+Spermophilus townsendii	Androlaelaps fahrenholzi	Oregon, Malheur County	Whitaker, Jr. & Maser, 1985
+Spermophilus townsendii	Macrocheles sp.	Oregon, Malheur County	Whitaker, Jr. & Maser, 1985
+Spermophilus townsendii	Dermacarus spermophilus	Oregon, Malheur County	Whitaker, Jr. & Maser, 1985
+Spermophilus townsendii	Euryparasitus sp.	Oregon, Malheur County	Whitaker, Jr. & Maser, 1985
+Spermophilus townsendii	Dermacarus spermophilus	Oregon	Whitaker, Jr. & Maser, 1985
+Spermophilus townsendii	Androlaelaps fahrenholzi	Oregon	Whitaker, Jr. & Maser, 1985
+Spermophilus townsendii	Eimeria vilasi	Idaho	Seville, 1997
+Spermophilus townsendii	Eimeria pseudospermophili	Idaho	Seville, 1997
+Spermophilus townsendii	Eimeria lateralis	Idaho	Seville & Patrick, 2001
+Spermophilus townsendii	Eimeria vilasi	Idaho	Seville & Patrick, 2001
+Spermophilus townsendii	Eimeria beecheyi	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Spermophilus townsendii	Eimeria cynomysis	NORTH AMERICA and EUROPE	Wilber et al., 1998
+Spermophilus townsendii	Eimeria lateralis	NORTH AMERICA and ASIA	Wilber et al., 1998
+Spermophilus townsendii	Eimeria pseudospermophili	Snake River Birds of Prey Area, Ada County, Idaho	Wilber et al., 1998
+Spermophilus townsendii	Eimeria vilasi	NORTH AMERICA	Wilber et al., 1998
+Spermophilus townsendii	Eimeria vilasi	Not reported	Wilber et al., 1998
+Spermophilus townsendii	Thrassis francisi	Southern Idaho	Barnes, 1993
+Spermophilus townsendii	Thrassis francisi	Oregon	Barnes, 1993
+Spermophilus townsendii	Thrassis francisi	Nevada	Barnes, 1993
+Spermophilus townsendii	Thrassis francisi	Utah	Barnes, 1993
+Spermophilus townsendii	Eimeria callospermophili	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Spermophilus townsendii	Eimeria vilasi	NORTH AMERICA	Wilber et al., 1998
+Spermophilus tridecemlineatus	Eimeria lateralis	Wyoming	Seville & Williams, 1989
+Spermophilus tridecemlineatus	Hymenolepis citelli	Oklahoma	Seville & Williams, 1989
+Spermophilus tridecemlineatus	Lyssavirus sp.	UNITED STATES	Childs et al., 1997
+Spermophilus tridecemlineatus	Yersinia pestis	Hutton Lake Wildlife Refuge, Laramie, Wyoming	Ubico et al., 1988
+Spermophilus tridecemlineatus	Oropsylla bruneri 	Wisconsin	Amin & Wagner, 1983
+Spermophilus tridecemlineatus	Eimeria lateralis	Southeastern Wyoming	Shults et al., 1990
+Spermophilus tridecemlineatus	Eimeria callospermophili	Southeastern Wyoming	Shults et al., 1990
+Spermophilus tridecemlineatus	Eimeria beecheyi	Laramie, Wyoming1	Seville et al., 1992
+Spermophilus tridecemlineatus	Eimeria cynomysis	Laramie, Wyoming1	Seville et al., 1992
+Spermophilus tridecemlineatus	Eimeria callospermophili	Laramie, Wyoming1	Seville et al., 1992
+Spermophilus tridecemlineatus	Eimeria lateralis	Laramie, Wyoming1	Seville et al., 1992
+Spermophilus tridecemlineatus	Eimeria spermophili	Laramie, Wyoming1	Seville et al., 1992
+Spermophilus tridecemlineatus	Eimeria beecheyi	Gillette, Wyoming	Seville et al., 1992
+Spermophilus tridecemlineatus	Eimeria cynomysis	Gillette, Wyoming	Seville et al., 1992
+Spermophilus tridecemlineatus	Eimeria callospermophili	Gillette, Wyoming	Seville et al., 1992
+Spermophilus tridecemlineatus	Eimeria lateralis	Gillette, Wyoming	Seville et al., 1992
+Spermophilus tridecemlineatus	Eimeria spermophili	Gillette, Wyoming	Seville et al., 1992
+Spermophilus tridecemlineatus	Eimeria lateralis	Wyoming	Seville & Patrick, 2001
+Spermophilus tridecemlineatus	Strongyloides robustus	Saskatchewan	Bartlett, 1995
+Spermophilus tridecemlineatus	Eimeria beecheyi	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Spermophilus tridecemlineatus	Eimeria callospermophili	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Spermophilus tridecemlineatus	Eimeria callospermophili	NORTH AMERICA	Wilber et al., 1998
+Spermophilus tridecemlineatus	Eimeria cynomysis	NORTH AMERICA and EUROPE	Wilber et al., 1998
+Spermophilus tridecemlineatus	Eimeria lateralis	NORTH AMERICA and ASIA	Wilber et al., 1998
+Spermophilus tridecemlineatus	Eimeria vilasi	NORTH AMERICA	Wilber et al., 1998
+Spermophilus tridecemlineatus	Cediopsylla simplex	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Spermophilus tridecemlineatus	Ctenocephalides canis	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Spermophilus tridecemlineatus	Ctenocephalides felis	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Spermophilus tridecemlineatus	Pulex irritans	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Spermophilus tridecemlineatus	Chaetopsylla lotoris	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Spermophilus tridecemlineatus	Conorhinopsylla stanfordi	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Spermophilus tridecemlineatus	Corrodopsylla curvata	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Spermophilus tridecemlineatus	Ctenophthalmus pseudagyrtes	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Spermophilus tridecemlineatus	Epitedia wenmanni	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Spermophilus tridecemlineatus	Tamiophila grandis	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Spermophilus tridecemlineatus	Megabothris acerbus	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Spermophilus tridecemlineatus	Megabothris asio	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Spermophilus tridecemlineatus	Megabothris sp.	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Spermophilus tridecemlineatus	Oropsylla bruneri 	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Spermophilus tridecemlineatus	Orchopeas howardii	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Spermophilus tridecemlineatus	Orchopeas leucopus	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Spermophilus tridecemlineatus	Oropsylla arctomys	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Spermophilus tridecemlineatus	Thrassis bacchi	Wisconsin	Amin, 1976b
+Spermophilus tridecemlineatus	Yersinia pestis	Niobrara, Wyoming	Ubico et al., 1988
+Spermophilus tridecemlineatus	Ixodes sculptus	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976a
+Spermophilus tridecemlineatus	Moniliformis clarki	Near Lincoln, Nebraska	Buckner & Nickol 1975
+Spermophilus tridecemlineatus	Hymenolepis citelli	Near Lincoln, Nebraska	Buckner & Nickol 1975
+Spermophilus tridecemlineatus	Rictularia coloradensis	Near Lincoln, Nebraska	Buckner & Nickol 1975
+Spermophilus tridecemlineatus	Dermacentor andersoni	Birds Hill Provincial Park	Burachynsky&Galloway 1985
+Spermophilus tridecemlineatus	Dermacentor andersoni	Birds Hill Provincial Park	Burachynsky&Galloway 1985
+Spermophilus tridecemlineatus	Dermacentor andersoni	Birds Hill Provincial Park	Burachynsky&Galloway 1985
+Spermophilus tridecemlineatus	Hymenolepis citelli	Cimarron County, Oklahoma	Buscher & Tyler 1975
+Spermophilus tridecemlineatus	Hymenolepis citelli	Harper County, Oklahoma	Buscher & Tyler 1975
+Spermophilus tridecemlineatus	Yersinia pestis	Around town of Eagle Nest	Cully et al 1997
+Spermophilus tridecemlineatus	Thrassis bacchi	Around town of Eagle Nest	Cully et al 1997
+Spermophilus tridecemlineatus	Yersinia pestis	Moreno Valley of north-central New Mexico	Cully et al 1997
+Spermophilus tridecemlineatus	Oropsylla hirsuta	Moreno Valley of north-central New Mexico	Cully et al 1997
+Spermophilus tridecemlineatus	Oropsylla labis	Moreno Valley of north-central New Mexico	Cully et al 1997
+Spermophilus tridecemlineatus	Oropsylla tuberculata	Moreno Valley of north-central New Mexico	Cully et al 1997
+Spermophilus tridecemlineatus	Thrassis bacchi	Moreno Valley of north-central New Mexico	Cully et al 1997
+Spermophilus tridecemlineatus	Rhadinopsylla sectilis	Moreno Valley of north-central New Mexico	Cully et al 1997
+Spermophilus tridecemlineatus	Aetheca wagneri	Moreno Valley of north-central New Mexico	Cully et al 1997
+Spermophilus tridecemlineatus	Malaraeus telchinus	Moreno Valley of north-central New Mexico	Cully et al 1997
+Spermophilus tridecemlineatus	Catallagia decipiens	Moreno Valley of north-central New Mexico	Cully et al 1997
+Spermophilus undulatus	Eimeria beckeri	EUROPE and ASIA	Wilber et al., 1998
+Spermophilus undulatus	Eimeria beecheyi	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Spermophilus undulatus	Eimeria callospermophili	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Spermophilus undulatus	Eimeria callospermophili	ASIA, EUROPE, USA	Wilber et al., 1998
+Spermophilus undulatus	Eimeria volgenis	KASACHSTAN	Wilber et al., 1998
+Spermophilus undulatus	Eimeria yukonensis	Khuna Lake area, mile 1054 of the Alaskan Highway, Yukon Territory	Wilber et al., 1998
+Spermophilus variegatus	Eimeria lateralis	Utah	Seville & Williams, 1989
+Spermophilus variegatus	Eimeria lateralis	Southeastern Utah	Shults et al., 1990
+Spermophilus variegatus	Eimeria cynomysis	Southeastern Utah	Shults et al., 1990
+Spermophilus variegatus	Eimeria callospermophili	Southeastern Utah	Shults et al., 1990
+Spermophilus variegatus	Eimeria beecheyi	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Spermophilus variegatus	Eimeria callospermophili	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Spermophilus variegatus	Eimeria cynomysis	NORTH AMERICA and EUROPE	Wilber et al., 1998
+Spermophilus variegatus	Eimeria lateralis	NORTH AMERICA and ASIA	Wilber et al., 1998
+Spermophilus variegatus	Eimeria vilasi	NORTH AMERICA	Wilber et al., 1998
+Spermophilus variegatus	Oropsylla montana	Arizona	Barnes, 1993
+Spermophilus variegatus	Oropsylla montana	New Mexico	Barnes, 1993
+Spermophilus variegatus	Oropsylla montana	Southern Colorado	Barnes, 1993
+Spermophilus variegatus	Oropsylla montana	Southern Utah	Barnes, 1993
+Spermophilus variegatus	Hoplopsyllus anomalus	Southern Utah	Barnes, 1993
+Spermophilus variegatus	Hoplopsyllus anomalus	Arizona	Barnes, 1993
+Spermophilus variegatus	Hoplopsyllus anomalus	New Mexico	Barnes, 1993
+Spermophilus variegatus	Hoplopsyllus anomalus	Southern Colorado	Barnes, 1993
+Spermophilus washingtoni	Androlaelaps fahrenholzi	Oregon, Morrow County	Whitaker, Jr. & Maser, 1985
+Spermophilus washingtoni	Macrocheles sp.	Oregon, Morrow County	Whitaker, Jr. & Maser, 1985
+Spermophilus washingtoni	Androlaelaps fahrenholzi	Oregon	Whitaker, Jr. & Maser, 1985
+Tamias amoenus	Dermacentor andersoni	Bitterroot Valley near Hamilton, Montana	Norment & Burgdorfer, 1985
+Tamias canipes	Eimeria beecheyi	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Tamias canipes	Eimeria vilasi	NORTH AMERICA	Wilber et al., 1998
+Tamias cinereicollis	Eimeria ovata	NORTH AMERICA	Wilber et al., 1998
+Tamias dorsalis	Eimeria beecheyi	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Tamias dorsalis	Eimeria eutamiae	Hull Tank, southern rim of the Grand Canyon, Arizona 	Wilber et al., 1998
+Tamias dorsalis	Eimeria tamiasciuri	NORTH AMERICA	Wilber et al., 1998
+Tamias dorsalis	Eimeria vilasi	NORTH AMERICA	Wilber et al., 1998
+Tamias dorsalis	Eimeria beecheyi	Not reported	Wilber et al., 1998
+Tamias dorsalis	Eimeria vilasi	Not reported	Wilber et al., 1998
+Tamias merriami	Eimeria vilasi	California	Seville & Patrick, 2001
+Tamias merriami	Eimeria tamiasciuri	NORTH AMERICA	Wilber et al., 1998
+Tamias merriami	Eimeria vilasi	NORTH AMERICA	Wilber et al., 1998
+Tamias minimus	Coltivirus sp.	Rocky Mountain National Park, Colorado	McLean et al., 1989
+Tamias minimus	Dermacentor andersoni	Moraine Park in Rocky Mountain National Park, Colorado	McLean et al., 1989
+Tamias minimus	Dermacentor andersoni	Beaver Meadow transect, Rocky Mountain National Park, Colorado	McLean et al., 1989
+Tamias minimus	Coltivirus sp.	Moraine Park in Rocky Mountain National Park, Colorado	McLean et al., 1989
+Tamias minimus	Coltivirus sp.	Beaver Meadow transect, Rocky Mountain National Park, Colorado	McLean et al., 1989
+Tamias minimus	Borrelia bissettii	Pingree Park, Colorado	DeNatale et al., 2002
+Tamias minimus	Anaplasma phagocytophilum	Pingree Park, Colorado	DeNatale et al., 2002
+Tamias minimus	Ixodes spinipalpis	Pingree Park, Colorado	DeNatale et al., 2002
+Tamias minimus	Dermacentor andersoni	Pingree Park, Colorado	DeNatale et al., 2002
+Tamias minimus	Bartonella sp.	Galena Creek Park, Washoe County, Nevada	Kosoy et al., 2003
+Tamias minimus	Bartonella sp.	Vya Station, Washoe County, Nevada	Kosoy et al., 2003
+Tamias minimus	Bartonella sp.	Vya Station, Washoe County, Nevada	Kosoy et al., 2003
+Tamias minimus	Bartonella sp.	Virginia City Highlands, Storey County, Nevada	Kosoy et al., 2003
+Tamias minimus	Cuterebra sp.	Roosevelt National Forest	Bergstrom 1992
+Tamias obscurus	Eimeria vilasi	Baja California Norte	Seville & Patrick, 2001
+Tamias obscurus	Eimeria beecheyi	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Tamias obscurus	Eimeria lateralis	NORTH AMERICA and ASIA	Wilber et al., 1998
+Tamias obscurus	Eimeria tamiasciuri	NORTH AMERICA	Wilber et al., 1998
+Tamias obscurus	Eimeria vilasi	NORTH AMERICA	Wilber et al., 1998
+Tamias quadrivittatus	Warrenius quadrivittati	Not reported	Patrick & Wilson, 1995
+Tamias quadrivittatus	Borrelia bissettii	Canon City	DeNatale et al., 2002
+Tamias quadrivittatus	Anaplasma phagocytophilum	Canon City	DeNatale et al., 2002
+Tamias quadrivittatus	Cuterebra fontinella	Roosevelt National Forest	Bergstrom 1992
+Tamias sibiricus	Eimeria beecheyi	Not reported	Wilber et al., 1998
+Tamias sibiricus	Toxoplasma gondii	Not reported	Bangari et al., 2007 
+Tamias sibiricus	Brevistriata bergerardi	Otaru, Hokkaido	Asakawa & Ohbayashi, 1986
+Tamias sibiricus	Enderleinellus tamiasis	NORTH AMERICA	Jameson, Jr. 1999
+Tamias sibiricus	Orthohepadnavirus sp.	Kyunggido and Kangwondo provinces	Yoo & Kim, 1987
+Tamias sp.	Lyssavirus sp.	UNITED STATES	Childs et al., 1997
+Tamias sp.	Moniliformis moniliformis	Nye, Esmeralda, Lincoln, and Clark Counties, Nevada	Archie et al., 1988
+Tamias sp.	Ochlerotatus triseriatus	Iowa County, Wisconsin	Burkot & Defoliart 1982
+Tamias sp.	Borrelia hermsii	Eagle Lake, California	Cleary&Theis 1999
+Tamias sp.	Borrelia hermsii	Eagle Lake, California	Cleary&Theis 1999
+Tamias sp.	Borrelia hermsii	Eagle Lake, California	Cleary&Theis 1999
+Tamias sp.	Borrelia hermsii	Eagle Lake, California	Cleary&Theis 1999
+Tamias striatus	Ixodes scapularis	Castle Rock State Park2, Illinois	Slajchert et al., 1997
+Tamias striatus	Borrelia burgdorferi	Castle Rock State Park2, Illinois	Slajchert et al., 1997
+Tamias striatus	Borrelia burgdorferi	Big Thompson Canyon and Cherokee Park	Ubico et al., 1996
+Tamias striatus	Ixodes scapularis	Big Thompson Canyon and Cherokee Park	Ubico et al., 1996
+Tamias striatus	Ixodes scapularis	Not reported	Bey et al., 1995
+Tamias striatus	Hoplopleura erratica	Tishomingo County, Mississippi	Goddard et al., 1986
+Tamias striatus	Orchopeas howardii	Tishomingo County, Mississippi	Goddard et al., 1986
+Tamias striatus	Cuterebra sp.	Tishomingo County, Mississippi	Goddard et al., 1986
+Tamias striatus	Dermacentor variabilis	Tishomingo County, Mississippi	Goddard et al., 1986
+Tamias striatus	Dermacarus hylandi	Tishomingo County, Mississippi	Goddard et al., 1986
+Tamias striatus	Chortoglyphus sciuricola	Tishomingo County, Mississippi	Goddard et al., 1986
+Tamias striatus	Androlaelaps fahrenholzi	Tishomingo County, Mississippi	Goddard et al., 1986
+Tamias striatus	Euschoengastia peromysci	Tishomingo County, Mississippi	Goddard et al., 1986
+Tamias striatus	Comatacarus americana	Tishomingo County, Mississippi	Goddard et al., 1986
+Tamias striatus	Parasecia sp.	Tishomingo County, Mississippi	Goddard et al., 1986
+Tamias striatus	Hoplopleura erratica	11km southwest of Nashville, Davidson County, Tennessee	Durden, 1987a
+Tamias striatus	Tamiophila grandis	19km outside Sherbrooke, Quebec	Robert & Bergeron, 1977
+Tamias striatus	Ctenophthalmus pseudagyrtes	19km outside Sherbrooke, Quebec	Robert & Bergeron, 1977
+Tamias striatus	Megabothris acerbus	19km outside Sherbrooke, Quebec	Robert & Bergeron, 1977
+Tamias striatus	Megabothris acerbus	Wisconsin	Amin & Wagner, 1983
+Tamias striatus	Staphylococcus sciuri	Saint Mary's College, Saint Joseph County, Indiana	Billings & Eberly, 1986
+Tamias striatus	Staphylococcus xylosus	Saint Mary's College, Saint Joseph County, Indiana	Billings & Eberly, 1986
+Tamias striatus	Staphylococcus cohnii	Saint Mary's College, Saint Joseph County, Indiana	Billings & Eberly, 1986
+Tamias striatus	Staphylococcus lentus	Saint Mary's College, Saint Joseph County, Indiana	Billings & Eberly, 1986
+Tamias striatus	Staphylococcus saprophyticus	Saint Mary's College, Saint Joseph County, Indiana	Billings & Eberly, 1986
+Tamias striatus	Micrococcus luteus	Saint Mary's College, Saint Joseph County, Indiana	Billings & Eberly, 1986
+Tamias striatus	Kocuria varians	Saint Mary's College, Saint Joseph County, Indiana	Billings & Eberly, 1986
+Tamias striatus	Micrococcus lylae	Saint Mary's College, Saint Joseph County, Indiana	Billings & Eberly, 1986
+Tamias striatus	Kocuria kristinae	Saint Mary's College, Saint Joseph County, Indiana	Billings & Eberly, 1986
+Tamias striatus	Kytococcus sedentarius	Saint Mary's College, Saint Joseph County, Indiana	Billings & Eberly, 1986
+Tamias striatus	Ixodes scapularis	Wisconsin	Godsey, Jr. et al., 1987
+Tamias striatus	Ixodes scapularis	Wisconsin	Godsey, Jr. et al., 1987
+Tamias striatus	Borrelia burgdorferi	Spooner, Washburn County, Wisconsin	Godsey, Jr. et al., 1987
+Tamias striatus	Borrelia burgdorferi	Wisconsin	Godsey, Jr. et al., 1987
+Tamias striatus	Borrelia burgdorferi	Kettle Moraine State Forest, Fond du Lac and Sheboygan Counties, Wisconsin	Godsey, Jr. et al., 1987
+Tamias striatus	Ixodes scapularis	Millbrook, New York	Anderson & Magnarelli, 1987
+Tamias striatus	Hoplopleura erratica	11km southwest of Nashville, Davidson County, Tennessee	Durden, 1987b
+Tamias striatus	Ctenophthalmus pseudagyrtes	11km southwest of Nashville, Davidson County, Tennessee	Durden, 1987b
+Tamias striatus	Eutrichota finitima	11km southwest of Nashville, Davidson County, Tennessee	Durden, 1987b
+Tamias striatus	Balaustium sp.	11km southwest of Nashville, Davidson County, Tennessee	Durden, 1987b
+Tamias striatus	Androlaelaps casalis	11km southwest of Nashville, Davidson County, Tennessee	Durden, 1987b
+Tamias striatus	Haemogamasus pontiger	11km southwest of Nashville, Davidson County, Tennessee	Durden, 1987b
+Tamias striatus	Eulaelaps stabularis	11km southwest of Nashville, Davidson County, Tennessee	Durden, 1987b
+Tamias striatus	Dermacarus hylandi	11km southwest of Nashville, Davidson County, Tennessee	Durden, 1987b
+Tamias striatus	Chortoglyphus sciuricola	11km southwest of Nashville, Davidson County, Tennessee	Durden, 1987b
+Tamias striatus	Eutrombicula alfreddugesi	11km southwest of Nashville, Davidson County, Tennessee	Durden, 1987b
+Tamias striatus	Ixodes scapularis	Great Island, Massachusetts	Mather et al., 1989
+Tamias striatus	Ixodes scapularis	Cranes Beach, Massachusetts	Mather et al., 1989
+Tamias striatus	Orthobunyavirus sp.	Not reported	Cully, Jr. et al., 1991a
+Tamias striatus	Ochlerotatus triseriatus	Indiana	Cully, Jr. et al., 1991a
+Tamias striatus	Ixodes scapularis	Not reported	Callister et al., 1991
+Tamias striatus	Borrelia burgdorferi	Not reported	Callister et al., 1991
+Tamias striatus	Borrelia burgdorferi	Wisconsin	Callister et al., 1991
+Tamias striatus	Orthobunyavirus sp.	Near New Alsace, Dearborn County, Indiana	Cully, Jr. et al., 1991b
+Tamias striatus	Orthobunyavirus sp.	Near New Alsace, Dearborn County, Indiana	Cully, Jr. et al., 1991b
+Tamias striatus	Orthobunyavirus sp.	Near New Alsace, Dearborn County, Indiana	Cully, Jr. et al., 1991b
+Tamias striatus	Orthobunyavirus sp.	Festge Park, Madison, Wisconsin	Cully, Jr. et al., 1991b
+Tamias striatus	Ctenophthalmus pseudagyrtes	South Fox Island, Lake Michigan	Scharf, 1991
+Tamias striatus	Megabothris acerbus	South Fox Island, Lake Michigan	Scharf, 1991
+Tamias striatus	Tamiophila grandis	South Fox Island, Lake Michigan	Scharf, 1991
+Tamias striatus	Strongyloides robustus	Indiana County, Pennsylvania	Patrick, 1991a
+Tamias striatus	Rictularia halli	Indiana County, Pennsylvania	Patrick, 1991a
+Tamias striatus	Borrelia burgdorferi	Not reported	Mannelli et al., 1993
+Tamias striatus	Ixodes scapularis	Wisconsin	Mannelli et al., 1993
+Tamias striatus	Ixodes scapularis	Castle Rock State Park, Illinois	Mannelli et al., 1993
+Tamias striatus	Hoplopleura erratica	UNITED STATES	Durden et al., 1997
+Tamias striatus	Hoplopleura erratica	Davidson County, Tennessee	Durden et al., 1997
+Tamias striatus	Hoplopleura erratica	Montgomery County, Tennessee	Durden et al., 1997
+Tamias striatus	Hoplopleura erratica	Tennessee	Durden et al., 1997
+Tamias striatus	Ctenophthalmus pseudagyrtes	Davidson County, Tennessee	Durden & Kollars, Jr., 1997
+Tamias striatus	Epitedia wenmanni	Davidson County, Tennessee	Durden & Kollars, Jr., 1997
+Tamias striatus	Ctenophthalmus pseudagyrtes	Tennessee	Durden & Kollars, Jr., 1997
+Tamias striatus	Epitedia wenmanni	Tennessee	Durden & Kollars, Jr., 1997
+Tamias striatus	Ixodes scapularis	Not reported	Qiu et al., 1997
+Tamias striatus	Ixodes scapularis	Van Cortlandt Park, New York City, New York	Daniels et al., 1997
+Tamias striatus	Anaplasma phagocytophilum	Minneapolis-St. Paul, Minnesota	Walls et al., 1997
+Tamias striatus	Megabothris acerbus	Dickinson County, approx. 13km east of Sagola, Michigan	Scharf & Lederle, 1998
+Tamias striatus	Ctenophthalmus pseudagyrtes	Dickinson County, approx. 13km east of Sagola, Michigan	Scharf & Lederle, 1998
+Tamias striatus	Tamiophila grandis	Dickinson County, approx. 13km east of Sagola, Michigan	Scharf & Lederle, 1998
+Tamias striatus	Borrelia burgdorferi	Dutchess County, NY	Giardina et al., 2000
+Tamias striatus	Capillaria tamiasstriati	Adrian, Armstrong County, Pennsylvania	Ehman, 2001
+Tamias striatus	Citellinema bifurcatum	Adrian, Armstrong County, Pennsylvania	Ehman, 2001
+Tamias striatus	Rictularia halli	Adrian, Armstrong County, Pennsylvania	Ehman, 2001
+Tamias striatus	Strongyloides robustus	Adrian, Armstrong County, Pennsylvania	Ehman, 2001
+Tamias striatus	Capillaria tamiasstriati	Cowansville, Armstrong County, Pennsylvania	Ehman, 2001
+Tamias striatus	Citellinema bifurcatum	Cowansville, Armstrong County, Pennsylvania	Ehman, 2001
+Tamias striatus	Rictularia halli	Cowansville, Armstrong County, Pennsylvania	Ehman, 2001
+Tamias striatus	Strongyloides robustus	Cowansville, Armstrong County, Pennsylvania	Ehman, 2001
+Tamias striatus	Taenia crassiceps	NORTH AMERICA	Brojer et al., 2002
+Tamias striatus	Borrelia burgdorferi	Not reported	Schmidt et al., 1999
+Tamias striatus	Ixodes scapularis	Not reported	Schmidt et al., 1999
+Tamias striatus	Borrelia burgdorferi	East Lyme, Connecticut	Anderson et al., 1985
+Tamias striatus	Eimeria vilasi	Wisconsin	Seville & Patrick, 2001
+Tamias striatus	Eimeria lateralis	Wisconsin	Seville & Patrick, 2001
+Tamias striatus	Eimeria vilasi	Massachusetts	Seville & Patrick, 2001
+Tamias striatus	Eimeria lateralis	Massachusetts	Seville & Patrick, 2001
+Tamias striatus	Eimeria ovata	Massachusetts	Seville & Patrick, 2001
+Tamias striatus	Eimeria tamiensis	Armstrong County, Pennsylvania	Seville & Patrick, 2001
+Tamias striatus	Eimeria lateralis	Armstrong County, Pennsylvania	Seville & Patrick, 2001
+Tamias striatus	Eimeria ovata	Armstrong County, Pennsylvania	Seville & Patrick, 2001
+Tamias striatus	Eimeria vilasi	Armstrong County, Pennsylvania	Seville & Patrick, 2001
+Tamias striatus	Eimeria lateralis	Massachusetts	Seville & Patrick, 2001
+Tamias striatus	Eimeria lateralis	Wisconsin	Seville & Patrick, 2001
+Tamias striatus	Eimeria ovata	Massachusetts	Seville & Patrick, 2001
+Tamias striatus	Eimeria vilasi	Massachusetts	Seville & Patrick, 2001
+Tamias striatus	Eimeria vilasi	Wisconsin	Seville & Patrick, 2001
+Tamias striatus	Hoplopleura erratica	NORTH AMERICA	Jameson, Jr. 1999
+Tamias striatus	Megabothris acerbus	NORTH AMERICA	Jameson, Jr. 1999
+Tamias striatus	Tamiophila grandis	NORTH AMERICA	Jameson, Jr. 1999
+Tamias striatus	Amblyomma americanum	Piney Campground, Land Between the Lakes, Tennessee	Zimmerman et al., 1988
+Tamias striatus	Dermacentor variabilis	Piney Campground, Land Between the Lakes, Tennessee	Zimmerman et al., 1988
+Tamias striatus	Orthobunyavirus sp.	Not reported	Walker & Edman, 1985
+Tamias striatus	Ochlerotatus triseriatus	Not reported	Walker & Edman, 1986
+Tamias striatus	Ixodes scapularis	Naval Weapons Station, Earle, Monmouth County, New Jersey	Schulze et al., 1986
+Tamias striatus	Amblyomma americanum	Naval Weapons Station, Earle, Monmouth County, New Jersey	Schulze et al., 1986
+Tamias striatus	Amblyomma americanum	New Jersey	Schulze et al., 1986
+Tamias striatus	Strongyloides robustus	Pennsylvania	Bartlett, 1995
+Tamias striatus	Cryptosporidium parvum	Louis Calder Center of Fordham University, Biological Field station, Westchester County in Armonk	Perz & Le Blancq, 2001
+Tamias striatus	Ixodes scapularis	Dutchess County, New York	Shaw et al., 2003
+Tamias striatus	Eimeria lateralis	NORTH AMERICA and ASIA	Wilber et al., 1998
+Tamias striatus	Eimeria ovata	Town of Boxford, Essex County, Massachusetts	Wilber et al., 1998
+Tamias striatus	Eimeria vilasi	Trout Lake, Vilas County, Wisconsin	Wilber et al., 1998
+Tamias striatus	Eimeria lateralis	Not reported	Wilber et al., 1998
+Tamias striatus	Ixodes scapularis	Not reported	Magnarelli et al., 1986
+Tamias striatus	Hantavirus sp.	Rhode Island	Husband et al., 1996
+Tamias striatus	Cediopsylla simplex	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Tamias striatus	Ctenocephalides canis	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Tamias striatus	Ctenocephalides felis	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Tamias striatus	Pulex irritans	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Tamias striatus	Chaetopsylla lotoris	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Tamias striatus	Conorhinopsylla stanfordi	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Tamias striatus	Corrodopsylla curvata	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Tamias striatus	Ctenophthalmus pseudagyrtes	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Tamias striatus	Epitedia wenmanni	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Tamias striatus	Tamiophila grandis	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Tamias striatus	Megabothris acerbus	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Tamias striatus	Megabothris asio	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Tamias striatus	Megabothris sp.	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Tamias striatus	Oropsylla bruneri 	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Tamias striatus	Orchopeas howardii	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Tamias striatus	Orchopeas leucopus	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Tamias striatus	Oropsylla arctomys	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin, 1976b
+Tamias striatus	Lyssavirus sp.	Alabama	Fishbein et al., 1986
+Tamias striatus	Ochlerotatus triseriatus	Illinois	Cully, Jr. et al., 1991a
+Tamias striatus	Megabothris acerbus	South Manitou Island, Lake Michigan	Scharf, 1991
+Tamias striatus	Megabothris acerbus	North Manitou Island, Lake Michigan	Scharf, 1991
+Tamias striatus	Megabothris acerbus	Beaver Island, Lake Michigan	Scharf, 1991
+Tamias striatus	Megabothris acerbus	Garden Island, Lake Michigan	Scharf, 1991
+Tamias striatus	Tamiophila grandis	South Manitou Island, Lake Michigan	Scharf, 1991
+Tamias striatus	Hoplopleura erratica	Shelby County, Tennessee	Durden et al., 1997
+Tamias striatus	Escherichia coli	100 km radius around Guelph, Ontario	Allen et al., 2011b
+Tamias striatus	Megabothris acerbus	Kenosha County, Wisconsin, north of Pike River, south of Country Road A	Amin & Sewell, 1977
+Tamias striatus	Babesia microti	Connecticut	Anderson et al., 1979
+Tamias striatus	La Crosse virus	Iowa	Amundson & Yuill 1981
+Tamias striatus	La Crosse virus	Iowa	Amundson & Yuill 1981
+Tamias striatus	La Crosse virus	Lafayette County, Wisconsin	Amundson & Yuill 1981
+Tamias striatus	Borrelia burgdorferi	East Haddam, Connecticut	Anderson et al., 1983
+Tamias striatus	Ixodes scapularis	East Haddam, Connecticut	Anderson et al., 1983
+Tamias striatus	La Crosse virus	Massachusetts	Armstrong & Andreadis, 2006
+Tamias striatus	La Crosse virus	Zumbra Ridge, Carver County	Balfour et al., 1976
+Tamias striatus	Cuterebra emasculator	Algonquin Park, Ontario	Bennett 1972a
+Tamias striatus	Cuterebra emasculator	Algonquin Park, Ontario	Bennett 1973
+Tamias striatus	La Crosse virus	Gambier, Knox County, Ohio	Berry et al 1975
+Tamias striatus	Flavivirus sp.	Western, central and eastern Iowa	Blitvich et al 2009
+Tamias striatus	Borrelia burgdorferi	Regions of Quebec	Bouchard et al 2011
+Tamias striatus	Ixodes scapularis	Regions of Quebec	Bouchard et al 2011
+Tamias striatus	Ixodes scapularis	Institute of Ecosystem Studies in Millbrook, New York	Brisson&Dykhuizen 2004
+Tamias striatus	Borrelia burgdorferi	Institute of Ecosystem Studies in Millbrook, New York	Brisson&Dykhuizen 2004
+Tamias striatus	Borrelia burgdorferi	Not reported	Brunner et al 2008
+Tamias striatus	Ixodes scapularis	Institute of Ecosystem Studies in Millbrook, New York	Brunner&OStfeld 2008
+Tamias striatus	Dermacentor variabilis	Birds Hill Provincial Park	Burachynsky&Galloway 1985
+Tamias striatus	Dermacentor variabilis	Birds Hill Provincial Park	Burachynsky&Galloway 1985
+Tamias striatus	Dermacentor andersoni	Birds Hill Provincial Park	Burachynsky&Galloway 1985
+Tamias striatus	Rickettsia rickettsii	Piney Campground, Land Between the Lakes, Tennessee	Burgdorfer et al 1974
+Tamias striatus	Francisella tularensis	Piney Campground, Land Between the Lakes, Tennessee	Burgdorfer et al 1974
+Tamias striatus	Rickettsia typhi	Piney Campground, Land Between the Lakes, Tennessee	Burgdorfer et al 1974
+Tamias striatus	Rickettsia prowazekii	Piney Campground, Land Between the Lakes, Tennessee	Burgdorfer et al 1974
+Tamias striatus	Rickettsia canadensis	Piney Campground, Land Between the Lakes, Tennessee	Burgdorfer et al 1974
+Tamias striatus	Dermacentor variabilis	Southwestern Nova Scotia	Campbell & MacKay 1979
+Tamias striatus	Cuterebra emasculator	Sutton Mountains, Quebec	Careau et al 2012
+Tamias striatus	Cuterebra emasculator	Sutton Mountains, Quebec	Careau et al 2010
+Tamias striatus	Cuterebra emasculator	Sutton Mountains, Quebec	Careau et al 2010
+Tamias striatus	Cuterebra emasculator	Sutton Mountains, Quebec	Careau et al 2010
+Tamias striatus	Cuterebra emasculator	Sutton Mountains, Quebec	Careau et al 2010
+Tamias striatus	Cuterebra emasculator	Sutton Mountains, Quebec	Careau et al 2010
+Tamias striatus	Ctenophthalmus pseudagyrtes	Tishomingo State Park, Tishomingo County, Missippi	Clark&Durden 2002
+Tamias striatus	Androlaelaps fahrenholzi	Tishomingo State Park, Tishomingo County, Missippi	Clark&Durden 2002
+Tamias striatus	Dermacentor variabilis	Tishomingo State Park, Tishomingo County, Missippi	Clark&Durden 2002
+Tamias striatus	Amblyomma maculatum	Tishomingo State Park, Tishomingo County, Missippi	Clark&Durden 2002
+Tamias striatus	Cuterebra fontinella	Tishomingo State Park, Tishomingo County, Missippi	Clark&Durden 2002
+Tamias striatus	Ixodes scapularis	Tishomingo State Park, Tishomingo County, Missippi	Clark&Durden 2002
+Tamias striatus	Hoplopleura erratica	Wayne County, West Virginia	Dansby & Shoemaker 1971
+Tamias townsendii	Eimeria beecheyi	NORTH AMERICA and KASACHSTAN	Wilber et al., 1998
+Tamias townsendii	Eimeria vilasi	NORTH AMERICA	Wilber et al., 1998
+Tamias umbrinus	Coltivirus sp.	Rocky Mountain National Park, Colorado	McLean et al., 1989
+Tamias umbrinus	Anaplasma phagocytophilum	Glen Haven	DeNatale et al., 2002
+Tamias umbrinus	Borrelia bissettii	Glen Haven	DeNatale et al., 2002
+Tamias umbrinus	Cuterebra fontinella	Roosevelt National Forest	Bergstrom 1992
+Tamiasciurus douglasii	Haemogamasus reidi	Oregon	Whitaker, Jr. & Maser, 1985
+Tamiasciurus douglasii	Eulaelaps stabularis	Oregon	Whitaker, Jr. & Maser, 1985
+Tamiasciurus douglasii	Euryparasitus sp.	Oregon	Whitaker, Jr. & Maser, 1985
+Tamiasciurus douglasii	Dermacarus tamiasciuri	Oregon	Whitaker, Jr. & Maser, 1985
+Tamiasciurus douglasii	Glycyphagus hypudaei	Oregon	Whitaker, Jr. & Maser, 1985
+Tamiasciurus douglasii	Eulaelaps stabularis	Oregon	Whitaker, Jr. & Maser, 1985
+Tamiasciurus douglasii	Haemogamasus reidi	Oregon	Whitaker, Jr. & Maser, 1985
+Tamiasciurus douglasii	Borrelia hermsii	Eagle Lake, California	Cleary&Theis 1999
+Tamiasciurus douglasii	Borrelia hermsii	Eagle Lake, California	Cleary&Theis 1999
+Tamiasciurus douglasii	Borrelia hermsii	Eagle Lake, California	Cleary&Theis 1999
+Tamiasciurus douglasii	Borrelia hermsii	Eagle Lake, California	Cleary&Theis 1999
+Tamiasciurus douglasii	Hantavirus sp.	Mammoth Lakes, California	Turell et al., 1995
+Tamiasciurus douglasii	Orchopeas nepos	CANADA	Eads et al., 1985
+Tamiasciurus douglasii	Orchopeas nepos	Washington	Eads et al., 1985
+Tamiasciurus douglasii	Orchopeas nepos	Sierra Nevada of California	Eads et al., 1985
+Tamiasciurus douglasii	Orchopeas nepos	Oregon	Eads et al., 1985
+Tamiasciurus hudsonicus	Ctenophthalmus pseudagyrtes	19km outside Sherbrooke, Quebec	Robert & Bergeron, 1977
+Tamiasciurus hudsonicus	Ceratophyllus vison	19km outside Sherbrooke, Quebec	Robert & Bergeron, 1977
+Tamiasciurus hudsonicus	Opisodasys pseudarctomys	19km outside Sherbrooke, Quebec	Robert & Bergeron, 1977
+Tamiasciurus hudsonicus	Orchopeas caedens	19km outside Sherbrooke, Quebec	Robert & Bergeron, 1977
+Tamiasciurus hudsonicus	Orchopeas caedens	19km outside Sherbrooke, Quebec	Robert & Bergeron, 1977
+Tamiasciurus hudsonicus	Ceratophyllus vison	Big Lake, Alaska	Haas et al., 1982
+Tamiasciurus hudsonicus	Ceratophyllus vison	4,8km south of Delta Junction, Alaska	Haas et al., 1982
+Tamiasciurus hudsonicus	Ceratophyllus vison	29km east of Bear Cove, Homer, Kenai Peninsula, Alaska	Haas et al., 1982
+Tamiasciurus hudsonicus	Orchopeas caedens	4,8km south of Delta Junction, Alaska	Haas et al., 1982
+Tamiasciurus hudsonicus	Orchopeas caedens	29km east of Bear Cove, Homer, Kenai Peninsula, Alaska	Haas et al., 1982
+Tamiasciurus hudsonicus	Flavivirus sp.	Fort McMurray, Alberta	Zarnke & Yuill, 1985
+Tamiasciurus hudsonicus	Staphylococcus sciuri	Saint Mary's College, Saint Joseph County, Indiana	Billings & Eberly, 1986
+Tamiasciurus hudsonicus	Staphylococcus xylosus	Saint Mary's College, Saint Joseph County, Indiana	Billings & Eberly, 1986
+Tamiasciurus hudsonicus	Staphylococcus cohnii	Saint Mary's College, Saint Joseph County, Indiana	Billings & Eberly, 1986
+Tamiasciurus hudsonicus	Staphylococcus lentus	Saint Mary's College, Saint Joseph County, Indiana	Billings & Eberly, 1986
+Tamiasciurus hudsonicus	Staphylococcus saprophyticus	Saint Mary's College, Saint Joseph County, Indiana	Billings & Eberly, 1986
+Tamiasciurus hudsonicus	Micrococcus luteus	Saint Mary's College, Saint Joseph County, Indiana	Billings & Eberly, 1986
+Tamiasciurus hudsonicus	Kocuria varians	Saint Mary's College, Saint Joseph County, Indiana	Billings & Eberly, 1986
+Tamiasciurus hudsonicus	Micrococcus lylae	Saint Mary's College, Saint Joseph County, Indiana	Billings & Eberly, 1986
+Tamiasciurus hudsonicus	Kocuria kristinae	Saint Mary's College, Saint Joseph County, Indiana	Billings & Eberly, 1986
+Tamiasciurus hudsonicus	Kytococcus sedentarius	Saint Mary's College, Saint Joseph County, Indiana	Billings & Eberly, 1986
+Tamiasciurus hudsonicus	Eimeria tamiasciuri	Apache County, Arizona	Hill & Duszynski, 1986
+Tamiasciurus hudsonicus	Eimeria toddi	Apache County, Arizona	Hill & Duszynski, 1986
+Tamiasciurus hudsonicus	Eimeria tamiasciuri	Wisconsin	Hill & Duszynski, 1986
+Tamiasciurus hudsonicus	Eimeria toddi	Wisconsin	Hill & Duszynski, 1986
+Tamiasciurus hudsonicus	Ixodes scapularis	Wisconsin	Godsey, Jr. et al., 1987
+Tamiasciurus hudsonicus	Orchopeas howardii	Ohio	Rockett & Johnston, 1988
+Tamiasciurus hudsonicus	Hystrichopsylla dippiei	Itasca County, Minnesota	Scharf, 1991
+Tamiasciurus hudsonicus	Strongyloides robustus	UNITED STATES	Patrick, 1991a
+Tamiasciurus hudsonicus	Strongyloides robustus	Garrett County, Maryland	Patrick, 1991a
+Tamiasciurus hudsonicus	Strongyloides robustus	Saskatchewan	Patrick, 1991a
+Tamiasciurus hudsonicus	Strongyloides robustus	Indiana County, Pennsylvania	Patrick, 1991a
+Tamiasciurus hudsonicus	Hoplopleura sciuricola	Great Smoky Mountains National Park, Tennessee	Durden et al., 1997
+Tamiasciurus hudsonicus	Neohaematopinus semifasciatus	Sevier County, Tennessee	Durden et al., 1997
+Tamiasciurus hudsonicus	Hoplopleura sciuricola	Tennessee	Durden et al., 1997
+Tamiasciurus hudsonicus	Neohaematopinus semifasciatus	Tennessee	Durden et al., 1997
+Tamiasciurus hudsonicus	Epitedia faceta	Carter County, Tennessee	Durden & Kollars, Jr., 1997
+Tamiasciurus hudsonicus	Ceratophyllus vison	Robertson County, Tennessee	Durden & Kollars, Jr., 1997
+Tamiasciurus hudsonicus	Epitedia faceta	Tennessee	Durden & Kollars, Jr., 1997
+Tamiasciurus hudsonicus	Ceratophyllus vison	Tennessee	Durden & Kollars, Jr., 1997
+Tamiasciurus hudsonicus	Ctenophthalmus pseudagyrtes	Iron County, 6km northwest of Channing, Michigan	Scharf & Lederle, 1998
+Tamiasciurus hudsonicus	Epitedia wenmanni	Dickinson County, approx. 13km east of Sagola, Michigan	Scharf & Lederle, 1998
+Tamiasciurus hudsonicus	Warrenius quadrivittati	New Mexico, Catron Co + Rio Arriba Co + Sandoval Co + San Juan + Taos Co	Patrick & Wilson, 1995
+Tamiasciurus hudsonicus	Enterobius sciuri	New Mexico	Patrick & Wilson, 1995
+Tamiasciurus hudsonicus	Hymenolepis sp.	New Mexico, Sandoval Co + Taos Co	Patrick & Wilson, 1995
+Tamiasciurus hudsonicus	Eimeria tamiasciuri	New Mexico, Catron Co + Rio Arriba Co + Sandoval Co + San Juan 	Patrick & Wilson, 1995
+Tamiasciurus hudsonicus	Ceratophyllus vison	New Mexico, Catron Co + Taos Co	Patrick & Wilson, 1995
+Tamiasciurus hudsonicus	Eumolpianus eumolpi	New Mexico	Patrick & Wilson, 1995
+Tamiasciurus hudsonicus	Opisodasys robustus	New Mexico, Catron Co + Taos Co	Patrick & Wilson, 1995
+Tamiasciurus hudsonicus	Orchopeas caedens	New Mexico, Catron Co	Patrick & Wilson, 1995
+Tamiasciurus hudsonicus	Orchopeas leucopus	New Mexico, Sandoval Co	Patrick & Wilson, 1995
+Tamiasciurus hudsonicus	Orchopeas neotomae	New Mexico, Sandoval Co	Patrick & Wilson, 1995
+Tamiasciurus hudsonicus	Oropsylla idahoensis	New Mexico, Catron Co	Patrick & Wilson, 1995
+Tamiasciurus hudsonicus	Eimeria tamiasciuri	Arizona	Patrick & Wilson, 1995
+Tamiasciurus hudsonicus	Eimeria tamiasciuri	Wisconsin	Patrick & Wilson, 1995
+Tamiasciurus hudsonicus	Eimeria tamiasciuri	Ontario	Patrick & Wilson, 1995
+Tamiasciurus hudsonicus	Eimeria tamiasciuri	Arizona	Patrick & Wilson, 1995
+Tamiasciurus hudsonicus	Strongyloides robustus	NORTH AMERICA	Bartlett, 1995
+Tamiasciurus hudsonicus	Strongyloides robustus	Cape Breton Island, Nova Scotia	Bartlett, 1995
+Tamiasciurus hudsonicus	Strongyloides robustus	Michigan	Bartlett, 1995
+Tamiasciurus hudsonicus	Strongyloides robustus	Saskatchewan	Bartlett, 1995
+Tamiasciurus hudsonicus	Eimeria tamiasciuri	Northern rim of the Grand Canyon, near entrance to Grand Canyon National Park	Wilber et al., 1998
+Tamiasciurus hudsonicus	Eimeria tamiasciuri	Alberta	Patrick & Wilson, 1995
+Tamiasciurus hudsonicus	Strongyloides robustus	Wisconsin	Bartlett, 1995
+Tamiasciurus hudsonicus	Strongyloides robustus	Maryland	Bartlett, 1995
+Tamiasciurus hudsonicus	Strongyloides robustus	Connecticut	Bartlett, 1995
+Tamiasciurus hudsonicus	Strongyloides robustus	Pennsylvania	Bartlett, 1995
+Tamiasciurus hudsonicus	Hystrichopsylla dippiei	St. Louis County, Minnesota	Scharf, 1991
+Tamiasciurus hudsonicus	Neohaematopinus semifasciatus	Great Smoky Mountains National Park, Tennessee	Durden et al., 1997
+Tamiasciurus hudsonicus	Ceratophyllus vison	Sevier County, Tennessee	Durden et al., 1997
+Tamiasciurus hudsonicus	Ceratophyllus vison	Great Smoky Mountains National Park, Tennessee	Durden et al., 1997
+Tamiasciurus hudsonicus	Ixodes scapularis	East Haddam, Connecticut	Anderson et al., 1983
+Tamiasciurus hudsonicus	Borrelia burgdorferi	East Haddam, Connecticut	Anderson et al., 1983
+Tamiasciurus hudsonicus	La Crosse virus	Zumbra Ridge, Carver County	Balfour et al., 1976
+Tamiasciurus hudsonicus	Squirrel fibroma virus	Elkhart County, Indiana, near urban areas	Bangari et al., 2009
+Tamiasciurus hudsonicus	Toxoplasma gondii	Elkhart County, Indiana, near urban areas	Bangari et al., 2007 
+Tamiasciurus hudsonicus	Rhadinopsylla media	Itasca County, Minnesota	Benton&Timm 1977	 
+Tamiasciurus hudsonicus	Rhadinopsylla media	Isle Royale, Michigan	Benton&Timm 1977	 
+Tamiasciurus hudsonicus	Ixodes scapularis	Regions of Quebec	Bouchard et al 2011
+Tamiasciurus hudsonicus	Borrelia burgdorferi	Regions of Quebec	Bouchard et al 2011
+Tamiasciurus hudsonicus	Colorado tick fever	Rocky Mountain National Park, Colorado	Bowen et al 1981
+Tamiasciurus hudsonicus	Colorado tick fever	Not reported	Bowen et al 1981
+Tamiasciurus hudsonicus	Borrelia burgdorferi	Not reported	Brunner et al 2008
+Tamiasciurus hudsonicus	Dermacentor andersoni	Birds Hill Provincial Park	Burachynsky&Galloway 1985
+Tamiasciurus hudsonicus	Dermacentor andersoni	Birds Hill Provincial Park	Burachynsky&Galloway 1985
+Tamiasciurus hudsonicus	Colorado tick fever	Bitterroot Valley near Hamilton, Montana	Burgdorfer & Eklund 1960
+Tamiasciurus hudsonicus	Colorado tick fever	Bitterroot Valley near Hamilton, Montana	Burgdorfer & Eklund 1960
+Tamiasciurus hudsonicus	Ochlerotatus triseriatus	Iowa County, Wisconsin	Burkot & Defoliart 1982
+Tamiasciurus hudsonicus	Ixodes spinipalpis	Rocky Mountain National Park, Colorado	Carey et al 1980
+Tamiasciurus mearnsi	Eimeria tamiasciuri	Baja California Norte	Hill & Duszynski, 1986
+Tamiasciurus mearnsi	Eimeria tamiasciuri	NORTH AMERICA	Wilber et al., 1998
+Tamiasciurus sp.	Ceratophyllus ciliatus
+
+	NORTH AMERICA	Jameson, Jr. 1999
+Tamiasciurus sp.	Hoplopleura sciuricola	UNITED STATES	Durden et al., 1997
+Tamiasciurus sp.	Neohaematopinus semifasciatus	UNITED STATES	Durden et al., 1997
+Xerus rutilus	Leishmania aethiopica	Galga, Aba Roba, some 615km south of Addis Ababa	Abebe et al., 1990
