@@ -17,8 +17,9 @@ ds <- read.delim("squirrel.data.txt", header = TRUE)
 american.species <- read.delim("SquirrelsofAmerica.txt", header = FALSE)
 mammal.tree <- read.nexus("mammalST_MSW05_best_chrono.tre")
 LHdata <- read.delim("SquirrelLifeHistory.txt", header = TRUE)
-sampling.effort <- read.delim("squirrel.sampling.txt", header = TRUE)
+sampling.effort <- read.delim("SquirrelSamplingEffort.txt", header = TRUE)
 
+#FULL DATASET
 #Identify variables
 host <- column.ID(ds, "HostCorrectedName")
 parasite <- column.ID(ds, "ParasiteCorrectedName")
@@ -45,9 +46,10 @@ ds <- remove.incomplete.data(ds, c(host,parasite,type,
 
 #Match tree and data
 ds <- replace.spaces(ds, host)
-ds <- remove.missing.species.tree(mammal.tree, ds, host)
-squirrel.tree <- remove.missing.species.data(mammal.tree, ds, host)
+ds <- remove.missing.species.data(mammal.tree, ds, host)
+squirrel.tree <- remove.missing.species.tree(mammal.tree, ds, host)
 
+#PSR DATA
 #Estimate PSR for all species, parasite types, and transmission modes
 #Then merge to make a dataset with all PSR results
 psr.data <- unique.pairs(ds, parasite, host)
@@ -68,12 +70,17 @@ PSR.complete <- Reduce(function(...) merge(..., by="host", all=TRUE),
 	                   list.of.PSR.results)
 PSR.complete[is.na(PSR.complete)]<-0
 
-#Estimate sampling effort for each host species
+#SAMPLING EFFORT DATA
+#Identify variables
 hostname <- column.ID(sampling.effort, "HostCorrectedName")
-samples <- sampling.occ(sampling.effort, hostname)
 
+#Estimate sampling effort for each host species
+samples <- sampling.occ(sampling.effort, hostname)
+samples <- replace.spaces(samples, hostname)
+
+#COMBINE DATASETS
 #Merge the datasets together
-squirrel.data <- merge(PSR.complete, samples, by="host", all=TRUE) 
+squirrel.data <- merge(PSR.complete, samples, by="host", all.x=TRUE) 
 
 squirrel.data <- merge(squirrel.data, LHdata, by.x="host", 
 	                   by.y="MSW05_Binomial" all.x=TRUE) 
