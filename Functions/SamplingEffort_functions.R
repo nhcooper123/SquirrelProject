@@ -1,4 +1,4 @@
-#Sampling effort for parasite analyses
+# Sampling effort for parasite analyses
 
 sampling.occ <- function(data, host.col) {
   data$ID <- 1:nrow(data)
