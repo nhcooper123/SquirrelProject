@@ -8,7 +8,6 @@ require(caper)
 source("PSR_functions.R")
 source("Useful_functions.R")
 source("SamplingEffort_functions.R")
-set.seed(1)
 
 # Read in datasets (will need to setwd or similar)
 
@@ -54,12 +53,12 @@ squirrel.tree <- remove.missing.species.tree(mammal.tree, ds, host)
 psr.data <- unique.pairs(ds, parasite, host)
 PSR <- psr(psr.data, parasite, host)
 PSR.type <- psr(psr.data, parasite, host, type)
-PSR.vector <- psr(ds, parasite, host, vector, binary = TRUE)
-PSR.vertical <- psr(ds, parasite, host, vertical, binary = TRUE)
-PSR.intermediate <- psr(ds, parasite, host, intermediate, binary = TRUE)
-PSR.close <- psr(ds, parasite, host, close, binary = TRUE)
-PSR.nonclose <- psr(ds, parasite, host, nonclose, binary = TRUE)
-PSR.sexual <- psr(ds, parasite, host, sexual, binary = TRUE)
+PSR.vector <- psr(psr.data, parasite, host, vector, binary = TRUE)
+PSR.vertical <- psr(psr.data, parasite, host, vertical, binary = TRUE)
+PSR.intermediate <- psr(psr.data, parasite, host, intermediate, binary = TRUE)
+PSR.close <- psr(psr.data, parasite, host, close, binary = TRUE)
+PSR.nonclose <- psr(psr.data, parasite, host, nonclose, binary = TRUE)
+PSR.sexual <- psr(psr.data, parasite, host, sexual, binary = TRUE)
 
 list.of.PSR.results <- list(PSR, PSR.type, PSR.vector, PSR.vertical,
 							PSR.intermediate, PSR.sexual, PSR.close,
