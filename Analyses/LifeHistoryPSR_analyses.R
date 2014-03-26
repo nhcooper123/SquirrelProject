@@ -15,7 +15,7 @@ set.seed(1)
 ds <- read.delim("squirrel.data.txt", header = TRUE)
 american.species <- read.delim("SquirrelsofAmerica.txt", header = FALSE)
 mammal.tree <- read.nexus("mammalST_MSW05_best_chrono.tre")
-LHdata <- read.delim("SquirrelLifeHistory.txt", header = TRUE)
+LHdata <- read.delim("SquirrelLifeHistoryData.txt", header = TRUE)
 sampling.effort <- read.delim("SquirrelSamplingEffort.txt", header = TRUE)
 
 # 1: FULL DATASET cleaning
@@ -77,35 +77,47 @@ hostname <- column.ID(sampling.effort, "HostCorrectedName")
 samples <- sampling.occ(sampling.effort, hostname)
 samples <- replace.spaces(samples, hostname)
 
-# 4: COMBINE DATASETS
+# 4: Life History data
+# Identify variables and replace spaces in species names
+speciesname <- column.ID(LHdata, "MSW05_Binomial")
+LHdata <- replace.spaces(LHdata, speciesname)
+
+# 5: COMBINE DATASETS
 # Merge the datasets together
 squirrel.data <- merge(PSR.complete, samples, by = "host", all.x = TRUE) 
 
 squirrel.data <- merge(squirrel.data, LHdata, by.x = "host", 
-	                   by.y = "MSW05_Binomial" all.x = TRUE) 
+	                   by.y = "MSW05_Binomial", all.x = TRUE) 
 
 # 5: And finally...make comparative data object for PGLS
 
 squirrel <- comparative.data(phy = squirrel.tree, data = squirrel.data, 
-	                         names.col = squirrel.data[[host]])
+	                        names.col = host, na.omit = FALSE)
 
 #-------------------------------------------------------------------
 # PGLS analyses
 #-------------------------------------------------------------------
 # Example: Total parasite species richness and body size
-# With sampling occassions to control for sampling effort
+# With sampling occasions to control for sampling effort
 
-model1 <- pgls(log(PSR) ~ log(BodyMass_g) + log(sampling.occ), 
+model1 <- pgls(log(PSR) ~ log(AdultBodyMass_g) + log(sampling.occasions), 
 	           data = squirrel, lambda = 'ML')
 summary(model1)
 plot(model1)
 
-plot(log(PSR) ~ log(BodyMass_g), data = squirrel)
+plot(log(PSR) ~ log(AdultBodyMass_g), data = squirrel$data)
 
 # Example: Helminth parasite species richness and body size
-# With sampling occassions to control for sampling effort
+# With sampling occasions to control for sampling effort
+# Note that PSRHelminth can = 0 so we add 0.1 to log it
 
-model2 <- pgls(log(PSRhelminth) ~ log(BodyMass_g) + log(sampling.occ), 
+model2 <- pgls(log(PSRHelminth + 0.1) ~ log(AdultBodyMass_g) + log(sampling.occasions), 
 	           data = squirrel, lambda = 'ML')
 summary(model2)
-plot(model2)
+
+# Example: Total parasite species richness and coloniality
+# With sampling occasions to control for sampling effort
+
+model3 <- pgls(log(PSR) ~ Colonial + log(sampling.occasions), 
+	           data = squirrel, lambda = 'ML')
+summary(model3)
