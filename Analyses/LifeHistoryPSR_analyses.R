@@ -15,6 +15,7 @@ ds <- read.delim("squirrel.data.txt", header = TRUE)
 american.species <- read.delim("SquirrelsofAmerica.txt", header = FALSE)
 mammal.tree <- read.nexus("mammalST_MSW05_best_chrono.tre")
 LHdata <- read.delim("SquirrelLifeHistoryData.txt", header = TRUE)
+GRdata <- read.delim("SquirrelGeoRangeData.txt", header = TRUE)
 sampling.effort <- read.delim("SquirrelSamplingEffort.txt", header = TRUE)
 
 # 1: FULL DATASET cleaning
@@ -81,14 +82,22 @@ samples <- replace.spaces(samples, hostname)
 speciesname <- column.ID(LHdata, "MSW05_Binomial")
 LHdata <- replace.spaces(LHdata, speciesname)
 
-# 5: COMBINE DATASETS
+# 5: Geographic range data
+# Identify variables and replace spaces in species names
+speciesname <- column.ID(GRdata, "MSW05_Binomial")
+GRdata <- replace.spaces(GRdata, speciesname)
+
+# 6: COMBINE DATASETS
 # Merge the datasets together
 squirrel.data <- merge(PSR.complete, samples, by = "host", all.x = TRUE) 
 
 squirrel.data <- merge(squirrel.data, LHdata, by.x = "host", 
 	                   by.y = "MSW05_Binomial", all.x = TRUE) 
 
-# 5: And finally...make comparative data object for PGLS
+squirrel.data <- merge(squirrel.data, GRdata, by.x = "host", 
+	                   by.y = "MSW05_Binomial", all.x = TRUE)
+
+# 7: And finally...make comparative data object for PGLS
 
 squirrel <- comparative.data(phy = squirrel.tree, data = squirrel.data, 
 	                        names.col = host, na.omit = FALSE)
